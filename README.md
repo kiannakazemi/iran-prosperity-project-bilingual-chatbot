@@ -73,7 +73,8 @@ This wasn't a compromise: in testing, the cheaper Gemini model outperformed the 
 ## Demo
 
 
-https://github.com/user-attachments/assets/8060bf1e-a2f7-4bc0-962a-3c378f4d6828
+https://github.com/user-attachments/assets/64c49199-3078-42b3-8c5b-e8efa4092eaa
+
 
 
 ## Accuracy
