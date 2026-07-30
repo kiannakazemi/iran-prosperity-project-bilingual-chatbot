@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00333
+chunk_index: 333
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /MONITORING AND EVALUATION/Review Process:/
+page_start: 114
+page_end: 114
+summary: This chunk contains a review process description.
+--- text (499 chars) ---
+[Summary: This chunk contains a review process description.]
+
+[Topic: NATIONAL ASSETS]
+
+## **Review Process:**
+
+- The Asset Recovery Task Force command will hold daily operational briefings for the first 14 days.
+- A weekly progress report will be submitted to the leadership of the transitional authority.
+- A monthly public report will be issued via the official website to maintain transparency and public support, outlining the total value of assets secured and the progress of recovery efforts.

@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00303
+chunk_index: 303
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /CORPORATE HOLDINGS/Major Domestic Companies/
+page_start: 107
+page_end: 107
+summary: This chunk contains asset category descriptions.
+--- text (738 chars) ---
+[Summary: This chunk contains asset category descriptions.]
+
+[Topic: NATIONAL ASSETS]
+
+# CORPORATE HOLDINGS
+
+### **Major Domestic Companies**
+
+- Names and Sectors: Bonyads and Setads control almost every sector of the Iranian economy, including finance, construction, pharmaceutical production, and telecommunications. Among these companies are Sina Bank (Mostazafan Foundation), Tadbir Group (Executive Headquarters), and Sadra Iran Marine Industrial Company (Khatam-e-Anbia).
+- Layers of Ownership: Ownership is intentionally hidden through complex, multi-layered holding structures, where a parent foundation owns a holding company that in turn owns a series of subsidiaries, making it difficult to trace ultimate beneficial ownership.

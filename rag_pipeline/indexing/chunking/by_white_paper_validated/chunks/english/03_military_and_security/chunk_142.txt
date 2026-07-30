@@ -1,0 +1,33 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00142
+chunk_index: 142
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /OPERATIONAL IMPLEMENTATION COMPANION TO IRAN'S TRANSITIONAL MILITARY REFORM PLAN/Phase A/B2: Days 11 to 40 | Vetting, Disarmament, Neutralization/Strategic Focus/
+page_start: 55
+page_end: 56
+summary: This chunk contains a phase description and an action plan.
+--- text (1228 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+# **Phase A/B2: Days 11 to 40 | Vetting, Disarmament, Neutralization**
+
+# **Strategic Focus**
+
+- Begin the dismantling of regime structures.
+- Establish judicial and intelligence control.
+- Counterintelligence.
+
+### **Key Actions**
+
+- **Three-Tier Vetting Protocol (Category A/B/C):** Personnel classified for retention, retraining, or prosecution.
+- **Transitional Intelligence Tribunal Command (TITC):** Establishing a coordinated mechanism for handling personnel implicated in criminal conduct, including cooperation in the detention of human rights violators and perpetrators of major financial crimes.
+- **Controlled Amnesty Framework:** Disarm the regime's militant groups, provide de-radicalization programs, and monitor.
+- **Basij and Herasat Dismantlement Program:** Close down university-based and mosque-linked surveillance networks.
+- **Counterintelligence Surge Teams (CST):** Sweep ministries, telecom firms, and military units.
+- **Aerospace and Naval Transfer:** Retain drone stockpiles, IRGC aircraft, mines, and radar.
+- **Joint Airspace Monitoring Protocol**: Coordinate early warning systems with allies.

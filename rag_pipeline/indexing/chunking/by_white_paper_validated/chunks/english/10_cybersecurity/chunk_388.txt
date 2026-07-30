@@ -1,0 +1,18 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00388
+chunk_index: 388
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /CYBERSECURITY: Protecting Critical Infrastructure and Telecommunications Systems/
+page_start: 135
+page_end: 135
+split_part: 2/2
+summary: This chunk contains an introductory overview.
+--- text (610 chars) ---
+[Summary: This chunk contains an introductory overview.]
+
+[Topic: CYBERSECURITY]
+
+coordination mechanisms to ensure operational continuity while strengthening cybersecurity posture. This stabilization effort creates the secure foundation required for long-term modernization of industrial control systems, telecommunications infrastructure, and national cyber governance frameworks aligned with international best practices. By integrating cybersecurity into the core design and operation of critical infrastructure, the strategy supports resilience, economic recovery, and sustainable digital transformation.*

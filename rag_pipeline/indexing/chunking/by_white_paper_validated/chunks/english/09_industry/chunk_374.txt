@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00374
+chunk_index: 374
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /Phase 4: Institutional Activation (Days 101 to 130)/
+page_start: 129
+page_end: 130
+summary: This chunk contains a phase description and an action plan.
+--- text (1437 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: INDUSTRY]
+
+# **Phase 4: Institutional Activation (Days 101 to 130)**
+
+- **Launch the Transitional Ministry of Industry, Trade, and Production:** Merge regime-era ministries of Industry, Mine and Trade, Bonyads, and key holding companies into a single interim structure focused on industrial stabilization, legal reform, and reactivation.
+- **Initiate National Industrial Re-Registration:** Place all public, private, and semi-public (IRGC-linked) firms under transitional legal protection. Begin asset verification and provisional licensing under the Emergency Privatization Transition Board.
+- **Expand Tier 2 Activation:** Reopen cement, copper, urea fertilizer, auto parts, and ICT assembly clusters based on audit status and energy availability. Prioritize job preservation and key inputs for broader recovery.
+- **Sanctioned Industries:** For sanction industries, such as petrochemicals and defense-linked manufacturing, a phased reopening strategy should be adopted: maintaining essential domestic supply while deferring export-focused expansion until international frameworks permit, thereby preventing idle assets and layoffs.
+
+● **Activate National Strategic Industries Taskforce:** Convene vetted local and diaspora experts to define reindustrialization pathways for priority sectors including automotive, petrochemicals, mining, defense, and ICT.

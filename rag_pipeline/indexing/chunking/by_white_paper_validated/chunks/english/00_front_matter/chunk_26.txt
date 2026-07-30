@@ -1,0 +1,55 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00026
+chunk_index: 26
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /DIRECTOR/
+page_start: 11
+page_end: 11
+summary: This chunk contains a contributors list.
+--- text (401 chars) ---
+[Summary: This chunk contains a contributors list.]
+
+# DIRECTOR
+
+SAEED GHASSEMINEJAD
+
+# AUTHORS
+
+PAYAM ALIPOUR
+
+MOSTAFA BABAYAN
+
+LEYLA BAHMANY
+
+NEJAT BAHRAMI
+
+MEHDI BEYHAGHI
+
+SAEED GHASSEMINEJAD
+
+SHIRIN GOLI
+
+MOHAMMAD JAHAN-PARVAR
+
+SIAMAK JAVADI
+
+MEHDI KETABCHY
+
+CAMERON KHANSARINIA
+
+NAVID MOHEBBI
+
+POURIA MOJABI
+
+BORGHAN NARAJABAD
+
+MOHAMMAD NAYEB YAZDI
+
+AIDIN PANAHI
+
+SHABNAM PANAHI
+
+HOSSEIN POURMAND

@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00292
+chunk_index: 292
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /ACTIONS/Foundational Action: Identification and Description of Assets/
+page_start: 103
+page_end: 104
+split_part: 5/8
+summary: This chunk contains a structural table.
+--- text (2880 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+| Asset Type                  | Primary Holders                                                                                                | Brokers / Intermediaries                                                                | Potential Abuses                                                                                                                                                                                    | Countermeasures (Stop / Detect / Reverse)                                                                                                                                                                                                       |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+exports in customs. **Reverse:** Coordinate with foreign customs agencies to recover smuggled assets.                           |
+| Cryptocurrency              | IRGC cyber units, Setad-linked tech companies, covert mining operations                                        | Mining farms, crypto wallet managers, foreign exchanges                                 | – Laundering funds through anonymous wallets. – Rapid cross-border transfer of wealth outside regulated banking systems. – Use of privacy coins to evade detection                                  | **Stop:** Shut down domestic mining farms and block suspicious exchanges. **Detect:** Use blockchain analytics to trace suspicious wallet activity. **Reverse:** Work with international crypto compliance networks to freeze assets.           |
+
+| Bearer Bonds & Certificates | Ministry of Economy, Setad subsidiaries                                                                        | Overseas shell companies, offshore brokers                                              | – Secret sale of bearer bonds to foreign buyers before transition. – Depositing wealth via unregistered certificates.                                                                               | **Stop:** Recall and legally void unregistered bearer instruments. **Detect:** Cross-check foreign exchange transactions with overseas regulators. **Reverse:** Pursue arbitration to nullify fraudulent bond sales. 

@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00217
+chunk_index: 217
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /PROPOSAL: SPECIAL ENVOY FOR THE IRANIAN DIASPORA/
+page_start: 76
+page_end: 76
+split_part: 2/2
+summary: This chunk contains a proposal.
+--- text (406 chars) ---
+[Summary: This chunk contains a proposal.]
+
+[Topic: FOREIGN POLICY]
+
+networks to expand access to humanitarian relief, medical assistance, and educational opportunities.
+- **Public Diplomacy and Cultural Exchange:** Promote cultural, academic, and scientific exchanges that reflect the aspirations of the Iranian people and strengthen Iran's global image as a country committed to openness and cooperation.

@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00387
+chunk_index: 387
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /CYBERSECURITY: Protecting Critical Infrastructure and Telecommunications Systems/
+page_start: 135
+page_end: 135
+split_part: 1/2
+summary: This chunk contains a white paper title and an introductory overview.
+--- text (1523 chars) ---
+[Summary: This chunk contains a white paper title and an introductory overview.]
+
+[Topic: CYBERSECURITY]
+
+# CYBERSECURITY: Protecting Critical Infrastructure and Telecommunications Systems
+
+*February 2026*
+
+*This report presents a national strategy for stabilizing and securing critical cyber and industrial infrastructure during a period of national transition. It addresses the protection of operational technology (OT) systems, including industrial control systems in energy, water, transport, and manufacturing, alongside telecommunications networks and core digital infrastructure that support national connectivity and information exchange. Legacy SCADA-centric industrial environments and centrally controlled telecommunications systems were not designed for today's interconnected and adversarial cyber landscape. As these systems have become more digitally integrated, they present systemic vulnerabilities that threaten public safety, economic stability, and national resilience. Disruption of industrial control or communications infrastructure can produce cascading effects across essential services and governance. The strategy prioritizes rapid reduction of cyber-physical risk, restoration of secure and accountable network operations, and establishment of national visibility and defensive control. It combines emergency exposure reduction, monitoring and response capability development, and institutional coordination mechanisms to ensure operational continuity while strengthening cybersecurity posture. 

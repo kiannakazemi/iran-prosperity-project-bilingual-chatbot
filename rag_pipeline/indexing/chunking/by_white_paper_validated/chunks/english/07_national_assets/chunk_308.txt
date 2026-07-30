@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00308
+chunk_index: 308
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /FOUNDATIONAL ACTION: IDENTIFICATION OF KEY ORGANIZATIONS/
+page_start: 108
+page_end: 108
+split_part: 2/3
+summary: This chunk contains a structural table.
+--- text (2429 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+| Organization Name                                                    | Description                                                                                                                                                           | Estimated Worth / Economic Clout                                                                                           | Key Sectors of Operation                                                             |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+             | Real Estate, Construction, Finance (Sina Bank), Manufacturing, Beverages, Logistics. |
+| Setad Ejraiye Farmane Emam (EIKO—Execution of Imam Khomeini's Order) | A parastatal holding company controlled by the Supreme Leader, built on systematically seizing assets from religious minorities, dissidents, and Iranians abroad.     | Estimated as high as 95 billion. A secretive economic empire.                                                              | Pharmaceuticals (Barekat), Finance, Real Estate, Telecommunications, Energy.         |
+| Astan Quds Razavi                                                    | A bonyad managing the shrine of Imam Reza in Mashhad, but also a massive business conglomerate with vast land and industrial holdings. Reports to the Supreme Leader. | Estimated in the tens of billions of dollars. Dominates the economy of northeastern Iran.                                  | Agriculture, Food Processing, Real Estate, Automotive, Financial Services.           |
+| Khatam al-Anbiya Construction HQ (KAA)                               | The primary engineering and construction arm of the Islamic Revolutionary Guard Corps (IRGC). Acts as a massive government contractor.                                | Awarded government contracts worth billions annually. Controls a significant portion of Iran's infrastructure development. | Oil & Gas, Petrochemicals, Pipelines, Dams, Roads, Telecommunications. 

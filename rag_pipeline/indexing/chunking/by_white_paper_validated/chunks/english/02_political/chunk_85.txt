@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00085
+chunk_index: 85
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/C. TRANSITIONAL DIVAN/
+page_start: 39
+page_end: 39
+split_part: 2/3
+summary: This chunk contains program procedures.
+--- text (1099 chars) ---
+[Summary: This chunk contains program procedures.]
+
+[Topic: POLITICAL]
+
+intelligence capabilities (such as sources, methods, or networks), or the lives of innocent people. In such cases:
+    - The information must be specific and verifiable;
+    - Any decision to restrict access must be approved by the head of the Transitional Justice Court (for the proceedings before that court) or the head of the Truth Commission (for the sessions held in any of its three committees);
+    - When a hearing or testimony is held in camera, all related evidence shall be recorded and sealed for a duration determined by regulation; and
+    - A non-confidential summary of events, findings, and responsibilities shall be promptly published to uphold the public's right to know the truth.
+- **19.7.4.** Nature and Duration of the Transitional Justice Program:
+  - **19.7.4.1** The Program is temporary in nature and shall dissolve once all referred cases have been decided.
+  - **19.7.4.2** The Program's maximum duration shall be five years, with an optional one-year extension approved by the head of the Divan. 

@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00220
+chunk_index: 220
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /PROPOSAL: FORMATION OF A SPECIAL TASK FORCE FOR ECONOMIC DIPLOMACY AND FOREIGN INVESTMENT/Rationale for the Task Force/
+page_start: 77
+page_end: 77
+summary: This chunk contains a rationale statement.
+--- text (522 chars) ---
+[Summary: This chunk contains a rationale statement.]
+
+[Topic: FOREIGN POLICY]
+
+# **Rationale for the Task Force**
+
+- Urgent need for economic reconstruction and access to external resources.
+- Repositioning the Ministry of Foreign Affairs as a driver of economic development alongside diplomatic representation.
+- Intense regional competition for foreign capital.
+- Iran's vast opportunities in energy, transit, industry, agriculture, and technology.
+- Necessity of strategic, internationally targeted economic diplomacy.

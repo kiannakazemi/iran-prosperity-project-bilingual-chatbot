@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00088
+chunk_index: 88
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /IV. NATURE OF THE PROPOSED FRAMEWORK/
+page_start: 40
+page_end: 40
+summary: This chunk contains a concluding framework provision.
+--- text (945 chars) ---
+[Summary: This chunk contains a concluding framework provision.]
+
+[Topic: POLITICAL]
+
+# IV. NATURE OF THE PROPOSED FRAMEWORK
+
+**21.** The framework proposed in this white paper is hereby designated as the "Transitional Framework." The official decree issued by the Leader of the National Uprising to abolish the Constitution of the Islamic Republic 15 shall include a clause providing that the Transitional Framework shall constitute the binding governing instrument of the State during the transitional period and shall remain in force until the constitutional institutions established under the new Constitution assume their functions in accordance with that Constitution, at which point the Transitional System shall be deemed dissolved. 16
+
+structure of the official decree of the Leader of the National Uprising is explained in the white paper "Legal: Process and Framework for Transition from the Islamic Republic."
+
+above, paragraph 15.9.

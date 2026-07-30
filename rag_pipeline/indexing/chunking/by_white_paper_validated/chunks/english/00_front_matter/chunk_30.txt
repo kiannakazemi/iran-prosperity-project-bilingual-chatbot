@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00030
+chunk_index: 30
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /TABLE OF CONTENTS/
+page_start: 16
+page_end: 16
+split_part: 2/2
+summary: This chunk contains a table of contents and a disclaimer.
+--- text (693 chars) ---
+[Summary: This chunk contains a table of contents and a disclaimer.]
+
+ENVIRONMENT: Managing and Protecting Natural Resources........................................129  
+WATER: Resource Management and Supply Infrastructure..........................................138  
+HEALTHCARE: Overseeing the Medicine Supply Chain and Healthcare Services.....................146  
+EDUCATIONAL SYSTEM: Ensuring Continuity and De-Ideologization.................................156  
+
+Disclaimer: This publication was prepared by authors for NUFDI. The perspectives presented are those of the authors and/or NUFDI alone and do not necessarily indicate the positions or endorsements of the authors' employers.

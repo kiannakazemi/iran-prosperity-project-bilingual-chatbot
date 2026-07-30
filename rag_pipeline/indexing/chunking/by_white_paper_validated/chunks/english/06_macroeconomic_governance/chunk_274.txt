@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00274
+chunk_index: 274
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /PRIVATIZATION/Actions/
+page_start: 96
+page_end: 97
+split_part: 2/3
+summary: This chunk contains an action plan.
+--- text (1460 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+production levels, fulfill existing contracts, and safeguard employment during the emergency phase. Doing so will help minimize economic shocks, maintain public confidence, and reassure domestic and international partners that the country's economic infrastructure remains functional despite the political transition.
+- Appoint independent and reputable accounting firms—domestic and international—to oversee past and future transactions.
+- Mandate the accounting firms to conduct forensic audits of major SOEs and foundations to uncover past corruption, embezzlement, fraudulent contracts, dangerous exposures, or illicit asset transfers.
+
+- Mandate accounting firms to provide real-time oversight of financial operations during the transition to detect and prevent ongoing mismanagement. Their work will support accountability, inform future legal action, and lay the groundwork for permanent transparency mechanisms.
+- Mandate accounting firms to identify the full extent of liabilities held by SOEs, with the aim of preventing the government from inheriting bottomless financial exposure. Their mandate should be to chart a path forward that preserves the operational and economic value of these enterprises while minimizing future fiscal risk to the state.
+- Develop a strategic framework and priority list to guide the order and method of privatizing state-owned assets. 

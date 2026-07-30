@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00082
+chunk_index: 82
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/C. TRANSITIONAL DIVAN/Conditional Amnesty Committee:/
+page_start: 38
+page_end: 38
+split_part: 1/2
+summary: This chunk contains a committee mandate and responsibilities list.
+--- text (1576 chars) ---
+[Summary: This chunk contains a committee mandate and responsibilities list.]
+
+[Topic: POLITICAL]
+
+#### *Conditional Amnesty Committee:*
+
+- **19.7.2.5** Has exclusive jurisdiction to review and grant applications for amnesty or immunity submitted by individuals whose crimes do not rise to the level of falling within the jurisdiction of the Transitional Justice Court, but are nevertheless more serious than ordinary crimes, provided that the victim(s) or their family members/legal representatives do not wish to pursue criminal charges.
+- **19.7.2.6** Grants amnesty or immunity only to individuals and only upon their request; therefore, no group or institutional amnesty or immunity shall be granted.
+- **19.7.2.7** Grants amnesty or immunity only if it is satisfied that:
+  - The applicant has fully, unconditionally, and truthfully disclosed all facts, including actions, decisions, orders, chains of command, accomplices, and context;
+  - The applicant's conduct was directly connected to political goals and was carried out within the framework of the Regime's policy;
+  - There is a reasonable proportionality between the stated political objective and the act committed (i.e., the act was not excessive, and its nature was proportionate to the applicant's role and authority); and
+  - The applicant accepts personal responsibility proportional to his/her level of involvement.
+- **19.7.2.8** Respects victims' and survivors' rights to participate in proceedings, share their views, and receive official notification from the Committee regarding its final decision.

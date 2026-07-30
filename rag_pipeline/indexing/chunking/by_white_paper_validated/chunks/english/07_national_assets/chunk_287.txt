@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00287
+chunk_index: 287
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /ASSUMPTIONS/
+page_start: 102
+page_end: 102
+split_part: 2/2
+summary: This chunk contains a list of assumptions.
+--- text (852 chars) ---
+[Summary: This chunk contains a list of assumptions.]
+
+[Topic: NATIONAL ASSETS]
+
+Türkiye, and the UAE) to act swiftly on notifications to freeze assets and provide intelligence support. It also assumes that international sanctions frameworks can be repurposed to support the new authority.
+- **Insider Cooperation:** It is assumed that a certain number of technocrats, bank officials, and bureaucrats within the targeted organisations will be willing to cooperate in exchange for amnesty or other incentives, providing crucial intelligence on asset locations and ownership structures.
+- **Existence of Records:** The plan assumes that despite potential efforts at destruction, significant digital and physical records of asset ownership, financial transactions, and corporate structures will still exist and be accessible within the secured facilities.

@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00441
+chunk_index: 441
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /WATER: Resource Management and Supply Infrastructure/
+page_start: 155
+page_end: 155
+summary: This chunk contains a white paper title and an introductory overview.
+--- text (755 chars) ---
+[Summary: This chunk contains a white paper title and an introductory overview.]
+
+[Topic: WATER]
+
+# WATER: Resource Management and Supply Infrastructure
+
+*February 2026*
+
+*Iran is facing a severe stage of water bankruptcy. This plan outlines a set of brief immediate measures to manage and stabilize the country's water sector amid regime collapse. The objective is to protect essential water services, prevent water-related territorial instability during the 180-day emergency phase of the transition period, and establish a sustainable development framework for future water resources management. It addresses urgent threats, promotes equitable water distribution, and recommends essential reforms under the Transitional Water Governance Sector (TWGS).*

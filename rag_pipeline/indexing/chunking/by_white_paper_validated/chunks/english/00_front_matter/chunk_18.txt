@@ -1,0 +1,18 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00018
+chunk_index: 18
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/CONTEXT: THE ISLAMIC REPUBLIC IS WEAK, VULNERABLE, AND HAS LOST LEGITIMACY/
+page_start: 8
+page_end: 8
+split_part: 4/5
+summary: This chunk contains a background and context narrative.
+--- text (1500 chars) ---
+[Summary: This chunk contains a background and context narrative.]
+
+private financial institutions further exposed the systemic fragility of the regime's banking sector. As a result, a growing consensus has emerged among the Iranian public and private sectors that sustainable economic development is fundamentally incompatible with the current governance framework. This sentiment was exemplified by the widespread bazaar strike of December 2025, which served as a critical precursor to the January 2026 Lion and Sun Revolution and signaled a shift in the attitudes of the bazaar—an institution long viewed as a cornerstone of the Islamic Republic's support base.
+
+Since 2017, Iran's political landscape has shifted from a discourse of reform to one of revolution, marked by major protest waves in 2017, 2019, 2022, and 2026. Each successive wave has grown in scale despite escalating repression. By January 2026, millions took to the streets across hundreds of municipalities and in every corner of the country. Across diverse cities, provinces, and social groups, demonstrators chanted a single name and called for the leadership of one man: Crown Prince Reza Pahlavi. The scale, geographic breadth, and consistency of these calls were unprecedented. The January 2026 Lion and Sun Revolution reflected a visible consolidation around a unifying national figure. The Islamic Republic, however, met the protesters with unprecedented violence, reportedly killing tens of thousands in just a few days. 

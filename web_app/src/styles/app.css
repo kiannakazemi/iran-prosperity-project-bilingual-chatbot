@@ -1,0 +1,1300 @@
+/* ── Layout ──────────────────────────────────────────── */
+
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+  background: var(--ipp-navy);
+}
+
+.app-body {
+  display: flex;
+  flex: 1;
+  min-height: 0;
+}
+
+/* Draggable splitters between sidebar / chat / PDF */
+.resize-handle {
+  flex-shrink: 0;
+  width: 6px;
+  margin: 0 -3px;
+  cursor: col-resize;
+  z-index: 5;
+  position: relative;
+  align-self: stretch;
+  background: transparent;
+  transition: background 0.15s;
+}
+.resize-handle:hover,
+.resize-handle:active {
+  background: var(--ipp-accent-muted);
+}
+.resize-handle::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 1px;
+  transform: translateX(-50%);
+  background: var(--ipp-border);
+  pointer-events: none;
+}
+.resize-handle:hover::after,
+.resize-handle:active::after {
+  background: var(--ipp-accent);
+}
+
+/* ── Sidebar ─────────────────────────────────────────── */
+
+.sidebar {
+  width: var(--sidebar-width);
+  min-width: var(--sidebar-width);
+  background: var(--ipp-navy-light);
+  color: var(--ipp-text-secondary);
+  display: flex;
+  flex-direction: column;
+  border-right: 1px solid var(--ipp-border);
+}
+
+.sidebar-nav {
+  padding: 12px 12px 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  border: none;
+  background: none;
+  color: var(--ipp-text-secondary);
+  font-size: 13.5px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.12s, color 0.12s;
+  font-family: inherit;
+  text-align: left;
+  width: 100%;
+}
+[dir="rtl"] .nav-item {
+  text-align: right;
+}
+.nav-item:hover {
+  background: var(--ipp-navy-surface);
+  color: var(--ipp-text);
+}
+.nav-item svg {
+  flex-shrink: 0;
+  opacity: 0.6;
+}
+
+.sidebar-divider {
+  height: 1px;
+  background: var(--ipp-border);
+  margin: 8px 16px;
+}
+
+.sidebar-section-label {
+  padding: 10px 20px 6px;
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--ipp-text-muted);
+  font-weight: 600;
+}
+
+.chat-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0 12px;
+}
+
+.chat-item {
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--ipp-text-secondary);
+  transition: background 0.1s;
+  position: relative;
+}
+.chat-item:hover {
+  background: var(--ipp-navy-surface);
+  color: var(--ipp-text);
+}
+.chat-item.active {
+  background: var(--ipp-accent-muted);
+  color: var(--ipp-accent);
+}
+
+.chat-title {
+  flex: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.delete-btn {
+  opacity: 0;
+  background: none;
+  border: none;
+  color: var(--ipp-text-muted);
+  cursor: pointer;
+  padding: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: opacity 0.15s, color 0.15s;
+  border-radius: 4px;
+}
+.chat-item:hover .delete-btn {
+  opacity: 1;
+}
+.delete-btn:hover {
+  color: var(--ipp-red);
+  background: rgba(248, 113, 113, 0.1);
+}
+
+.sidebar-footer {
+  padding: 14px 20px;
+  border-top: 1px solid var(--ipp-border);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+}
+.footer-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-size: 12px;
+  color: var(--ipp-accent);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.15s;
+}
+.footer-link:hover {
+  color: var(--ipp-accent-hover);
+  text-decoration: underline;
+}
+.footer-link svg {
+  flex-shrink: 0;
+  opacity: 0.7;
+}
+.footer-text {
+  font-size: 11px;
+  color: var(--ipp-text-muted);
+  text-align: center;
+}
+
+/* ── Main Panel ──────────────────────────────────────── */
+
+.main-panel {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-width: 200px;
+  background: var(--ipp-navy);
+}
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  border-bottom: 1px solid var(--ipp-border);
+  background: var(--ipp-navy-light);
+  flex-shrink: 0;
+  z-index: 10;
+}
+
+.top-bar-left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.top-bar-logo {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
+.top-bar-title {
+  font-weight: 600;
+  font-size: 15px;
+  color: var(--ipp-text);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.lang-toggle {
+  padding: 6px 14px;
+  background: transparent;
+  border: 1px solid var(--ipp-border-light);
+  border-radius: var(--radius-sm);
+  color: var(--ipp-text-secondary);
+  font-weight: 500;
+  font-size: 13px;
+  cursor: pointer;
+  transition: all 0.15s;
+  font-family: inherit;
+}
+.lang-toggle:hover {
+  background: var(--ipp-accent-muted);
+  color: var(--ipp-accent);
+  border-color: var(--ipp-accent);
+}
+
+/* ── Chat Area ───────────────────────────────────────── */
+
+.chat-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 0;
+}
+
+.messages-scroll {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 24px 24px 12px;
+}
+
+/* ── Messages ────────────────────────────────────────── */
+
+.message {
+  margin-bottom: 28px;
+}
+
+/* ── User message: pill, right-aligned ──── */
+
+.message-user {
+  display: flex;
+  justify-content: flex-end;
+}
+[dir="rtl"] .message-user {
+  justify-content: flex-start;
+}
+
+.user-bubble-wrap {
+  position: relative;
+  display: inline-block;
+  max-width: 75%;
+}
+
+.user-bubble {
+  display: inline-block;
+  padding: 10px 18px;
+  background: var(--ipp-navy-elevated);
+  color: var(--ipp-text);
+  border: 1px solid var(--ipp-border-light);
+  border-radius: 20px;
+  font-size: 14px;
+  line-height: 1.5;
+  max-width: 100%;
+  word-break: break-word;
+}
+
+/* ── Message action toolbar (below each message) ────── */
+
+.msg-actions {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  margin-top: 4px;
+}
+.msg-actions--user {
+  justify-content: flex-end;
+}
+.msg-actions--assistant {
+  justify-content: flex-start;
+}
+
+@media (hover: hover) {
+  .message .msg-actions {
+    opacity: 0;
+    transition: opacity 0.15s;
+  }
+  .message:hover .msg-actions,
+  .msg-actions:focus-within {
+    opacity: 1;
+  }
+}
+@media (hover: none) {
+  .msg-actions {
+    opacity: 0.85;
+  }
+}
+
+.msg-action-btn {
+  background: none;
+  border: none;
+  color: var(--ipp-text-muted);
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: color 0.15s, background 0.15s;
+}
+.msg-action-btn:hover {
+  color: var(--ipp-text-secondary);
+  background: rgba(255, 255, 255, 0.06);
+}
+.msg-action-btn--active {
+  color: var(--ipp-accent);
+}
+.msg-action-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+
+/* ── User message edit mode ─────────────────────────── */
+
+.user-edit-wrap {
+  width: 100%;
+  max-width: 75%;
+  margin-inline-start: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.user-edit-textarea {
+  width: 100%;
+  min-height: 60px;
+  max-height: 200px;
+  padding: 10px 14px;
+  background: var(--ipp-navy-elevated);
+  color: var(--ipp-text);
+  border: 1px solid var(--ipp-accent);
+  border-radius: var(--radius-md);
+  font-size: 14px;
+  line-height: 1.5;
+  font-family: inherit;
+  resize: vertical;
+  outline: none;
+  box-sizing: border-box;
+}
+.user-edit-textarea:focus {
+  box-shadow: 0 0 0 3px rgba(184, 151, 90, 0.15);
+}
+
+.user-edit-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
+.edit-save-btn {
+  padding: 6px 16px;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: inherit;
+  border: none;
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  background: var(--ipp-accent);
+  color: var(--ipp-navy);
+  transition: opacity 0.15s;
+}
+.edit-save-btn:hover:not(:disabled) {
+  opacity: 0.88;
+}
+.edit-save-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.edit-cancel-btn {
+  padding: 6px 16px;
+  font-size: 13px;
+  font-weight: 500;
+  font-family: inherit;
+  border: 1px solid var(--ipp-border-light);
+  border-radius: var(--radius-sm);
+  cursor: pointer;
+  background: transparent;
+  color: var(--ipp-text-secondary);
+  transition: background 0.15s, color 0.15s;
+}
+.edit-cancel-btn:hover {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--ipp-text);
+}
+
+/* ── Assistant message: plain text, full width ──────── */
+
+.message-assistant {
+  display: flex;
+  flex-direction: column;
+}
+
+.assistant-answer {
+  font-size: 14.5px;
+  line-height: 1.75;
+  color: var(--ipp-text);
+  word-break: break-word;
+}
+
+.cursor-blink {
+  animation: blink 0.8s step-end infinite;
+  color: var(--ipp-accent);
+}
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+/* ── Markdown rendering in assistant messages ────────── */
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4 {
+  margin-top: 16px;
+  margin-bottom: 8px;
+  font-weight: 700;
+  line-height: 1.35;
+  color: var(--ipp-white);
+}
+.markdown-body h1 { font-size: 18px; }
+.markdown-body h2 { font-size: 16px; }
+.markdown-body h3 { font-size: 15px; }
+.markdown-body h4 { font-size: 14px; }
+
+.markdown-body p {
+  margin-bottom: 10px;
+  line-height: 1.7;
+}
+.markdown-body p:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body strong {
+  font-weight: 700;
+  color: var(--ipp-white);
+}
+
+.markdown-body em {
+  font-style: italic;
+}
+
+.markdown-body ul,
+.markdown-body ol {
+  margin: 8px 0 12px 0;
+  padding-left: 20px;
+}
+[dir="rtl"] .markdown-body ul,
+[dir="rtl"] .markdown-body ol {
+  padding-left: 0;
+  padding-right: 20px;
+}
+
+.markdown-body li {
+  margin-bottom: 6px;
+  line-height: 1.6;
+}
+
+.markdown-body li::marker {
+  color: var(--ipp-accent);
+}
+
+.markdown-body hr {
+  border: none;
+  border-top: 1px solid var(--ipp-border-light);
+  margin: 14px 0;
+}
+
+.markdown-body blockquote {
+  margin: 10px 0;
+  padding: 8px 14px;
+  border-left: 3px solid var(--ipp-accent);
+  background: var(--ipp-accent-muted);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  color: var(--ipp-text);
+}
+[dir="rtl"] .markdown-body blockquote {
+  border-left: none;
+  border-right: 3px solid var(--ipp-accent);
+  border-radius: var(--radius-sm) 0 0 var(--radius-sm);
+}
+
+.markdown-body code {
+  background: var(--ipp-navy-surface);
+  padding: 2px 5px;
+  border-radius: 3px;
+  font-size: 12.5px;
+  color: var(--ipp-accent-hover);
+}
+
+.markdown-body pre {
+  background: var(--ipp-navy-light);
+  color: var(--ipp-text);
+  padding: 12px 16px;
+  border-radius: var(--radius-sm);
+  overflow-x: auto;
+  margin: 10px 0;
+  border: 1px solid var(--ipp-border);
+}
+.markdown-body pre code {
+  background: none;
+  padding: 0;
+  color: inherit;
+}
+
+.markdown-body table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 0;
+  font-size: 13px;
+}
+.markdown-body th,
+.markdown-body td {
+  padding: 8px 12px;
+  border: 1px solid var(--ipp-border-light);
+  text-align: left;
+}
+[dir="rtl"] .markdown-body th,
+[dir="rtl"] .markdown-body td {
+  text-align: right;
+}
+.markdown-body th {
+  background: var(--ipp-navy-surface);
+  font-weight: 600;
+  color: var(--ipp-text);
+}
+.markdown-body tr:nth-child(even) {
+  background: var(--ipp-navy-light);
+}
+
+/* ── Sources ─────────────────────────────────────────── */
+
+.message-sources {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
+  align-items: center;
+}
+
+.sources-label {
+  font-size: 11px;
+  color: var(--ipp-text-muted);
+  font-weight: 500;
+}
+
+.source-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 10px;
+  background: var(--ipp-accent-muted);
+  border: 1px solid rgba(184, 151, 90, 0.25);
+  border-radius: 20px;
+  font-size: 11.5px;
+  color: var(--ipp-accent);
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+.source-badge:hover {
+  background: var(--ipp-accent);
+  color: var(--ipp-navy);
+  border-color: var(--ipp-accent);
+}
+.source-badge svg {
+  flex-shrink: 0;
+}
+.source-page {
+  font-weight: 600;
+}
+
+/* ── Error card (unified backend failure UI) ─────────── */
+/* Rendered for any backend error: connection refused, HTTP 5xx,            */
+/* missing body, malformed stream, empty response, explicit server error.   */
+/* Sits in place of the assistant markdown body — no sources, no actions.   */
+
+.error-card {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 12px;
+  max-width: 100%;
+  padding: 14px 18px;
+  background: rgba(248, 113, 113, 0.07);
+  border: 1px solid rgba(248, 113, 113, 0.22);
+  border-radius: var(--radius-md);
+  margin-top: 2px;
+}
+
+.error-card-icon {
+  display: inline-flex;
+  flex-shrink: 0;
+  margin-top: 1px;
+  color: var(--ipp-red);
+}
+
+.error-card-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+}
+
+.error-card-title {
+  color: var(--ipp-white);
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1.3;
+}
+
+.error-card-body {
+  color: var(--ipp-text-secondary);
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+/* RTL: icon flips to the right side automatically via flexbox direction;   */
+/* nothing else to do — gap, padding, and text alignment all mirror.        */
+
+/* ── Thinking indicator ──────────────────────────────── */
+
+.thinking {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 16px;
+  color: var(--ipp-text-muted);
+  font-size: 13px;
+}
+.thinking::before {
+  content: "";
+  width: 8px;
+  height: 8px;
+  background: var(--ipp-accent);
+  border-radius: 50%;
+  animation: pulse 1s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 0.3; transform: scale(0.8); }
+  50% { opacity: 1; transform: scale(1.2); }
+}
+
+/* ── Chat Input ──────────────────────────────────────── */
+
+.chat-input-wrapper {
+  padding: 16px 24px 20px;
+  background: var(--ipp-navy);
+}
+
+.chat-input-form {
+  max-width: 760px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--ipp-navy-surface);
+  border: 1px solid var(--ipp-border-light);
+  border-radius: var(--radius-lg);
+  padding: 10px 14px;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+.chat-input-form:focus-within {
+  border-color: var(--ipp-accent);
+  box-shadow: 0 0 0 3px rgba(184, 151, 90, 0.1);
+}
+
+.chat-input {
+  flex: 1;
+  min-height: 44px;
+  max-height: 200px;
+  border: none;
+  background: transparent;
+  font-size: 14px;
+  line-height: 22px;
+  resize: none;
+  outline: none;
+  color: var(--ipp-text);
+  font-family: inherit;
+  overflow-y: hidden;
+  box-sizing: border-box;
+  padding: 11px 0;
+  margin: 0;
+}
+.chat-input::placeholder {
+  color: var(--ipp-text-muted);
+}
+
+.send-btn {
+  width: 34px;
+  height: 34px;
+  background: var(--ipp-navy-elevated);
+  border: 1px solid var(--ipp-border-light);
+  border-radius: 50%;
+  color: var(--ipp-text-secondary);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.send-btn:hover:not(:disabled) {
+  background: var(--ipp-border-light);
+  color: var(--ipp-text);
+  border-color: var(--ipp-text-muted);
+}
+.send-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+.disclaimer {
+  max-width: 760px;
+  margin: 8px auto 0;
+  text-align: center;
+  font-size: 11px;
+  color: var(--ipp-text-muted);
+}
+
+/* ── Welcome Screen ──────────────────────────────────── */
+
+.welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  padding: 40px 24px;
+}
+
+.welcome-header {
+  text-align: center;
+  margin-bottom: 36px;
+}
+
+.welcome-icon-ring {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--ipp-accent-muted);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 16px;
+}
+
+.welcome-title {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--ipp-white);
+  margin-bottom: 6px;
+}
+
+.welcome-sub {
+  font-size: 14px;
+  color: var(--ipp-text-muted);
+  max-width: 420px;
+  line-height: 1.5;
+}
+
+.welcome-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--ipp-text-muted);
+  font-weight: 600;
+  margin-bottom: 12px;
+  align-self: center;
+}
+
+.doc-cards {
+  display: flex;
+  gap: 16px;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 640px;
+}
+
+.doc-card {
+  display: flex;
+  gap: 14px;
+  padding: 16px;
+  background: var(--ipp-navy-surface);
+  border: 1px solid var(--ipp-border-light);
+  border-radius: var(--radius-md);
+  cursor: pointer;
+  transition: all 0.18s;
+  text-align: left;
+  min-width: 280px;
+  max-width: 300px;
+  align-items: flex-start;
+}
+[dir="rtl"] .doc-card {
+  text-align: right;
+}
+.doc-card:hover {
+  border-color: var(--ipp-accent);
+  box-shadow: 0 4px 16px rgba(184, 151, 90, 0.08);
+  transform: translateY(-1px);
+}
+
+.doc-card-thumb {
+  width: 80px;
+  height: 100px;
+  border-radius: 6px;
+  flex-shrink: 0;
+  overflow: hidden;
+  background: var(--ipp-navy-elevated);
+  border: 1px solid var(--ipp-border-light);
+}
+.doc-card-thumb canvas {
+  display: block;
+  border-radius: 5px;
+}
+.thumb-placeholder {
+  width: 80px;
+  height: 100px;
+  background: var(--ipp-navy-elevated);
+}
+
+.doc-card-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.doc-card-meta {
+  font-size: 11px;
+  color: var(--ipp-text-muted);
+  margin-bottom: 3px;
+  font-weight: 500;
+}
+
+.doc-card-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ipp-text);
+  margin-bottom: 4px;
+  line-height: 1.3;
+}
+
+.doc-card-desc {
+  font-size: 12px;
+  color: var(--ipp-text-muted);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* ── PDF Panel ───────────────────────────────────────── */
+
+.pdf-panel {
+  width: var(--pdf-panel-width);
+  min-width: var(--pdf-panel-width);
+  border-left: 1px solid var(--ipp-border);
+  background: var(--ipp-navy-light);
+  display: flex;
+  flex-direction: column;
+  animation: slideIn 0.2s ease;
+}
+[dir="rtl"] .pdf-panel {
+  border-left: none;
+  border-right: 1px solid var(--ipp-border);
+}
+@keyframes slideIn {
+  from { transform: translateX(20px); opacity: 0; }
+  to { transform: translateX(0); opacity: 1; }
+}
+
+.pdf-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 14px;
+  border-bottom: 1px solid var(--ipp-border);
+  background: var(--ipp-navy);
+}
+
+.pdf-header-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
+  flex: 1;
+}
+
+.pdf-header-logo {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+  border-radius: 6px;
+}
+
+.pdf-header-titles {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.pdf-bar-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ipp-text);
+  line-height: 1.25;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.pdf-file-subtitle {
+  font-size: 11px;
+  font-weight: 500;
+  color: var(--ipp-text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.pdf-close {
+  background: none;
+  border: none;
+  font-size: 22px;
+  color: var(--ipp-text-muted);
+  cursor: pointer;
+  padding: 0 4px;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.pdf-close:hover {
+  color: var(--ipp-text);
+}
+
+.pdf-nav {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-bottom: 1px solid var(--ipp-border);
+  background: var(--ipp-navy-light);
+  font-size: 13px;
+  color: var(--ipp-text-secondary);
+}
+.pdf-nav-spacer {
+  min-width: 0;
+}
+.pdf-nav-pages {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+.pdf-nav-zoom {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 6px;
+  min-width: 0;
+}
+.pdf-zoom-btn {
+  background: var(--ipp-navy-surface);
+  border: 1px solid var(--ipp-border-light);
+  border-radius: var(--radius-sm);
+  width: 28px;
+  height: 28px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ipp-text-secondary);
+}
+.pdf-zoom-btn:hover:not(:disabled) {
+  background: var(--ipp-navy-elevated);
+  border-color: var(--ipp-border-light);
+}
+.pdf-zoom-pct {
+  min-width: 44px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--ipp-text-muted);
+  user-select: none;
+}
+.pdf-nav-pages button {
+  background: var(--ipp-navy-surface);
+  border: 1px solid var(--ipp-border-light);
+  border-radius: var(--radius-sm);
+  width: 28px;
+  height: 28px;
+  cursor: pointer;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--ipp-text-secondary);
+}
+.pdf-nav-pages button:disabled,
+.pdf-zoom-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* Editable page indicator: "Page [ 145 ] / 178" with the number being a
+   small text input the user can type into. Enter jumps; Escape cancels. */
+.pdf-page-indicator {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 6px;
+  white-space: nowrap;
+}
+.pdf-page-label,
+.pdf-page-total {
+  color: var(--ipp-text-secondary);
+  user-select: none;
+}
+.pdf-page-input {
+  width: 44px;
+  padding: 3px 6px;
+  background: var(--ipp-navy-surface);
+  border: 1px solid var(--ipp-border-light);
+  border-radius: var(--radius-sm);
+  color: var(--ipp-white);
+  font: inherit;
+  font-size: 13px;
+  text-align: center;
+  outline: none;
+  transition: border-color 0.15s, background-color 0.15s;
+  /* Hide the spin buttons that some browsers add for numeric-looking text. */
+  -moz-appearance: textfield;
+}
+.pdf-page-input::-webkit-inner-spin-button,
+.pdf-page-input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.pdf-page-input:hover:not(:disabled) {
+  border-color: var(--ipp-accent);
+}
+.pdf-page-input:focus {
+  border-color: var(--ipp-accent);
+  background: var(--ipp-navy-elevated);
+}
+.pdf-page-input:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* Make the selection highlight inside the PDF's text layer match the IPP
+   accent color so it reads as "selected" against the dark canvas backdrop.
+   react-pdf renders text as invisible spans with class .textLayer; without
+   a custom highlight color, browser defaults can look invisible on dark. */
+.pdf-body .textLayer ::selection {
+  background: rgba(184, 151, 90, 0.35);
+  color: transparent;
+}
+.pdf-body .textLayer ::-moz-selection {
+  background: rgba(184, 151, 90, 0.35);
+  color: transparent;
+}
+
+.pdf-body {
+  flex: 1;
+  overflow: auto;
+  padding: 16px 8px;
+  background: var(--ipp-navy);
+}
+
+.pdf-page-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.pdf-page-wrapper canvas {
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+  border-radius: 2px;
+}
+.pdf-page-number {
+  font-size: 11px;
+  color: var(--ipp-text-muted);
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+
+.pdf-loading {
+  padding: 40px;
+  color: var(--ipp-text-muted);
+  font-size: 13px;
+  text-align: center;
+}
+
+/* ── Documents download modal ────────────────────────── */
+
+.docs-modal-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  background: rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  animation: fadeIn 0.15s ease;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+.docs-modal {
+  width: 100%;
+  max-width: 420px;
+  background: var(--ipp-navy-surface);
+  border-radius: var(--radius-md);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.4);
+  border: 1px solid var(--ipp-border-light);
+  overflow: hidden;
+}
+
+.docs-modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 16px 18px;
+  border-bottom: 1px solid var(--ipp-border);
+  background: var(--ipp-navy-light);
+}
+
+.docs-modal-header h2 {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  color: var(--ipp-text);
+}
+
+.docs-modal-close {
+  background: none;
+  border: none;
+  font-size: 24px;
+  line-height: 1;
+  color: var(--ipp-text-muted);
+  cursor: pointer;
+  padding: 0 4px;
+}
+.docs-modal-close:hover {
+  color: var(--ipp-text);
+}
+
+.docs-modal-intro {
+  margin: 0;
+  padding: 12px 18px 0;
+  font-size: 13px;
+  color: var(--ipp-text-muted);
+  line-height: 1.45;
+}
+
+.docs-modal-list {
+  list-style: none;
+  margin: 0;
+  padding: 12px 18px 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.docs-modal-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 14px;
+  background: var(--ipp-navy-light);
+  border: 1px solid var(--ipp-border);
+  border-radius: var(--radius-sm);
+}
+[dir="rtl"] .docs-modal-row {
+  flex-direction: row-reverse;
+}
+
+.docs-modal-meta {
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.docs-modal-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ipp-text);
+}
+
+.docs-modal-pages {
+  font-size: 11px;
+  color: var(--ipp-text-muted);
+}
+
+.docs-modal-download {
+  flex-shrink: 0;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ipp-accent);
+  text-decoration: none;
+  padding: 8px 12px;
+  border-radius: var(--radius-sm);
+  border: 1px solid rgba(184, 151, 90, 0.25);
+  background: var(--ipp-accent-muted);
+  transition: background 0.12s, border-color 0.12s;
+}
+.docs-modal-download:hover {
+  background: rgba(184, 151, 90, 0.25);
+  border-color: var(--ipp-accent);
+}
+
+/* ── Responsive ──────────────────────────────────────── */
+
+@media (max-width: 900px) {
+  .sidebar {
+    display: none;
+  }
+  .resize-handle {
+    display: none;
+  }
+  .pdf-panel {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    box-shadow: -4px 0 20px rgba(0, 0, 0, 0.4);
+  }
+  [dir="rtl"] .pdf-panel {
+    right: auto;
+    left: 0;
+  }
+}

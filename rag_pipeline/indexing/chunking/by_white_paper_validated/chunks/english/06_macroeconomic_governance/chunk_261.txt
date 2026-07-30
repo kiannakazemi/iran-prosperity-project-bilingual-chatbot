@@ -1,0 +1,28 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00261
+chunk_index: 261
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING FINANCIAL MARKETS/Actions/
+page_start: 92
+page_end: 92
+summary: This chunk contains an action plan.
+--- text (1475 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Actions**
+
+- Appoint new leadership at key financial market institutions, including the Tehran Stock Exchange, Securities and Exchange Organization, and Capital Market Development Fund, to ensure credible oversight and policy alignment.
+- Temporarily suspend trading on the Tehran Stock Exchange (TSE) for 90–180 days to prevent panic selloffs and enable audits.
+- Close the corporate debt market for 100 days due to illiquidity and lack of pricing integrity.
+- Conduct independent audits and valuation reassessments of listed companies and publicly traded financial instruments.
+- Implement a dual exchange rate system as a transitional step, with a managed rate for essential imports and a floating rate for other transactions.
+- Enforce capital controls to prevent outflows linked to former regime affiliates or illicit wealth holders.
+- Resume Treasury market operations within 30 days, prioritizing short-term instruments and requiring full disclosure of yields and maturities.
+- Establish investor protection rules before market reopenings, including enhanced disclosure, governance standards, and insider trading restrictions.
+- Set benchmarks and conditions for phased market reopenings, linked to transparency, legal reform, and audit completion.
+- Coordinate with international financial institutions and market regulators to align post-transition reforms with global standards.

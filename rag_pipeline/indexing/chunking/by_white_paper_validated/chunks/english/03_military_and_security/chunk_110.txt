@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00110
+chunk_index: 110
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /INSTITUTIONAL MODERNIZATION AND CAPACITY BUILDING/Developing Defense Diplomacy and International Cooperation/
+page_start: 47
+page_end: 47
+summary: This chunk contains institutional modernization recommendations.
+--- text (488 chars) ---
+[Summary: This chunk contains institutional modernization recommendations.]
+
+[Topic: MILITARY AND SECURITY]
+
+## **Developing Defense Diplomacy and International Cooperation**
+
+- The Transitional Government shall end Iran's militaristic regional adventurism and instead commit to international peacekeeping efforts and United Nations missions.
+- Iran must cultivate defense partnerships with regional and global states to strengthen deterrence and promote constructive military engagement.

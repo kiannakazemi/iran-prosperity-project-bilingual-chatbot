@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00123
+chunk_index: 123
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /STRUCTURAL ASSESSMENT OF ARMED FORCES AND PARAMILITARY ORGANIZATIONS/
+page_start: 50
+page_end: 51
+split_part: 8/14
+summary: This chunk contains a structural assessment table.
+--- text (2038 chars) ---
+[Summary: This chunk contains a structural assessment table.]
+
+[Topic: MILITARY AND SECURITY]
+
+| CURRENT INSTITUTION                             | MAIN FUNCTION                                                                                                              | CATEGORY                                                                                                                                                                                              |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+                       | Retaining the structure and ensuring operational continuity after vetting.                                                                                                                            |
+| General Staff of the Armed Forces               | Strategic military planning and overall command                                                                            | Removal of top officials; After vetting existing personnel, defectors may remain, but ideological forces will have to retire; nevertheless, the structure will be retained after significant reforms. |
+| Office of the Supreme Leader's Military Affairs | Supreme Leader's military decision-making office                                                                           | Dissolution of the organization.                                                                                                                                                                      |
+| Basij Organization                              | Paramilitary force used for domestic suppression, ideological control, cyber operations, and proxy recruitment             | Dissolution of the organization. 

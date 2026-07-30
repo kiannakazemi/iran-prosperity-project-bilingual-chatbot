@@ -1,0 +1,32 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00348
+chunk_index: 348
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /Phase 4: Transition and Institutional Transfer (Days 101 to 130)/
+page_start: 120
+page_end: 120
+split_part: 1/2
+summary: This chunk contains a phase description and an action plan.
+--- text (1466 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: ENERGY]
+
+### **Phase 4: Transition and Institutional Transfer (Days 101 to 130)**
+
+Following the initial 100-day stabilization period, the focus shifts toward formal institutional restructuring, workforce stabilization, and laying the groundwork for national reform. This phase marks the strategic handoff of operational control from the Transitional Energy Command Unit (TECU) to the newly created Ministry of Energy (MoE).
+
+The transition is phased to preserve continuity, minimize operational risk, and avoid political or bureaucratic bottlenecks.
+
+- **Stage the merger of MoP and MoE-Niroo into MoE:** Launch the legal and administrative merger in two phases.
+  - Phase 1 includes establishing a joint coordination office with shared governance.
+  - Phase 2 activates full operational divisions:
+    - Oil and Gas.
+    - Electricity.
+    - Renewables and Nuclear.
+    - Strategic Planning and Regulation.
+  - All existing water governance entities will continue operating under their current frameworks to ensure stability in allocation and distribution. A roadmap for comprehensive institutional reform of the water sector will be prepared in parallel, with the transfer of water responsibilities to a newly appointed minister to be decided after the 180-day transition period.
+- **Finalize refinery audits and initiate upgrades:** Complete detailed audits of national refineries. 

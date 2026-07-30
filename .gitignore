@@ -1,0 +1,68 @@
+# ── Secrets — never commit ───────────────────────────────────────────
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# ── Python ───────────────────────────────────────────────────────────
+.venv/
+venv/
+ipp_venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# ── Node / frontend ──────────────────────────────────────────────────
+node_modules/
+web_app/dist/
+web_app/.vite/
+npm-debug.log*
+yarn-error.log*
+
+# ── Runtime data ─────────────────────────────────────────────────────
+# Chat history is per-user local state, recreated on first API start.
+rag_pipeline/api/chat_history.db
+rag_pipeline/api/chat_history.db-journal
+
+# Qdrant writes a .lock file while the store is open. It is runtime state,
+# and cannot even be read while held — `git add` fails with an I/O error if
+# the API is running. The index data itself IS committed; only the lock is not.
+rag_pipeline/indexing/embedding/qdrant_db/.lock
+**/.lock
+
+# ── Logs and scratch output ──────────────────────────────────────────
+rag_pipeline/document_preprocessing/logs/
+*.log
+rag_pipeline/chatbot/test_results.txt
+
+# ── Intermediate chunking stages (regenerable) ───────────────────────
+# Stage 2 and 3 output. Both are reproducible from the committed Markdown
+# by re-running chunking.py and organize_by_white_paper.py, and neither is
+# read at query time — only by_white_paper_validated/ is.
+#
+# COMMITTED ON PURPOSE (do NOT add here):
+#   rag_pipeline/indexing/chunking/by_white_paper_validated/  — 960 files,
+#     3.8 MB. The indexing input, and the artefact contributors are most
+#     likely to want to inspect.
+#   rag_pipeline/indexing/embedding/qdrant_db/  — 12 MB. Ships the built
+#     index so a fresh clone can answer questions without paying to
+#     re-embed 959 chunks.
+rag_pipeline/indexing/chunking/chunks_raw/
+rag_pipeline/indexing/chunking/by_white_paper/
+
+# ── Large media (too big for the repo) ───────────────────────────────
+demo.mp4
+
+# ── OS / editor noise ────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+~$*.xlsx

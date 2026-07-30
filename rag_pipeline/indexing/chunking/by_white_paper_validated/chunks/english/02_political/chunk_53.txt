@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00053
+chunk_index: 53
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/
+page_start: 27
+page_end: 27
+split_part: 1/6
+summary: This chunk contains an institutional framework description.
+--- text (926 chars) ---
+[Summary: This chunk contains an institutional framework description.]
+
+[Topic: POLITICAL]
+
+# II. AFTER THE FALL OF THE ISLAMIC REPUBLIC
+
+- **3.** After the Regime is overthrown by the people of Iran, the Transitional System will assume control of governing the country during the transitional period. The Transitional System shall operate under the leadership of the Leader of the National Uprising and shall consist of three institutions: the *Transitional Mehestan*, 3 the *Transitional Government*, and the *Transitional Divan*. 4 This white paper will examine each of these three institutions separately.
+- **4.** The appointment and removal of the heads of the Transitional Government and the Transitional Divan shall be made by the Leader of the National Uprising, after consulting with the Transitional Mehestan. The head of the Transitional Mehestan shall be elected by its members through an absolute majority vote. 

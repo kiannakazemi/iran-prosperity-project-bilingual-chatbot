@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00467
+chunk_index: 467
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/
+page_start: 165
+page_end: 165
+summary: This chunk contains a section overview.
+--- text (635 chars) ---
+[Summary: This chunk contains a section overview.]
+
+[Topic: HEALTHCARE]
+
+### HEALTHCARE SPECIFIC OPERATIONS
+
+This white paper lays out a sequenced, evidence‑based roadmap for restoring essential health services in the first 180 days following a regime collapse in Iran. The plan is divided into four phases—each with clear objectives, priorities, actions, and risk‑mitigation measures—culminating in the institutionalization of emergency structures into permanent health‑sector governance. It is devised based on worst-case scenario preparedness and benefits from the scientific evidence of other countries' crisis management outcomes.

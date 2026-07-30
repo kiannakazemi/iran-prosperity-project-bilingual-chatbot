@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00386
+chunk_index: 386
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /ANTICIPATED POLITICAL CHALLENGES/Challenge 6: Bureaucratic inertia from former regime-affiliated managers/
+page_start: 133
+page_end: 133
+summary: This chunk contains a challenges analysis.
+--- text (405 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: INDUSTRY]
+
+### **Challenge 6: Bureaucratic inertia from former regime-affiliated managers**
+
+- **Risk**: Some mid-level administrators may slow implementation or sabotage reforms.
+- **Mitigation**: Use vetting and loyalty review; pair transitional leadership with local counterparts on interim contracts; rotate regional leadership as needed.

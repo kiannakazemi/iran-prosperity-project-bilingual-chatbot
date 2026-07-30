@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00299
+chunk_index: 299
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /FINANCIAL ASSETS/Cryptocurrencies or Other Digital Assets/
+page_start: 106
+page_end: 106
+summary: This chunk contains asset category descriptions.
+--- text (460 chars) ---
+[Summary: This chunk contains asset category descriptions.]
+
+[Topic: NATIONAL ASSETS]
+
+### **Cryptocurrencies or Other Digital Assets**
+
+- The regime has utilized cryptocurrencies like Bitcoin (BTC) and Monero (XMR) for sanctions evasion and illicit financing.
+- Mining operations have been established within Iran, and assets are held in a combination of domestic and international exchanges, as well as private, un-hosted wallets that are difficult to trace.

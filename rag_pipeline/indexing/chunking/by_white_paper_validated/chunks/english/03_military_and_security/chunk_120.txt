@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00120
+chunk_index: 120
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /STRUCTURAL ASSESSMENT OF ARMED FORCES AND PARAMILITARY ORGANIZATIONS/
+page_start: 50
+page_end: 50
+split_part: 5/14
+summary: This chunk contains a structural assessment table.
+--- text (2057 chars) ---
+[Summary: This chunk contains a structural assessment table.]
+
+[Topic: MILITARY AND SECURITY]
+
+| CURRENT INSTITUTION                             | MAIN FUNCTION                                                                                                              | CATEGORY                                                                                                                                                                                              |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+                       | Retaining the structure and ensuring operational continuity after vetting.                                                                                                                            |
+| Military Forces                                 |                                                                                                                            |                                                                                                                                                                                                       |
+| IRGC Aerospace Force                            | Advanced missile, drone, and space capabilities                                                                            | Dissolution and integration into the national army.                                                                                                                                                   |
+| IRGC Ground Force                               | Ground military force loyal to the Supreme Leader                                                                          | Dissolution and integration into the national army. 

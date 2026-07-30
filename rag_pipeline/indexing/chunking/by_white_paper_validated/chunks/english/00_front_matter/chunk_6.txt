@@ -1,0 +1,18 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00006
+chunk_index: 6
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /A NOTE FROM NUFDI'S PRESIDENT/
+page_start: 4
+page_end: 4
+split_part: 3/3
+summary: This chunk contains a foreword.
+--- text (474 chars) ---
+[Summary: This chunk contains a foreword.]
+
+confidence in Iran's future. The road ahead will not be easy. But Iran is not beginning from nothing. It is a great nation with a rich civilizational heritage, a talented population, and a strong capacity to rebuild. With the right preparation, principled leadership, and the support of a united people, Iran will emerge from this dark chapter stronger, freer, and more prosperous than before.
+
+Dr. Saeed Ganji NUFDI President/CEO

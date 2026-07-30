@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00033
+chunk_index: 33
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /I. CONTEXT AND DEFINITIONS/
+page_start: 18
+page_end: 19
+split_part: 1/3
+summary: This chunk contains contextual background and definitions.
+--- text (1500 chars) ---
+[Summary: This chunk contains contextual background and definitions.]
+
+[Topic: LEGAL]
+
+# I. CONTEXT AND DEFINITIONS
+
+**1.** Generally, under the *Principle of Continuity of Laws*, laws enacted under an overthrown regime are not automatically invalidated upon the abolition of its constitution, unless those laws are inherently tied to that regime's ideology. Therefore, civil, criminal, and administrative laws normally remain in force until a new legal authority formally repeals them. However, in the case of the Islamic Republic
+
+title "Transitional System" serves as an umbrella term encompassing three institutions that will govern Iran during the transitional period, under the leadership of Crown Prince Reza Pahlavi. These three institutions are as follows: the *Transitional Mehestan* (the transitional legislative branch), the *Transitional Government* (the transitional executive branch), and the *Transitional Divan* (the transitional judiciary). For more information, see the white paper "Political: Process and Framework for Transition from the Islamic Republic."
+
+regime, many statutes (notably portions of the Civil Code and the entirety of the Islamic Penal Code) are inseparable from its religious and political ideologies. Thus, there is a credible basis to conclude that these statutes could automatically lose validity upon the abolition of the Constitution of the Islamic Republic, potentially undermining the validity of certain documents and deeds issued under such statutes. 

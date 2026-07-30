@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00335
+chunk_index: 335
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /CORE OBJECTIVES/
+page_start: 116
+page_end: 116
+summary: This chunk contains an objectives list.
+--- text (567 chars) ---
+[Summary: This chunk contains an objectives list.]
+
+[Topic: ENERGY]
+
+# CORE OBJECTIVES
+
+- Prevent sabotage, chaos, and operational collapse in the energy sector.
+- Restore and secure domestic electricity and fuel flows across all provinces.
+- Resume export operations to generate revenue for national recovery and ensure international confidence in Persian Gulf energy stability.
+- Establish the foundation for long-term institutional transition, regulatory reform, and public trust through transparency and phased handover to a restructured Ministry of Energy (MoE).

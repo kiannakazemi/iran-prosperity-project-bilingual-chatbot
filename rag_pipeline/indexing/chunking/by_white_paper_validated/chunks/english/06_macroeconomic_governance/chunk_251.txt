@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00251
+chunk_index: 251
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING THE BANKING SYSTEM AND THE CURRENCY/Recommendations/
+page_start: 89
+page_end: 89
+split_part: 2/2
+summary: This chunk contains a recommendation list.
+--- text (371 chars) ---
+[Summary: This chunk contains a recommendation list.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+capital forbearance policy.
+- Tasking CBI with a dual mandate: price stability and financial stability. Anchoring its policies around the three main pillars of modern central banking governance: independence, transparency, and accountability, supported by regular public reporting.

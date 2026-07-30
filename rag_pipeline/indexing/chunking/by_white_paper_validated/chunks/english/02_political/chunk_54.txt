@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00054
+chunk_index: 54
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/
+page_start: 27
+page_end: 27
+split_part: 2/6
+summary: This chunk contains an institutional framework description.
+--- text (1089 chars) ---
+[Summary: This chunk contains an institutional framework description.]
+
+[Topic: POLITICAL]
+
+head of the Transitional Mehestan shall be elected by its members through an absolute majority vote. 5
+- **5.** The Leader of the National Uprising shall serve as the Commander-in-Chief of the armed forces of Iran.
+- **6.** Within the official decree issued by the Leader of the National Uprising to dissolve the Islamic Republic and abolish its Constitution, there will be a section setting out structural reforms, 6 including the following:
+
+line with the Iranian people's wish to replace foreign words with Persian equivalents, this white paper uses the term "*Mehestan*" instead of the Arabic term for the legislative branch, "Majles-e Shora."
+
+the same reason mentioned in the previous footnote, the term "*Divan*" is used instead of the Arabic term for the judiciary, "Qoveh Qaza'ieh."
+
+this white paper, "absolute majority" refers to more than half of *all* members agreeing on an issue, while "simple majority" means the majority of the members *present* at a meeting agree on that issue.

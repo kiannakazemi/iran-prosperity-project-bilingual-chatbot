@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00161
+chunk_index: 161
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /STRATEGIC FOREIGN POLICY GOALS DURING THE TRANSITION/Responsible Defense as a Foundation for Cooperation/
+page_start: 62
+page_end: 62
+summary: This chunk contains strategic foreign policy goals.
+--- text (543 chars) ---
+[Summary: This chunk contains strategic foreign policy goals.]
+
+[Topic: FOREIGN POLICY]
+
+#### ● **Responsible Defense as a Foundation for Cooperation**
+
+Iran will build credible defense and security capabilities to protect its national interests and secure peace and stability in the region.
+
+### ● **Strategic U.S. Partnership for Regional Stability**
+
+Iran can serve as a force multiplier for regional peace and security and lessen the U.S. security burden by contributing to counterterrorism, regional integration, and economic development.

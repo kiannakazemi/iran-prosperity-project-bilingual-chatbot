@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00003
+chunk_index: 3
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /FOREWORD/
+page_start: 3
+page_end: 3
+split_part: 3/3
+summary: This chunk contains a foreword.
+--- text (1534 chars) ---
+[Summary: This chunk contains a foreword.]
+
+monarchy or a republic).
+
+To the people of Iran: your resolve has eroded the foundations of tyranny. This plan honors your sacrifices by providing the tools to rebuild our country—one where individual rights are protected, women and men in all religious and ethnic communities thrive equally, and opportunities in education, industry, and innovation abound. A free Iran will harness its natural resources, human capital, and strategic position to achieve rapid growth, environmental sustainability, and social wellbeing. United in purpose, we can transform challenges into progress, restoring Iran's position as a center of prosperity, true to the cradle of civilization she has always been.
+
+To leaders and policymakers in the region and the world: a democratic Iran will emerge as a reliable partner, committed to regional peace and global cooperation. Freed from the regime's support for terrorism, nuclear weapons programs, and proxy conflicts, Iran will normalize its relations, respect international norms, and contribute to shared goals such as countering extremism and stabilizing the Middle East. By supporting this transition through diplomatic recognition, economic cooperation, and technical assistance, you invest in a stable ally that bolsters security, advances trade, and strengthens our shared interests.
+
+This Booklet is a call to action, grounded in realism and hope. It lays the foundation of a path for an Iran that benefits both its people and the world.
+
+Reza Pahlavi

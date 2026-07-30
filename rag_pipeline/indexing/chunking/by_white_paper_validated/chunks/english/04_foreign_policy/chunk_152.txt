@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00152
+chunk_index: 152
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /FOREIGN POLICY: Reorienting Priorities Based on National Interests/
+page_start: 60
+page_end: 60
+summary: This chunk contains a white paper title and an introductory overview.
+--- text (1492 chars) ---
+[Summary: This chunk contains a white paper title and an introductory overview.]
+
+[Topic: FOREIGN POLICY]
+
+# FOREIGN POLICY: Reorienting Priorities Based on National Interests
+
+*February 2026*
+
+*This white paper outlines the foreign policy plan of Iran's* Transitional Governmen*t during the transitional period following the end of the Islamic Republic. Built on the principles of pragmatism, national interest, and non-ideological diplomacy, this framework aims to address the country's immediate security and foreign policy needs, secure international legitimacy, and prepare the ground for long-term regional stability and economic recovery.*
+
+*The transition period marks a historic opportunity to redefine Iran's role in the world. The ideological, confrontational, and destabilizing foreign policy of the Islamic Republic will give way to a responsible diplomacy rooted in cooperation, transparency, and national development.*
+
+*This white paper presents both the foundational principles of Iran's future foreign policy and a concrete, time-bound action plan for the first 100 days of the transition. It includes immediate steps to normalize relations with key global powers, reestablish credibility with international institutions, and launch regional cooperation initiatives. It also proposes institutional reforms within the Ministry of Foreign Affairs and establishes a dedicated Economic Diplomacy Task Force to lay the groundwork for attracting foreign investment in the future.*

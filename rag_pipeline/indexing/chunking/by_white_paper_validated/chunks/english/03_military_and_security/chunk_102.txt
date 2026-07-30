@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00102
+chunk_index: 102
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /PRINCIPLES OF DEMOCRATIC MILITARY REFORM/Integration of Armed Forces and Elimination of Parallel Structures/
+page_start: 45
+page_end: 45
+summary: This chunk contains a military reform principle.
+--- text (470 chars) ---
+[Summary: This chunk contains a military reform principle.]
+
+[Topic: MILITARY AND SECURITY]
+
+# **Integration of Armed Forces and Elimination of Parallel Structures**
+
+- The Transitional Government shall merge all armed entities, including the Artesh (conventional army), and other forces, into a single, unified, centralized, and accountable military structure.
+- Unified command and control, reduced bureaucracy, and enhanced operational efficiency must be prioritized.

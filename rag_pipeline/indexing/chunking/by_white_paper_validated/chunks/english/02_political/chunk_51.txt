@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00051
+chunk_index: 51
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /I. PRIOR TO THE FALL OF THE ISLAMIC REPUBLIC/
+page_start: 26
+page_end: 27
+split_part: 1/2
+summary: This chunk contains an institutional framework description.
+--- text (1036 chars) ---
+[Summary: This chunk contains an institutional framework description.]
+
+[Topic: POLITICAL]
+
+# I. PRIOR TO THE FALL OF THE ISLAMIC REPUBLIC
+
+- **1.** Crown Prince Reza Pahlavi, in his role as the leader of the national uprising and for the purpose of overseeing the transitional period (hereinafter, the "Leader of the National Uprising"), establishes two institutions:
+  - **1.1.** *National Uprising Council*: This Council shall serve as an advisory body and act as the policy and decision-making arm of the Leader of the National Uprising. Members of this Council will include individuals from both inside and outside Iran.
+
+- **1.2.** *Temporary Executive Team*: This Team shall be responsible for implementing policies and executing the decisions of the Leader of the National Uprising. Members of this Team will likewise include individuals from both inside and outside Iran.
+- **2.** For security reasons, the names of these individuals will be released when appropriate, at the discretion of the Leader of the National Uprising. 

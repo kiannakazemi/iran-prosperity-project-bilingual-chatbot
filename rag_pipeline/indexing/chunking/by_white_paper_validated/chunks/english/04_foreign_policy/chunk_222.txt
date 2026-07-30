@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00222
+chunk_index: 222
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /PROPOSAL: FORMATION OF A SPECIAL TASK FORCE FOR ECONOMIC DIPLOMACY AND FOREIGN INVESTMENT/Key Missions and Action Items/Short-Term (First 3 to 6 Months)/
+page_start: 78
+page_end: 78
+summary: This chunk contains an action plan.
+--- text (731 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: FOREIGN POLICY]
+
+### **Key Missions and Action Items**
+
+### **Short-Term (First 3 to 6 Months)**
+
+- Draft a comprehensive roadmap to strengthen economic diplomacy and attract foreign direct investment (FDI) through a coordinated interagency effort.
+- Produce an Iran Economic Opportunities Booklet in the six UN official languages (namely English, French, Spanish, Arabic, Chinese, and Russian) as well as in German and, if need be, other languages.
+- Launch a multilingual online investment platform for Iran.
+- Participate in at least three major global economic conferences (e.g., Davos, OECD, JETRO, GITEX).
+- Host investment opportunity workshops in strategic countries.

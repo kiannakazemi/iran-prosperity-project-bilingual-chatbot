@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00341
+chunk_index: 341
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /Phase 0: Pre-Entry Coordination (Before Day 1)/
+page_start: 118
+page_end: 118
+split_part: 3/3
+summary: This chunk contains an action plan.
+--- text (1279 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: ENERGY]
+
+
+
+- **Create the International Coordination Unit (ICU):** ICU will liaise with the U.S. Department. of Energy, EU external action services, Persian Gulf energy ministries, IEA, OPEC, IMF, World Bank, and others to coordinate technical aid, fuel stabilization, and to establish international credibility.
+- **Conduct strategic volumetric analysis of national refining capacity:** Prepare a full assessment of Iran's petroleum refining infrastructure to determine real-time operational output versus nominal rated capacity, with emphasis on gasoline, diesel, and jet fuel.
+  - Identify and map supply-demand gaps across urban, military, and critical services.
+  - Evaluate the technical and operational feasibility of restoring or maximizing the domestic supply within 30 days of transition.
+  - Shortlist external procurement options from regional allies to bridge anticipated shortfalls during the stabilization phase.
+  - Launch a Digital Twin of the national power grid and key refineries, using engineering diagrams to create a virtual model that can test how the system recovers from total shutdowns (blackstarts) and how it holds up if any single major line, plant, or piece of equipment fails (the N-1 rule).

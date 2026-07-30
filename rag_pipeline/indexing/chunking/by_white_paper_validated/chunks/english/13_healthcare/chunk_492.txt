@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00492
+chunk_index: 492
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 4 (Days 121‑180) — Reassessment and Reinforcement of OC, DMCP, Supply Chains and Digital Systems/Objectives and Key Priorities/
+page_start: 170
+page_end: 170
+summary: This chunk contains an objectives list and a priorities list.
+--- text (423 chars) ---
+[Summary: This chunk contains an objectives list and a priorities list.]
+
+[Topic: HEALTHCARE]
+
+### **Objectives and Key Priorities**
+
+- Conduct independent audits of the DMCP, OC, and national supply chains.
+- Table a Transitional Health‑Governance Bill enshrining OC independence and setting accreditation standards.
+- Expand EHOS to chronic‑disease and maternal modules, and run a national DMCP chemical/biological drill.

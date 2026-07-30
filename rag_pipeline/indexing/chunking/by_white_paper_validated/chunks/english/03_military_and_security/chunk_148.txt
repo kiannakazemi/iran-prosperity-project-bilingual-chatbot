@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00148
+chunk_index: 148
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /OPERATIONAL IMPLEMENTATION COMPANION TO IRAN'S TRANSITIONAL MILITARY REFORM PLAN/Phase A/B4: Days 101 to 140 | Global Integration and Legalization/Key Actions:/
+page_start: 57
+page_end: 58
+summary: This chunk contains a phase description and an action plan.
+--- text (415 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+### **Key Actions:**
+
+● **NSRB Oversight Activation:** A national civilian board to audit all military/security bodies.
+
+## **Phase A/B5: Days 141 to 180 | Stress Testing, Trust Building, Final Transfers**
+
+### **Strategic Focus:**
+
+- Run simulations to validate reforms.
+- Reinforce public trust and readiness.

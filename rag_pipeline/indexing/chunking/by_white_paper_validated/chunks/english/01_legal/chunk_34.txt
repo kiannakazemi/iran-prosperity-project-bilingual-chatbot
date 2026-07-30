@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00034
+chunk_index: 34
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /I. CONTEXT AND DEFINITIONS/
+page_start: 19
+page_end: 19
+split_part: 2/3
+summary: This chunk contains contextual background and evaluation criteria.
+--- text (1361 chars) ---
+[Summary: This chunk contains contextual background and evaluation criteria.]
+
+[Topic: LEGAL]
+
+Republic, potentially undermining the validity of certain documents and deeds issued under such statutes. This scenario would inevitably lead to legal and social instability, underscoring the need for a comprehensive transitional legal framework to prevent such an outcome.
+
+**2.** When formulating a legal framework for the transitional period in Iran, two competing imperatives must be reconciled: on the one hand, the legitimate desire to immediately eliminate all the Islamic Republic's retrograde laws, and on the other hand, the critical need to maintain stability during the transitional period, which may last up to three years. The objective is to establish an optimal framework that effectively balances these competing needs.
+**3.** To avoid misunderstanding, the term "optimal framework" in this white paper refers to a transitional legal framework that meets the following three criteria:
+
+- **3.1.** *Practical* Given the extensive responsibilities of the Transitional System, the framework must be realistically implementable;
+- **3.2.** *Stabilizing* It must ensure continuity and stability in the nation's daily legal affairs during the transitional period; and
+- **3.3.** *Promising –* It must inspire hope and confidence among the Iranian people. 

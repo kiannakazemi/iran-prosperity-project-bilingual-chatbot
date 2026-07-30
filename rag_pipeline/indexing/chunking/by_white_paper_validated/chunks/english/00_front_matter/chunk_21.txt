@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00021
+chunk_index: 21
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/STRUCTURE OF THE EMERGENCY PHASE BOOKLET/
+page_start: 9
+page_end: 9
+split_part: 1/5
+summary: This chunk contains a booklet structure overview and white paper summaries.
+--- text (1551 chars) ---
+[Summary: This chunk contains a booklet structure overview and white paper summaries.]
+
+### STRUCTURE OF THE EMERGENCY PHASE BOOKLET
+
+The Booklet comprises fourteen white papers addressing fourteen topics essential to the Transitional Period. The first two focus on legal and political frameworks for transitional governance. The remaining papers cover key areas such as foreign policy, the military and security apparatus, cybersecurity, financial and macroeconomic reform, and education.
+
+The legal and political white papers present a comprehensive plan for Iran's transition from an Islamic theocracy to a secular democracy and detail the legal reforms necessary to achieve this goal. Under the proposed legal framework, Crown Prince Reza Pahlavi will issue an official decree consisting of three parts: 1) abolishing the Constitution of the Islamic Republic to create a clear break from the regime; 2) retaining, as a default rule, all existing laws and institutions—except for those listed in the next part—throughout the Transitional Period to ensure legal stability; and 3) repealing any laws and dissolving any institutions that are in clear conflict with Iran's historical and national identity or with the Universal Declaration of Human Rights. To avoid any legal vacuum, replacement laws and institutions will be drawn from the Pahlavi Imperial era for use during the Transitional Period, and if a law or institution from that era does not meet the modern needs, it will be updated or replaced with a new one, whichever is more effective. 

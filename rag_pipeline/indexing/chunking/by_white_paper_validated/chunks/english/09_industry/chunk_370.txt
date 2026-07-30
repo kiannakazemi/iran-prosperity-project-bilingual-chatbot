@@ -1,0 +1,29 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00370
+chunk_index: 370
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /Phase 1: Emergency Seizure and Lockdown (Days 1 to 10)/
+page_start: 128
+page_end: 128
+split_part: 1/2
+summary: This chunk contains a phase description and an action plan.
+--- text (1531 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: INDUSTRY]
+
+## **Phase 1: Emergency Seizure and Lockdown (Days 1 to 10)**
+
+- Seize and secure major production facilities previously operated by IRGC-linked foundations (Khatam al-Anbia, Bonyad-e Mostazafan, EIKO). Detain or suspend senior leadership and replace with vetted local professionals.
+- Protect Tier 1 facilities (wheat mills, dairy, pharma plants, poultry feed processors) with military security and local workforce support.
+- Deploy coordinated security measures including military guards, rapid perimeter fortification, and community-based monitoring, to protect factories, warehouses, and raw material depots from looting or sabotage, which historically cause irreversible asset loss during transitions.
+- Issue joint TIRA–Central Bank (CBI) decree:
+  - Cap daily cash withdrawals from bank branches/ATMs (thresholds set by MoEcon/CBI and reviewed weekly).
+  - Freeze conversion or transfer from brokerage/investment accounts into checking/savings to prevent panic liquidity drains.
+  - Ban fire-sale asset transfers/ownership changes (block trades, control transactions) without explicit approval.
+  - Enforce foreign-exchange (FX) cash-carry limits at borders with declaration requirements and penalties for excess.
+- Deploy Rapid Inventory and Capacity Teams to assess functionality of core agro-processing and pharmaceutical lines.
+- Seize and safeguard customs warehouses, industrial input depots, and black-market medical storage.

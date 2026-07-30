@@ -1,0 +1,29 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00202
+chunk_index: 202
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /IRAN'S ROLE IN REGIONAL ORDER AND MULTILATERAL COOPERATION FRAMEWORKS/The Persian Gulf and Arabian Peninsula/Actions and Timeline/Month 1/
+page_start: 72
+page_end: 72
+summary: This chunk contains an action plan timeline.
+--- text (629 chars) ---
+[Summary: This chunk contains an action plan timeline.]
+
+[Topic: FOREIGN POLICY]
+
+#### ● **Month 1**
+
+- Official visits or the dispatch of special envoys to Riyadh, Abu Dhabi, Doha, Kuwait City, Manama, and Muscat.
+- Begin bilateral talks on:
+  - Maritime security.
+  - Energy corridors and joint investments.
+  - Cooperation on curbing extremism.
+
+### ● **Months 2 to 3**
+
+- Propose a multilateral mechanism involving:
+  - Iran, the six GCC states, and observers from the UN or the EU.
+  - Advance the formation of a joint commission on energy and maritime security to manage crises and ensure stability in the Strait of Hormuz.

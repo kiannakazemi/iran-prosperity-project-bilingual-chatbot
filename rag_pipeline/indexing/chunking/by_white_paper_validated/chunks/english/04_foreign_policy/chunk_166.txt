@@ -1,0 +1,28 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00166
+chunk_index: 166
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /FIRST 100 DAYS: ACTION PLAN SUMMARY/Timeline and Key Actions/Month 1/
+page_start: 63
+page_end: 63
+summary: This chunk contains an action plan timeline.
+--- text (567 chars) ---
+[Summary: This chunk contains an action plan timeline.]
+
+[Topic: FOREIGN POLICY]
+
+### ● **Month 1**
+
+- Open diplomatic channels.
+- Enter formal talks on priority issues with the U.S., EU, Israel, China, Russia, and neighbors.
+- Officially start negotiations to remove sanctions.
+- Accept International Atomic Energy Agency (IAEA) inspections.
+
+### ● **Months 2 to 3**
+
+- Draft memoranda of understanding (MOUs) on trade, non-aggression, and security cooperation.
+- Launch regional security/economic initiatives.
+- Sign preliminary agreements with the U.S. and Israel.

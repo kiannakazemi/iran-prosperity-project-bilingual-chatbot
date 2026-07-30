@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00059
+chunk_index: 59
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/A. TRANSITIONAL MEHESTAN/
+page_start: 29
+page_end: 29
+split_part: 1/2
+summary: This chunk contains an institutional mandate description and a responsibilities list.
+--- text (1559 chars) ---
+[Summary: This chunk contains an institutional mandate description and a responsibilities list.]
+
+[Topic: POLITICAL]
+
+## **A. TRANSITIONAL MEHESTAN**
+
+- **8.** The Transitional Mehestan shall act as the legislative branch during the transitional period. It shall also assume the advisory role of the National Uprising Council outlined in paragraph 1.1.
+- **9.** The appointment, removal, and adjustment of the total number of members of the Transitional Mehestan—who shall represent the diversity of the unified Iranian nation—shall be made by the Leader of the National Uprising. Other than the first action (i.e., appointment), the other two actions (i.e., removal of members and adjustment of their total number) may also be effected through an absolute majority vote of the Transitional Mehestan members, followed by the approval of the Leader of the National Uprising.
+- **10.** The responsibilities of the Transitional Mehestan shall include, but are not limited to, the following:
+  - **10.1.** Identifying which laws must be repealed after the fall of the Regime and which laws can remain in effect until the formation of the elected Mehestan. Details of this process are set out in the white paper "Legal: Process and Framework for Transition from the Islamic Republic."
+  - **10.2.** Enacting temporary new laws either to replace the repealed laws (discussed in the preceding subparagraph) or, when requested by the Transitional Government, to address matters requiring new laws for the administration of the country during the transitional period. 

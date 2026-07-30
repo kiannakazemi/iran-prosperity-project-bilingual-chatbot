@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00242
+chunk_index: 242
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /FISCAL POLICY/Monitoring and Evaluation/
+page_start: 87
+page_end: 87
+summary: This chunk contains monitoring metrics.
+--- text (857 chars) ---
+[Summary: This chunk contains monitoring metrics.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Monitoring and Evaluation**
+
+- **Budget Execution and Fiscal Balance:** Monitor revenues, expenditures, and the overall fiscal balance on a monthly basis, including the use of domestic debt instruments and emergency funds.
+- **Government Payment Continuity:** Track the timeliness and completeness of key government payments, including wages, pensions, and subsidy transfers.
+- **Public Sector Spending Efficiency:** Measure the share of spending allocated to essential functions versus legacy or ideological institutions, and assess the pace of administrative consolidation (e.g., ministry mergers, Bonyad reforms).
+- **Access to External Resources:** Monitor progress toward unlocking frozen assets and securing short-term financing from multilateral institutions.

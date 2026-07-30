@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00304
+chunk_index: 304
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /CORPORATE HOLDINGS/Subsidiaries Abroad and Shell Companies/
+page_start: 107
+page_end: 107
+summary: This chunk contains asset category descriptions.
+--- text (425 chars) ---
+[Summary: This chunk contains asset category descriptions.]
+
+[Topic: NATIONAL ASSETS]
+
+## **Subsidiaries Abroad and Shell Companies**
+
+● Numerous subsidiaries and shell companies are maintained in Europe (especially Germany), the Middle East (UAE, Türkiye), and Asia for sanctions evasion, procurement of dual-use technology, and investment of surplus capital. These are often presented as legitimate, independent businesses.

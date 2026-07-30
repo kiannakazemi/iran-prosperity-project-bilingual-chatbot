@@ -1,0 +1,30 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00136
+chunk_index: 136
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /OPERATIONAL IMPLEMENTATION COMPANION TO IRAN'S TRANSITIONAL MILITARY REFORM PLAN/Phase 0: Pre-Fall Operations and Strategic Preparation/Strategic Priorities/
+page_start: 53
+page_end: 54
+summary: This chunk contains an action plan.
+--- text (1011 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+### **Strategic Priorities**
+
+- Achieve internal intelligence superiority.
+- Encourage internal defections.
+
+● Build forward-operational capabilities, diaspora integration, defectors and revolutionary cells.
+
+### **Key Initiatives**
+
+#### **National Defection and Cooperation Platform (NDCP)**
+
+- The establishment and strengthening of secure and reliable communication mechanisms, with a focus on protecting the safety of individuals inside Iran, in order to support those who voluntarily and peacefully disengage from the regime and seek to cooperate with the transition process.
+- The conduct of real-time vetting and credential verification, including identity confirmation through biometric technologies such as facial recognition.
+- The creation of an initial registration system to determine the appropriate placement and roles of these individuals within the security and military structures of the Transitional Government.

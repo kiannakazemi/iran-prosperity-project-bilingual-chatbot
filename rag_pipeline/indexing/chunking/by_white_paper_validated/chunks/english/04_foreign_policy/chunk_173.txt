@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00173
+chunk_index: 173
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /FIRST 100 DAYS: ACTION PLAN SUMMARY/IRAN AND NEIGHBORING COUNTRIES/Month One: Regional Visits by Interim Officials or Special Envoys/UAE/
+page_start: 65
+page_end: 65
+summary: This chunk contains a diplomatic action plan.
+--- text (475 chars) ---
+[Summary: This chunk contains a diplomatic action plan.]
+
+[Topic: FOREIGN POLICY]
+
+### ● **UAE**
+
+**Core Objective:** De-escalate tensions and secure energy and trade flows.
+
+**Initial Agreement Proposal:** Strengthening diplomatic and trade relations and energy corridor guarantees.
+
+### ● **Oman**
+
+**Core Objective:** Build on long-standing diplomatic and commercial ties.
+
+**Initial Agreement Proposal:** Coordinate on regional diplomacy, maritime security, and commerce.

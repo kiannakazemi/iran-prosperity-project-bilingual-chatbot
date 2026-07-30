@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00070
+chunk_index: 70
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/B. TRANSITIONAL GOVERNMENT/
+page_start: 33
+page_end: 33
+split_part: 10/11
+summary: This chunk contains an action plan.
+--- text (1417 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: POLITICAL]
+
+system, the Constituent Assembly shall be dissolved immediately after the approval of the Constitution. The Transitional Government shall then hold a presidential election within a maximum of two months following the approval of the Constitution. The President-Elect shall take his/her oath before the elected Mehestan (discussed in the next subparagraph).
+- **15.8.2.3** Regardless of the system (monarchy or republic), the Transitional Government shall hold an election for Mehestan within three months of the Constitution's approval. This means that, in the case of a republican system, the presidential election (as mentioned in the previous sub-paragraph) and the Mehestan election shall be held simultaneously. Both elections shall be conducted freely and in accordance with international democratic standards, and all eligible Iranian voters shall be able to exercise their right to vote.
+- **15.9.** Charting the path toward forming the elected Government: The Transitional Government shall be responsible for providing the means for one of the following scenarios, depending on the system of government selected by the nation:
+  - **15.9.1.** If a parliamentary monarchy is selected, the Prime Minister and his/her cabinet shall be nominated, approved, sworn in (as provided in the new Constitution), and shall form the elected Government. 

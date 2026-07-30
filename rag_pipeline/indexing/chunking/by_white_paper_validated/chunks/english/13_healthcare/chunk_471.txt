@@ -1,0 +1,28 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00471
+chunk_index: 471
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Preparedness Phase (Day 0 → before Day 1)/Objectives/
+page_start: 165
+page_end: 166
+summary: This chunk contains an objectives list and a priorities list.
+--- text (698 chars) ---
+[Summary: This chunk contains an objectives list and a priorities list.]
+
+[Topic: HEALTHCARE]
+
+### **Objectives**
+
+- The OC sets policy and accountability mechanisms.
+- The DMCP drafts triage algorithms, evacuation routes, and surge‑staff rosters.
+
+● A nationwide map of ICU, dialysis, and operating‑room capacity forms the baseline for a live trauma dashboard.
+
+### **Key Priorities**
+
+- Appoint technically competent OC members, including Iranian diaspora clinicians, and provincial physician leaders from Iran.
+- Compile a live inventory of trauma beds and cold‑chain nodes to feed an open‑data dashboard.
+- Pre‑stage field‑triage modules, trauma kits, and satellite phones at regional airports.

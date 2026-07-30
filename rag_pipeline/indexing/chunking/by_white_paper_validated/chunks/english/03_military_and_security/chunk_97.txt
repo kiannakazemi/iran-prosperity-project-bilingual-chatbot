@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00097
+chunk_index: 97
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /CORE STRATEGIC PRIORITIES DURING TRANSITION/Establishing Fair Vetting Committees for Personnel Review/Rebuilding Trust Among Former and New Military and Security Personnel/
+page_start: 44
+page_end: 44
+split_part: 1/2
+summary: This chunk contains a policy recommendation.
+--- text (961 chars) ---
+[Summary: This chunk contains a policy recommendation.]
+
+[Topic: MILITARY AND SECURITY]
+
+### **Rebuilding Trust Among Former and New Military and Security Personnel**
+
+- The Transitional Government shall, through official messaging and concrete measures, emphasize that its objective is reform, not retribution. It shall also make clear that it distinguishes between those who ordered and perpetrated human rights violations against Iranians and those who had no role in committing such crimes.
+- The treatment of mid-level and lower-level personnel shall be respectful, grounded in military rules and regulations, free from personal bias or vendettas, and conducted with due regard for job security and human dignity, in order to prevent the emergence of disobedience, mistrust, or reluctance to integrate.
+- To this end, a dedicated task force shall be established to allow members of the armed forces to report internal organizational issues and grievances. 

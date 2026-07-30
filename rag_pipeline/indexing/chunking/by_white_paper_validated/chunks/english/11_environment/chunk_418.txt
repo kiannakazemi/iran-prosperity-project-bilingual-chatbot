@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00418
+chunk_index: 418
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENVIRONMENT
+header_path: /ENVIRONMENT: Managing and Protecting Natural Resources/
+page_start: 146
+page_end: 146
+summary: This chunk contains a white paper title and an introductory overview.
+--- text (1006 chars) ---
+[Summary: This chunk contains a white paper title and an introductory overview.]
+
+[Topic: ENVIRONMENT]
+
+# ENVIRONMENT: Managing and Protecting Natural Resources
+
+*February 2026*
+
+*This white paper outlines a strategic framework for environmental management and governance during the emergency phase of Iran's post-regime transition. It focuses on the stabilization of critical ecosystems, the restoration of core environmental governance functions, and the urgent mitigation of acute pollution threats with direct risk to public health. The plan also aims to lay the foundation for long-term reform by engaging stakeholders, the private sector, academic networks, NGOs, and the public, while restoring institutional legitimacy and mobilizing international cooperation. Given the acute state of water bankruptcy in Iran and its urgent implications for national security, a dedicated "Water" chapter has been included separately, while remaining closely coordinated with the environmental transitional plan.*

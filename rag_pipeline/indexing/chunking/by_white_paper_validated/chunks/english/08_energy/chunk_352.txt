@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00352
+chunk_index: 352
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /Phase 6: Economic Opening and Regulatory Alignment (Days 161 to 180)/
+page_start: 121
+page_end: 121
+split_part: 1/2
+summary: This chunk contains a phase description and an action plan.
+--- text (1218 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: ENERGY]
+
+## **Phase 6: Economic Opening and Regulatory Alignment (Days 161 to 180)**
+
+This final transition phase focuses on legal and market readiness to reintroduce Iran as a credible energy actor in the international system. Regulatory structures are piloted, investment groundwork is laid, and the energy governance model is made public.
+
+- **Draft emergency energy charter:** Release an interim charter outlining rules on market access, regulatory independence, and emissions targets. The Full Energy Act will be developed over 12 months through consultative processes.
+- **Stand up independent energy regulatory authority:** Empower a provisional body to issue interim tariffs, oversee grid pilots, and ensure non-discriminatory access. Staffed with vetted experts and supported by international advisors.
+- **Electricity pilot market (staged):** Launch limited demand response and time-of-use simulations for government and commercial users. Begin national AMI (Advanced Metering Infrastructure) roadmap development.
+- **Iran energy dialogue forum:** Position the summit as a platform for transparency and constructive engagement. 

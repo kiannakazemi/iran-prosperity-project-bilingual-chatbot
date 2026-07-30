@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00483
+chunk_index: 483
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 2 (Days 31‑90) — Mental Health Surge, Insurance Continuity and Workforce Allocation/Importance/
+page_start: 168
+page_end: 168
+summary: This chunk contains a rationale statement.
+--- text (995 chars) ---
+[Summary: This chunk contains a rationale statement.]
+
+[Topic: HEALTHCARE]
+
+### **Importance**
+
+Long‑term studies of Bosnian war survivors show that untreated trauma triples later disability claims, burdening fragile insurance schemes [5]. Early insurance continuity also reduces catastrophic out‑of‑pocket spending, as demonstrated by Rwanda's community‑insurance scale‑up [9]. However, in many post-crisis contexts, the scarcity of mental health professionals constrains service availability just as population-level psychological need spikes.
+
+Scalable, AI-augmented peer support models address this bottleneck by offering around-the-clock care for low-acuity emotional needs, such as grief, family stress, trauma recovery, and reintegration challenges. Properly trained and clinically supervised peer responders—augmented by natural language processing tools for triage and suicide detection—can extend clinician reach, lower system burden, and provide culturally resonant care at scale.[11]

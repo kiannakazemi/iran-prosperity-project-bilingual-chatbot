@@ -1,0 +1,18 @@
+--- metadata ---
+chunk_id: fa__Emergency_Phase_PERSIAN_20260301_1440__00027
+chunk_index: 27
+source_file: Emergency_Phase_PERSIAN_20260301_1440.md
+source_pdf: Emergency_Phase_PERSIAN_20260301_1440.pdf
+language: fa
+white_paper: Front Matter
+header_path: /فهرست مطالب/
+page_start: 15
+page_end: 15
+split_part: 2/2
+summary: این تکه شامل فهرست مطالب و سلب مسئولیت است.
+--- text (304 chars) ---
+[Summary: این تکه شامل فهرست مطالب و سلب مسئولیت است.]
+
+ایدئولوژی‌زدایی..............................173
+
+سلب مسئولیت: نویسندگان این کتابچه، آن را به سفارش نوفدی تدوین کردهاند. دیدگاههای مطرحشده صرفاً متعلق به نویسندگان و/یا نوفدی میباشد و لزوما بازتابدهنده مواضع و دیدگاههای کارفرمایان نویسندگان نیست. ً

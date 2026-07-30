@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00328
+chunk_index: 328
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /RECOMMENDATIONS/Leverage Diaspora Expertise and International Cooperation/
+page_start: 112
+page_end: 112
+summary: This chunk contains a recommendation list.
+--- text (665 chars) ---
+[Summary: This chunk contains a recommendation list.]
+
+[Topic: NATIONAL ASSETS]
+
+# **● Leverage Diaspora Expertise and International Cooperation**
+
+- **Diaspora Expertise**: Actively recruit and vet experts from the Iranian diaspora with experience in international finance, forensic accounting, and law. Create a formal advisory council to assist the task force.
+- **International Cooperation:** Formalize partnerships with international bodies like the World Bank/UNODC Stolen Asset Recovery (StAR) Initiative, FATF, and Interpol. These organizations can provide technical assistance, training, and a global platform for coordinating legal and diplomatic efforts.

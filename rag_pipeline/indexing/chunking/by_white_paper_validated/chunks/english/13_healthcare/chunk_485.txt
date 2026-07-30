@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00485
+chunk_index: 485
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 2 (Days 31‑90) — Mental Health Surge, Insurance Continuity and Workforce Allocation/Actions and Recommendations/
+page_start: 169
+page_end: 169
+summary: This chunk contains an action plan and a recommendation list.
+--- text (1119 chars) ---
+[Summary: This chunk contains an action plan and a recommendation list.]
+
+[Topic: HEALTHCARE]
+
+### **Actions and Recommendations**
+
+Train three‑person psychosocial teams (psychiatry specialist/resident, social worker, local nurse) to leverage cultural legitimacy; roll out biometric EHVS cards with mobile‑money reimbursement; and publish hardship‑bonus postings for underserved districts. Establish a nationwide peer-support infrastructure, operational 24/7 through chat and phone-based access points. Deploy AI-supported triage engines that classify the severity of distress and escalate high-risk users (e.g., suicidality, psychosis, trauma flashbacks) to clinicians in real-time. Build and launch a national suicide prevention hotline capable of routing calls/texts through AI-powered urgency filters to either trained peers or on-call clinicians. Embed PHQ-9 and GAD-7 (standardized questionnaires) assessments into digital and in-person support workflows to enable longitudinal mental health tracking. Coordinate with the Oversight Committee to monitor ethical use of AI, supervision coverage, and feedback loops.

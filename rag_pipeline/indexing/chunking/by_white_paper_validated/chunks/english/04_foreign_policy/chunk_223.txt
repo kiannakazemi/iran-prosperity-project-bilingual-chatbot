@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00223
+chunk_index: 223
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /PROPOSAL: FORMATION OF A SPECIAL TASK FORCE FOR ECONOMIC DIPLOMACY AND FOREIGN INVESTMENT/Key Missions and Action Items/Medium-Term (6 to 18 Months)/
+page_start: 78
+page_end: 78
+summary: This chunk contains an action plan and policy principles.
+--- text (562 chars) ---
+[Summary: This chunk contains an action plan and policy principles.]
+
+[Topic: FOREIGN POLICY]
+
+### **Medium-Term (6 to 18 Months)**
+
+- Deploy Economic Counselors to 20 key embassies.
+- Organize an annual "New Iran Economy International Conference" in Tehran or other countries.
+
+# **Core Principles**
+
+- Transparency and anti-corruption in investment promotion.
+- Guarantee of capital repatriation and protection of property rights.
+- Focus on job-creating and export-oriented projects.
+- Pragmatic, non-ideological engagement with all global powers and markets.

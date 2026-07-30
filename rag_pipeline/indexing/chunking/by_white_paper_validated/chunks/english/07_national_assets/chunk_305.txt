@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00305
+chunk_index: 305
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /DIGITAL / INTANGIBLE ASSETS/Databases and Registries/
+page_start: 107
+page_end: 107
+summary: This chunk contains asset category descriptions.
+--- text (432 chars) ---
+[Summary: This chunk contains asset category descriptions.]
+
+[Topic: NATIONAL ASSETS]
+
+# DIGITAL / INTANGIBLE ASSETS
+
+### **Databases and Registries**
+
+● Control over critical national databases, including the National Organization for Civil Registration (NOCR), the Organization for Registration of Deeds and Properties, and company registries. These are highly valuable for identifying individuals, assets, and corporate networks.

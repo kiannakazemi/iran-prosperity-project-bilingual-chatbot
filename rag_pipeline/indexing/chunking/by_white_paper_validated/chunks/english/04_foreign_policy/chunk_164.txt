@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00164
+chunk_index: 164
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /STRATEGIC FOREIGN POLICY GOALS DURING THE TRANSITION/Multilateral Regional Cooperation Frameworks/
+page_start: 62
+page_end: 62
+summary: This chunk contains strategic foreign policy goals.
+--- text (739 chars) ---
+[Summary: This chunk contains strategic foreign policy goals.]
+
+[Topic: FOREIGN POLICY]
+
+#### ● **Multilateral Regional Cooperation Frameworks**
+
+Iran aims to join or lead initiatives across the Persian Gulf, Levant, Central Asia, and around the world—covering maritime security, reconstruction, counterterrorism, trade, and connectivity.
+
+#### ● **End of Ideological and Hostile Foreign Policy**
+
+The new era will mark a decisive shift from ideology-driven interventionism toward constructive, pragmatic, and neighborly engagement. Iran's foreign policy will be guided by national interest, mutual respect, and regional cooperation—replacing confrontation and "export of the revolution" with partnership, stability, and shared prosperity.

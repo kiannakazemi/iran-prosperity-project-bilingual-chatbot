@@ -1,0 +1,16 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00014
+chunk_index: 14
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/OBJECTIVE: A PRACTICAL ROADMAP TO REBUILDING IRAN/
+page_start: 7
+page_end: 7
+split_part: 3/3
+summary: This chunk contains an objective statement.
+--- text (329 chars) ---
+[Summary: This chunk contains an objective statement.]
+
+Iranians. The authors have subsequently analyzed the feedback received and revised the Booklet accordingly. While this Booklet primarily focuses on the Emergency Phase, it also contains elements that affect the medium- and long-term viability of a free and democratic Iran.

@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00367
+chunk_index: 367
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /KEY PRIORITIES/
+page_start: 127
+page_end: 127
+split_part: 3/3
+summary: This chunk contains a priorities list.
+--- text (1311 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: INDUSTRY]
+
+pharmaceutical ingredients, wheat, medical supplies, fertilizer, machine parts, and clean packaging materials. Coordinate import financing with short-term domestic government issuance and banking forbearance to ensure working capital for Tier 1 and 2 inputs.
+- **Stand up Supply Chain Risk Control Unit:** Monitor bottlenecks, hoarding, and sabotage risks across transportation, agro-logistics, and industrial inputs.
+- **Form Industrial Situation Room under TIRA:** 24/7 cross-functional team (power, water, customs, parts, security) with an hourly Service Level Agreement to clear blockers for Top-100 plants; publish a public burn-down chart of resolved vs. open issues.
+- **Prepare Transitional Industrial Law:** Set legal foundation for factory property rights, custodianship/receivership powers (not blanket nationalization), 30-day fast-track dispute resolution, temporary indemnity for vetted emergency managers acting in good faith, and a re-privatization roadmap.
+- **Embed early financial-stability measures:** Support a 3–6 month temporary, market-wide suspension of trading on the Tehran Stock Exchange, enforce withdrawal caps, freeze conversion of investment accounts, and ban fire-sale ownership changes during stabilization.

@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00179
+chunk_index: 179
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /FIRST 100 DAYS: ACTION PLAN SUMMARY/IRAN AND NEIGHBORING COUNTRIES/Immediate Actions in Cooperation with Neighbors/Proposal for a Regional Framework/
+page_start: 66
+page_end: 66
+summary: This chunk contains a proposal.
+--- text (728 chars) ---
+[Summary: This chunk contains a proposal.]
+
+[Topic: FOREIGN POLICY]
+
+# ● **Proposal for a Regional Framework**
+
+- Iran proposes the establishment of a joint mechanism titled "*Framework for Regional Stability*" with the participation of all neighboring countries to enhance coordination, transparency, and mutual trust across the region.
+- Under this proposal, Iran will host monthly meetings with all its neighboring states to review regional developments, facilitate regular exchanges of security information, and promote confidence-building measures.
+- If deemed appropriate, international observers from the UN or the EU will be invited to attend these meetings to ensure the transparency and impartiality of this mechanism.

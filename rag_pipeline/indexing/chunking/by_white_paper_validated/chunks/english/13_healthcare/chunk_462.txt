@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00462
+chunk_index: 462
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /OBJECTIVES/
+page_start: 163
+page_end: 163
+summary: This chunk contains an objectives list and a priorities list.
+--- text (1349 chars) ---
+[Summary: This chunk contains an objectives list and a priorities list.]
+
+[Topic: HEALTHCARE]
+
+# OBJECTIVES
+
+- Minimize disruption to Iran's existing healthcare provision and financing system.
+- Introduce targeted supply-side and coverage reforms to immediately enhance affordability and access.
+
+# KEY PRIORITIES
+
+- **Collect Insurance Premiums:** The government should continue to collect premiums for insurance plans such as SSI (Social Security Insurance), IHI (Iranian Health Insurance) and AFHI (Armed Forces Health Insurance) to the extent possible. This will lower the chance that the healthcare system will experience a funding shortfall (or reduce its severity in the event it occurs).
+- **Maintain Current Subsidies:** To minimize disruptions in the delivery of healthcare services in the short term, the government will maintain the subsidies that it currently provides to the healthcare system (costing ~1.5% of Iran's current GDP). These include subsidies to providers, premium-reduction subsidies to individuals purchasing IHI, and government contributions to SSI and other eligible insurance plans.
+- **Inject Emergency Funds If Necessary:** The government should be prepared to provide additional funding on an emergency basis to the healthcare system in case its ability to collect premiums in the short term is severely disrupted.

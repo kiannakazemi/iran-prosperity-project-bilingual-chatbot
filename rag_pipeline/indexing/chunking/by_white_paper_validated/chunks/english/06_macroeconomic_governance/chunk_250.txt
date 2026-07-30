@@ -1,0 +1,31 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00250
+chunk_index: 250
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING THE BANKING SYSTEM AND THE CURRENCY/Recommendations/
+page_start: 89
+page_end: 89
+split_part: 1/2
+summary: This chunk contains a recommendation list.
+--- text (1491 chars) ---
+[Summary: This chunk contains a recommendation list.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Recommendations**
+
+- Act swiftly to establish control over fiscal and monetary institutions to prevent systemic collapse.
+- Prioritize leadership appointments in financial institutions to signal stability and technocratic governance.
+- Use capital controls and asset freezes strategically to safeguard national wealth while allowing time for legal investigations.
+- Focus early actions on deposit guarantees and payment system continuity to maintain public confidence.
+- Seek international recognition (from the US, EU, China, IMF, UN) to unlock access to 120–150 billion in frozen reserves.
+- Use emergency funds to stabilize the banking system, support fiscal operations, and reinitiate trade in oil and gas.
+- Begin diplomatic engagement with multilateral institutions to rebuild Iran's credibility in global financial markets.
+- Defer large-scale structural or constitutional reforms until a democratically elected government assumes office.
+- Downsize ideological or parallel institutions to signal reform and reduce fiscal burdens.
+- Continuously monitor public sentiment and financial conditions to recalibrate measures in real time.
+- Hiring external auditors to conduct a comprehensive audit of financial institutions and their financial statements and meanwhile placing a regulatory capital forbearance policy.
+- Tasking CBI with a dual mandate: price stability and financial stability. 

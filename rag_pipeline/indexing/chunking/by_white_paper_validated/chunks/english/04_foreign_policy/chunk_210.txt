@@ -1,0 +1,34 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00210
+chunk_index: 210
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /EMERGENCY FOREIGN MINISTRY RECONSTRUCTION PLAN DURING TRANSITION/Key Goals/
+page_start: 74
+page_end: 74
+split_part: 1/4
+summary: This chunk contains goals and an action plan.
+--- text (1062 chars) ---
+[Summary: This chunk contains goals and an action plan.]
+
+[Topic: FOREIGN POLICY]
+
+### **Key Goals**
+
+- Immediate control over the Islamic Republic's diplomatic network.
+- Appointment of interim representatives to key countries and international bodies.
+- Ensuring uninterrupted embassy and consular services.
+- Launch of merit- and loyalty-based screening of diplomats.
+
+# **First 14-Day Action Plan**
+
+- **● Week 1: Official Announcement by the Transitional Government**
+  - Declare the end of ideological foreign policy.
+  - Issue directives to all embassies:
+    - Maintain administrative order and avoid abandonment or destruction of documents.
+    - Ban any independent political statements.
+- **● Week 2: Appoint Interim Special Representatives to Key Countries and Institutions** Due to the urgency of certain relationships, the Transitional Government will immediately dismiss current ambassadors of the Islamic Republic in key countries and appoint interim special envoys to:
+  - Deliver the message of regime change.
+  - Open new diplomatic channels.

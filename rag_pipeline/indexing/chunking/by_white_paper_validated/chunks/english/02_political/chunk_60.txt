@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00060
+chunk_index: 60
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/A. TRANSITIONAL MEHESTAN/
+page_start: 29
+page_end: 29
+split_part: 2/2
+summary: This chunk contains a responsibilities list.
+--- text (1529 chars) ---
+[Summary: This chunk contains a responsibilities list.]
+
+[Topic: POLITICAL]
+
+address matters requiring new laws for the administration of the country during the transitional period. In this regard, the Transitional Mehestan shall appoint a panel of five distinguished jurists to provide direct consultation, and the Transitional Mehestan shall consider their views in any legislative process.
+  - **10.3.** Reviewing and approving the national annual budget proposed by the Transitional Government.
+  - **10.4.** Determining the total number of seats in the Constituent Assembly and the eligibility criteria for candidates, such as the minimum age and educational qualifications, who will be elected through an election that meets international democratic standards (discussed below, paragraph 15.7). These matters shall be finalized before the referendum on the system of government (discussed below, paragraph 15.6), so that the public and political parties can engage in a national dialogue regarding the election—with full awareness of the number of seats and the candidacy criteria—during the period between the referendum and the Constituent Assembly election.
+- **11.** Once the elected Mehestan is officially formed, the legislative role of the Transitional Mehestan will end. However, it shall continue to serve as the advisory body to the Leader of the National Uprising until the Transitional Government is dissolved, which will also mark the dissolution of the Transitional Mehestan (discussed below, paragraph 15.9).

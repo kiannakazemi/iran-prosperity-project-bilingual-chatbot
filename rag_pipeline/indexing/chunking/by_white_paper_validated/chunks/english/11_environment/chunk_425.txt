@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00425
+chunk_index: 425
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENVIRONMENT
+header_path: /Phase 0—Before Day 1/
+page_start: 148
+page_end: 148
+split_part: 2/2
+summary: This chunk contains an action plan.
+--- text (1126 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: ENVIRONMENT]
+
+with the TWGS to prevent duplication and conflict of interest and ensure integrated recovery planning. TEETF and its sub-entities will be dismantled once institutional stability is restored or upon completion of the transitional period.
+- **Develop a Preliminary National Ecological Triage Map**: Using existing satellite data, NGO reports, and academic research, the TEETF will produce a triage map of Iran's most endangered ecosystems, including wetlands, lakes, river basins, forests, coastal zones, and biodiversity hotspots, to enable the Transitional Government to deploy resources selectively where collapse is imminent and recovery is still feasible.
+- **Identify International Environmental Agencies for Emergency Assistance:** Identify key international environmental agencies and regional multilateral institutions to coordinate emergency assistance when conditions allow. These agencies will be critical for deploying rapid technical missions, supplying equipment, and unlocking multilateral environmental funds immediately after regime change.

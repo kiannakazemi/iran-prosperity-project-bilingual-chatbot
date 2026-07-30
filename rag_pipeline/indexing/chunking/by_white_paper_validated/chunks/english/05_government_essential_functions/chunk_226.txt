@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00226
+chunk_index: 226
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: GOVERNMENT ESSENTIAL FUNCTIONS
+header_path: /PURPOSE/
+page_start: 80
+page_end: 80
+summary: This chunk contains a purpose statement.
+--- text (493 chars) ---
+[Summary: This chunk contains a purpose statement.]
+
+[Topic: GOVERNMENT ESSENTIAL FUNCTIONS]
+
+# PURPOSE
+
+The Transitional Government's first obligation is to ensure uninterrupted state function. This white paper summarizes the essential functions that directly affect daily life and public confidence, and it states the prioritization rules for the first 180 days. Operational detail is provided in the relevant white papers (Energy, Water, Health, National Assets, and Military and Security).

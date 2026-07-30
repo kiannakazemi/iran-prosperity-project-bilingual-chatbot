@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00129
+chunk_index: 129
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /STRUCTURAL ASSESSMENT OF ARMED FORCES AND PARAMILITARY ORGANIZATIONS/
+page_start: 50
+page_end: 52
+split_part: 14/14
+summary: This chunk contains a structural assessment table.
+--- text (1827 chars) ---
+[Summary: This chunk contains a structural assessment table.]
+
+[Topic: MILITARY AND SECURITY]
+
+| CURRENT INSTITUTION                             | MAIN FUNCTION                                                                                                              | CATEGORY                                                                                                                                                                                              |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+                       | Retaining the structure and ensuring operational continuity after vetting.                                                                                                                            |
+| FARAJA Special Units                            | Riot control, protest suppression, special ops, and critical site protection                                               | Dismantling the repressive component and leadership, screening personnel, and restructuring the organization with the primary goal of preserving national security and public safety.                 |
+| NOPO Special Operations Unit                    | Hostage rescue, anti-terror, riot response, and tactical law enforcement                                                   | Dismantling the repressive component and leadership, screening personnel, and restructuring the organization with the primary goal of preserving national security and public safety.                 |

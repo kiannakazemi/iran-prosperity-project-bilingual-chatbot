@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00089
+chunk_index: 89
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /MILITARY AND SECURITY: Managing Risks and Protecting the Security and Public Interest/
+page_start: 42
+page_end: 42
+summary: This chunk contains a white paper title and an introductory overview.
+--- text (1572 chars) ---
+[Summary: This chunk contains a white paper title and an introductory overview.]
+
+[Topic: MILITARY AND SECURITY]
+
+# MILITARY AND SECURITY: Managing Risks and Protecting the Security and Public Interest
+
+*February 2026*
+
+*The Iran Prosperity Project introduces a comprehensive plan to reform the country's military and security structure, aimed at preserving public order, ensuring a secure and peaceful transition, defending territorial integrity, and facilitating a democratic transition. This plan draws on crucial historical lessons, including in particular the catastrophic errors made after the 1979 Islamic Revolution. It is designed to prevent acts of retaliation, mass purges, and the disintegration of defense and security institutions while safeguarding the survival of the new political order, securing borders, and preventing a return of the previous regime. The approach will be constructive focused on reform, maximum reintegration, and leveraging existing capacities. It will avoid a sudden dismantling of all institutions. The plan retains individuals capable of contributing to the future of Iran, which encompasses the majority of the rank-and-file. Those who were not engaged in criminal acts but, for various reasons, cannot be integrated into the future military and security establishment will be dismissed from their duties and will be assisted in their transition to new jobs or retirement. Furthermore, this plan will ensure that those directly involved in human rights violations and serious financial crimes are referred to the judicial system.*

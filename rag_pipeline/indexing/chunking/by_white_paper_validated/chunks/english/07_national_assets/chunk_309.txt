@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00309
+chunk_index: 309
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /FOUNDATIONAL ACTION: IDENTIFICATION OF KEY ORGANIZATIONS/
+page_start: 108
+page_end: 108
+split_part: 3/3
+summary: This chunk contains a structural table.
+--- text (1604 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+| Organization Name                                                    | Description                                                                                                                                                           | Estimated Worth / Economic Clout                                                                                           | Key Sectors of Operation                                                             |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+infrastructure development. | Oil & Gas, Petrochemicals, Pipelines, Dams, Roads, Telecommunications.               |
+| National Iranian Oil Company (NIOC)                                  | The state-owned enterprise under the Ministry of Petroleum responsible for all of Iran's oil and gas production and sales.                                            | Controls assets worth hundreds of billions of dollars. The financial lifeblood of the state.                               | Oil & Gas Exploration, Production, Refining, Marketing.                              |
+
+Table 2: Key Financial and Economic Organizations

@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00205
+chunk_index: 205
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /IRAN'S ROLE IN REGIONAL ORDER AND MULTILATERAL COOPERATION FRAMEWORKS/Central Asia and the South Caucasus/Strategic Objective/
+page_start: 73
+page_end: 73
+summary: This chunk contains a strategic objective and an action plan.
+--- text (439 chars) ---
+[Summary: This chunk contains a strategic objective and an action plan.]
+
+[Topic: FOREIGN POLICY]
+
+## **Central Asia and the South Caucasus**
+
+### **Strategic Objective**
+
+To reinforce Iran's role as a geopolitical and economic bridge between the Middle East, Russia, China, and Central Asia, through expanded transit, energy, and border security cooperation, as well as Iran's cultural and historic ties with Persian-speaking communities.

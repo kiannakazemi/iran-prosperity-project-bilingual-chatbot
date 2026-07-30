@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00450
+chunk_index: 450
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /Phase 3: Operational Continuity (Days 41 to 100)/
+page_start: 157
+page_end: 158
+split_part: 2/2
+summary: This chunk contains an action plan.
+--- text (1096 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: WATER]
+
+consulting firms to identify potential corruption, conflicts of interest, and other irregularities. It should be noted that under the Military and Security chapter of the booklet, it is proposed that the IRGC be dismantled.
+- **Anti-Corruption Measures:** Initiate public disclosure of water allocations, suspend politically driven projects while safeguarding drinking water supplies, and begin systematic documentation of suspected corruption cases in the water sector for future legal action by independent judicial authorities.
+
+- **Conflicts of Interest:** Through comprehensive audits, dismiss personnel with conflicts of interest due to profiting from water infrastructure projects and water-intensive industries or affiliations with military organizations.
+- **International Consultation:** Arrange visits from international observers (e.g., UN, World Bank, EU) and water management experts from countries with advanced water sector expertise, such as the USA, Israel, and Australia to secure financial and technical support.

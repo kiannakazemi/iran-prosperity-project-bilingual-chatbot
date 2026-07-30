@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00055
+chunk_index: 55
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/
+page_start: 27
+page_end: 28
+split_part: 3/6
+summary: This chunk contains definitions and a structural reform list.
+--- text (1303 chars) ---
+[Summary: This chunk contains definitions and a structural reform list.]
+
+[Topic: POLITICAL]
+
+while "simple majority" means the majority of the members *present* at a meeting agree on that issue.
+
+structure of the official decree of the Leader of the National Uprising is explained in the white paper "Legal: Process and Framework for Transition from the Islamic Republic."
+
+- **6.1.** Removing the "Islamic Republic" from Iran's official name;
+- **6.2.** Removing the flag of the Islamic Republic and restoring the Iranian Lion and Sun tricolour flag;
+- **6.3.** Removing the Islamic Republic's national anthem and replacing it with the song "Ey Iran" until an official national anthem is selected;
+- **6.4.** Dissolving the Office of the Supreme Leader, 7 the Assembly of Experts, the Expediency Discernment Council, and the Guardian Council;
+- **6.5.** Dissolving the Islamic Revolutionary Guard Corps (hereinafter, the "IRGC") and all its affiliated entities, and integrating its armed wing into the national Army. The goal of this restructuring is to eliminate parallel military structures and form a unified, centralized, and professional Army under the Ministry of Defense. 8 The economic and cultural wings of the IRGC and their subsidiaries shall be transferred to the Transitional Government. 

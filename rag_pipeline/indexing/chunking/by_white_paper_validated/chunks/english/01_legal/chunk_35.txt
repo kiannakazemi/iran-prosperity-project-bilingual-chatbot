@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00035
+chunk_index: 35
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /I. CONTEXT AND DEFINITIONS/
+page_start: 19
+page_end: 19
+split_part: 3/3
+summary: This chunk contains evaluation criteria.
+--- text (509 chars) ---
+[Summary: This chunk contains evaluation criteria.]
+
+[Topic: LEGAL]
+
+ period; and
+- **3.3.** *Promising –* It must inspire hope and confidence among the Iranian people. The absence of this psychological dimension, even if the other two criteria are met, could lead to collective frustration and ultimately hinder the success of the Transitional System.
+
+**4.** With these criteria in mind, the following Sections will explore the available legal frameworks and identify the one that best meets these criteria.

@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00316
+chunk_index: 316
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /PRELIMINARY ACTION: VULNERABILITY ASSESSMENT/Risk of Personnel Defection (with Assets)/
+page_start: 110
+page_end: 110
+summary: This chunk contains a risk assessment.
+--- text (435 chars) ---
+[Summary: This chunk contains a risk assessment.]
+
+[Topic: NATIONAL ASSETS]
+
+#### ● **Risk of Personnel Defection (with Assets)**
+
+○ A significant risk involves key personnel (e.g., bank managers, IT administrators, corporate officers) who possess the knowledge and access codes to control assets. While some may cooperate, others may flee the country, taking their knowledge with them or using it to "ransom" assets for personal gain.

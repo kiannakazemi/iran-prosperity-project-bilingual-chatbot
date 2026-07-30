@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00010
+chunk_index: 10
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /ABOUT IRAN PROSPERITY PROJECT/THE PROJECT'S STRUCTURE/
+page_start: 5
+page_end: 6
+split_part: 1/2
+summary: This chunk contains a project structure overview, phase descriptions, and a definition.
+--- text (1534 chars) ---
+[Summary: This chunk contains a project structure overview, phase descriptions, and a definition.]
+
+### THE PROJECT'S STRUCTURE
+
+This Project is structured into three phases, each with its own implementation timeline. The first phase is the Emergency Phase, which covers the first six months of the Transitional Period and focuses on addressing immediate challenges while preparing the country for a democratic and economically prosperous future. This phase is addressed in detail in this Booklet. A draft of the Booklet was published in July 2025 to solicit public feedback. The authors subsequently analyzed the feedback and revised the Booklet accordingly.
+
+The term "Transitional Period" refers to the time between the fall of the Islamic Republic regime and the establishment of a democratically elected government.
+
+The second phase is the Stabilization Phase (running from month seven through the end of the Transitional Period), and the third phase is the Post-Transition Long-Term Reforms Phase (beginning with the formation of the first elected government). The booklets covering these two phases focus on policy and strategic planning for the Transitional Period and recommendations for long-term reforms. Some parts of these booklets have already been completed, and they will be released to the public as they are finalized.
+
+In addition to the phased booklets, the Project includes a subject-matter-specific track of policy papers organized into two categories: Foundational Stabilization and Industrial Revitalization. 

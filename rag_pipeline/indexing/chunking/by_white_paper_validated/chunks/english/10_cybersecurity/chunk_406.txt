@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00406
+chunk_index: 406
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /RECOMMENDATIONS/
+page_start: 142
+page_end: 142
+split_part: 2/3
+summary: This chunk contains a recommendation list.
+--- text (1476 chars) ---
+[Summary: This chunk contains a recommendation list.]
+
+[Topic: CYBERSECURITY]
+
+escalation protocols to ensure national visibility into major cyber incidents and coordinated response.
+- **Publishing a national cybersecurity strategy with measurable implementation milestones:** Defining roles, funding priorities, timelines, and accountability structures to guide national cyber resilience efforts and track progress through regular public reporting.
+- **Institutionalizing cybersecurity risk management at ministerial and executive levels:** Embedding cyber risk into national governance and enterprise oversight processes, with clear accountability, performance metrics, and risk ownership.
+- **Standardizing baseline security controls for industrial, telecom, and government networks:** Requiring segmentation, identity-based access control, secure remote access, continuous monitoring, and tested recovery procedures across critical digital environments.
+- **Implementing secure procurement and supply chain governance:** Requiring vendor accountability, lifecycle security support, vulnerability disclosure practices, and contractual audit rights for systems supporting critical infrastructure and telecommunications.
+- **Reforming lawful interception and network control mechanisms under democratic oversight:** Ensuring that any state access to telecommunications infrastructure is transparent in law, independently supervised, and subject to accountability safeguards.

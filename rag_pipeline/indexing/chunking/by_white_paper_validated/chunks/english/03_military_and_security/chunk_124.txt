@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00124
+chunk_index: 124
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /STRUCTURAL ASSESSMENT OF ARMED FORCES AND PARAMILITARY ORGANIZATIONS/
+page_start: 51
+page_end: 52
+split_part: 9/14
+summary: This chunk contains a structural assessment table.
+--- text (2130 chars) ---
+[Summary: This chunk contains a structural assessment table.]
+
+[Topic: MILITARY AND SECURITY]
+
+| CURRENT INSTITUTION                             | MAIN FUNCTION                                                                                                              | CATEGORY                                                                                                                                                                                              |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+ideological control, cyber operations, and proxy recruitment             | Dissolution of the organization.                                                                                                                                                                      |
+| Law Enforcement Institutions                    |                                                                                                                            |                                                                                                                                                                                                       |
+| Law Enforcement Command (FARAJA)                | Law Enforcement                                                                                                            | Retaining the structure and ensuring operational continuity after vetting.                                                                                                                            |
+| Traffic Police (Rahvar)                         | Urban and highway traffic control                                                                                          | Retaining the structure and ensuring operational continuity after vetting. 

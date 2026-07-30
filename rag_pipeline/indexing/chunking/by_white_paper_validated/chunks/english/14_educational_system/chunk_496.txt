@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00496
+chunk_index: 496
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: EDUCATIONAL SYSTEM
+header_path: /PHASE 1: THE EMERGENCY PHASE/
+page_start: 173
+page_end: 173
+summary: This chunk contains a phase description.
+--- text (618 chars) ---
+[Summary: This chunk contains a phase description.]
+
+[Topic: EDUCATIONAL SYSTEM]
+
+# PHASE 1: THE EMERGENCY PHASE
+
+In the first six months following the collapse of the Islamic Republic, the immediate priority is to stabilize the education system while initiating urgent reforms that ensure continuity and signal a decisive break from the past. This phase must strike a balance between administrative pragmatism and clear political and symbolic action. The dual objective is to keep schools operating without disruption while actively dismantling the former regime's ideological foundations within the education system.

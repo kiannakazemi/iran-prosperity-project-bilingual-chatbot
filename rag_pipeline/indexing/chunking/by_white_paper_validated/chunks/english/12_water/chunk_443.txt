@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00443
+chunk_index: 443
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /Phase 0: Pre-Entry Coordination (Before Day 1)/
+page_start: 155
+page_end: 156
+summary: This chunk contains a phase description and an action plan.
+--- text (1271 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: WATER]
+
+# **Phase 0: Pre-Entry Coordination (Before Day 1)**
+
+- **Establish Transitional Water Governance Sector (TWGS):** Form an empowered body of experts and technocrats, with representation from key sectors and stakeholders such as academia, agriculture, urban water utilities, industry, and municipalities, to oversee and coordinate the water sector during the transitional period; the TWGS serves as an advisory board to the Transitional Government and will be supported by civil society, the Transitional Environmental Emergency Task Force (TEETF), and international partners. Similar to the TEETF, TWGS will be dismantled once institutional stability is restored or upon completion of the emergency phase.
+- **Internal Coordination:** Establish robust communication networks with internal managers and administrators to ensure a smooth transition in the water sector.
+
+- **International Coordination:** Identify key international agencies and contacts for rapid engagement, ensuring timely access to humanitarian and technical assistance when conditions are allowed.
+- **Security Preparation:** Establish secure communication networks and logistical staging points on national scale.

@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00067
+chunk_index: 67
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/B. TRANSITIONAL GOVERNMENT/
+page_start: 31
+page_end: 32
+split_part: 7/11
+summary: This chunk contains a list of foundational principles and an action plan.
+--- text (1169 chars) ---
+[Summary: This chunk contains a list of foundational principles and an action plan.]
+
+[Topic: POLITICAL]
+
+issue, and on the other hand, preventing the transitional period from becoming excessively prolonged.
+
+- *- Democracy through free, fair, and periodic elections, based on the principle of 'one citizen, one vote';*
+- *- The rule of law;*
+- *- The complete separation of religion from the state (secularism);*
+- *- The separation of powers; and*
+- *The independence and impartiality of the Divan (the judiciary)*."
+- **15.7.** Holding an election for the Constituent Assembly: Within a maximum of two months of receiving the results of the referendum on the system of government (discussed above, paragraph 15.6), the Transitional Government shall hold the election for the Constituent Assembly. This election shall be conducted freely and in accordance with international democratic standards, and all eligible Iranian voters shall be able to exercise their right to vote. The Constituent Assembly's mandate is to draft a new Constitution based on the system of government chosen by the nation in the referendum. 13 This task shall be completed within six months. 

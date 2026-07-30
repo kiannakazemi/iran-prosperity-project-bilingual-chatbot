@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00377
+chunk_index: 377
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /RECOMMENDATIONS/
+page_start: 131
+page_end: 131
+summary: This chunk contains a recommendation list.
+--- text (823 chars) ---
+[Summary: This chunk contains a recommendation list.]
+
+[Topic: INDUSTRY]
+
+# RECOMMENDATIONS
+
+- **Establish National Industrial Emergency Council chaired by the Crown Prince's delegate:** This council will include representatives from the Transitional Industrial Recovery Authority (TIRA), the interim leadership of the Ministry of Industry, Trade, and Production (MITP), the Transitional Energy Coordination Unit (TECU), and designated international observers.
+- **Prioritize Tier 1 continuity in public messaging:** Daily updates, press briefings, and transparency to counter rumors, corruption, or regime counter-narratives.
+  - Pre-approve import corridors for agro and health inputs under humanitarian protocols.
+  - Publish a rebranding campaign to distinguish clean, post-regime production from corrupt legacy brands.

@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00045
+chunk_index: 45
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /III. EXAMPLES FROM OTHER JURISDICTIONS/D. BRITAIN/
+page_start: 22
+page_end: 23
+split_part: 3/3
+summary: This chunk contains a comparative case analysis.
+--- text (442 chars) ---
+[Summary: This chunk contains a comparative case analysis.]
+
+[Topic: LEGAL]
+
+centuries, to master the art of implementing significant legal
+
+- changes with minimal social disruption. The design of the transitional period for Brexit exemplifies this mastery.
+- **27.** The details of the proposed legal framework in this white paper, which is based on the Hybrid Option and informed by the Brexit transition period, are outlined in Section IV.

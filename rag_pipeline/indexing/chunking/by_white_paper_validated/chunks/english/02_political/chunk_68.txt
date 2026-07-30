@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00068
+chunk_index: 68
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/B. TRANSITIONAL GOVERNMENT/
+page_start: 32
+page_end: 32
+split_part: 8/11
+summary: This chunk contains an action plan.
+--- text (1510 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: POLITICAL]
+
+government chosen by the nation in the referendum. 13 This task shall be completed within six months. To this end, the Constituent Assembly shall:
+  - **15.7.1.** Consult with expert committees on topics such as the economy, industry, health and medical services, society and culture, family, education, the environment, foreign policy, defense, and national security.
+  - **15.7.2.** Appoint a seven-member panel of distinguished jurists, including three experts in constitutional law, and consult with them during the drafting of each article of the new Constitution. This is to ensure that the text of the new Constitution meets the highest legal standards.
+  - **15.7.3.** Publish and widely disseminate each drafted article. This aims to inform the public continually about the process, gather their feedback, and incorporate it into the draft.
+- **15.8.** Holding a referendum on the proposed Constitution: Once the Constituent Assembly completes the draft of the proposed Constitution, the Transitional Government shall hold a constitutional referendum within no more than one month. This referendum shall be free, conducted in accordance with international democratic standards, and all eligible Iranian voters shall be able to exercise their right to vote.
+  - **15.8.1.** If the Iranian people vote against the proposed Constitution, the Constituent Assembly shall revise it within a maximum of two months based on public feedback. 

@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00293
+chunk_index: 293
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /ACTIONS/Foundational Action: Identification and Description of Assets/
+page_start: 104
+page_end: 104
+split_part: 6/8
+summary: This chunk contains a structural table.
+--- text (2888 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+| Asset Type                  | Primary Holders                                                                                                | Brokers / Intermediaries                                                                | Potential Abuses                                                                                                                                                                                    | Countermeasures (Stop / Detect / Reverse)                                                                                                                                                                                                       |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+transactions with overseas regulators. **Reverse:** Pursue arbitration to nullify fraudulent bond sales.                            |
+| Foreign Real Estate         | Bonyads, Setad, Astan Quds Razavi                                                                              | Real estate holdings in UAE, Turkey, Europe and Canada.                                 | – Transferring ownerships to foreign nominees from companies. – Concealing assets using trusts and foreign lawyers. – Firesale to sympathetic buyers at below-market rates.                         | **Stop:** Issue global freeze notifications through Interpol and partner governments. **Detect:** Investigate suspicious property transfers and title registry changes. **Reverse:** File legal claims in foreign courts to recover ownership.  |
+| Domestic Real Estate & Land | Bonyad Mostazafan, Setad, Astan Quds Razavi, IRGC Cooperative Foundation                                       | Corrupt notaries, domestic shell companies, complicit real estate brokers               | – Last-minute transfer of titles to regime entities. – Alteration of land registry data to obscure true ownership. – Intentional misvaluation of properties or records.                             | **Stop:** Freeze all land transactions for identified entities. **Detect:** Audit land registry logs for irregularities. **Reverse:** Use court orders to nullify illegal transfers and reconstruct records from backups. 

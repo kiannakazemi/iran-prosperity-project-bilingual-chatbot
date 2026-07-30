@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00271
+chunk_index: 271
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /PRIVATIZATION/Objectives/
+page_start: 95
+page_end: 95
+summary: This chunk contains an objectives list.
+--- text (421 chars) ---
+[Summary: This chunk contains an objectives list.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Objectives**
+
+The focus during this interim period must be on:
+
+- Securing public property.
+- Restoring transparency.
+- Ensuring operational continuity.
+
+These steps are essential not only for rebuilding trust in public institutions but also for laying the groundwork for long-term economic recovery and sustainable privatization.

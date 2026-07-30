@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00464
+chunk_index: 464
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /ACTIONS/
+page_start: 164
+page_end: 164
+split_part: 1/2
+summary: This chunk contains an action plan.
+--- text (1334 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: HEALTHCARE]
+
+# ACTIONS
+
+- **Halt Enforcement of IMC Price Controls:** The Iranian Medical Council (IMC) acts as an industry cartel that sets minimums for what private providers can charge. Halting the enforcement of those minimums can immediately make healthcare more affordable for millions of Iranians.
+- **Eliminate Pharmaceutical Import Tariffs:** These tariffs are usually around 3–4% for drugs without a domestic equivalent and 15–20% for those with a domestic equivalent, but can reach up to 100% in certain cases. Their removal will immediately lower the prices for consumers and alleviate the persistent drug shortage problem that Iranians have experienced under the Islamic Republic.
+- **Lift the After-Hours Practice Ban on New Medical Faculty:** The removal of this anti-competitive law will increase the supply of available physicians and enhance affordability and access.
+- **More Flexible Practice Locations:** The government will allow physicians to practice freely in all areas for which they meet the current point requirements (i.e., areas with similar levels of economic development). This will allow the supply of physicians to adjust more swiftly to shifting needs while also preventing the urban-rural disparity in healthcare access from rising abruptly. 

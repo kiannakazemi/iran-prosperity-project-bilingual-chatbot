@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00013
+chunk_index: 13
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/OBJECTIVE: A PRACTICAL ROADMAP TO REBUILDING IRAN/
+page_start: 7
+page_end: 7
+split_part: 2/3
+summary: This chunk contains an objective statement.
+--- text (1443 chars) ---
+[Summary: This chunk contains an objective statement.]
+
+inside and outside Iran; and 5) planning for the reconstruction of Iran following the regime's fall. It is the fifth prong—the reconstruction of Iran—that gave rise to the Iran Prosperity Project (the "Project"), which provides a comprehensive strategic roadmap to address the systemic challenges of a post-theocratic transition in Iran. The Project is structured into three phases, each with its own implementation timeline. The first phase, covering the first six months following the fall of the regime, is called the Emergency Phase and is the subject of this Booklet.
+
+The primary objective of this Booklet is to mitigate the volatility of the Emergency Phase through coordinated efforts in economic, legal, and political reconstruction. By engaging with key international and domestic stakeholders, the Project seeks to establish a resilient framework for democratic governance and a renewed social contract, ensuring both immediate stabilization and long-term institutional viability. Even if the regime's fall is delayed, partial, or uneven, the Emergency Phase logic set out in this Booklet still applies.
+
+The Project team released a draft of this Booklet in July 2025 for public comment to engage in a democratic process and collect feedback, views, and concerns from Iranians. The authors have subsequently analyzed the feedback received and revised the Booklet accordingly. 

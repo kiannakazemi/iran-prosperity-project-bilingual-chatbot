@@ -1,0 +1,18 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00017
+chunk_index: 17
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/CONTEXT: THE ISLAMIC REPUBLIC IS WEAK, VULNERABLE, AND HAS LOST LEGITIMACY/
+page_start: 8
+page_end: 8
+split_part: 3/5
+summary: This chunk contains a background and context narrative.
+--- text (1460 chars) ---
+[Summary: This chunk contains a background and context narrative.]
+
+Islamic Republic, undermining decades of geopolitical investment in Syria and regional proxy networks. In addition, the 12-Day War of June 2025 inflicted significant damage on the Islamic Republic's nuclear program and military capabilities. The loss of numerous commanders from both the Islamic Revolutionary Guard Corps (the "IRGC") and the regime's conventional armed forces exposed core institutional weaknesses when confronted with a determined and capable foreign adversary, prompting a reassessment of the regime's military capacity. These developments shattered the regime's narrative of invincibility and have fueled internal discord, as even senior officials increasingly question the effectiveness of the regime's regional strategy.
+
+Iran's macroeconomic indicators reflect prolonged stagnation since the 1979 Islamic Revolution, with real per capita income remaining significantly below pre-1979 levels and consistently underperforming uppermiddle-income peers and regional averages. This stagnation is compounded by an average annual inflation rate of 22 percent since 1979, a sharp increase from the approximately 6 percent observed between 1960 and 1978. Inflation exceeded 60 percent in 2025. In the same year, the collapse of Ayandeh Bank—once one of the country's largest private financial institutions further exposed the systemic fragility of the regime's banking sector. 

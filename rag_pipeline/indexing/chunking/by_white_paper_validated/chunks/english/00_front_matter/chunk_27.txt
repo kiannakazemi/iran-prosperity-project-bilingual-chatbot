@@ -1,0 +1,61 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00027
+chunk_index: 27
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /AUTHORS (cont.)/
+page_start: 12
+page_end: 12
+summary: This chunk contains a contributors list.
+--- text (443 chars) ---
+[Summary: This chunk contains a contributors list.]
+
+# AUTHORS (cont.)
+
+KEVIN ROD
+
+SOREN RYAN
+
+SAHAR TAHVILI
+
+BAHRAM VAHEDI
+
+# ADVISORS
+
+AMIR AGHAKOUCHAK
+
+MAHDI AMIRI
+
+MORTEZA ANVARI
+
+REZA ARAB
+
+ARMAND ASH-RAFZADEH
+
+NAMDAR BAGHAEI-YAZDI
+
+MARYAM BANIHASHEMI
+
+SAEED BASHIRTASH
+
+AMIR BIDGOLI
+
+ALAN BOSTAKIAN
+
+ROYA BOZORGNIA
+
+AFSHIN ELLIAN
+
+ESMAEIL FALLAHI
+
+SOROUSH GHAZI
+
+FEREIDOON IZADSETA
+
+TINOUSH JAMALI JAGHDANI
+
+BIJAN KIAN
+
+ARDAVAN KHOSHNOOD

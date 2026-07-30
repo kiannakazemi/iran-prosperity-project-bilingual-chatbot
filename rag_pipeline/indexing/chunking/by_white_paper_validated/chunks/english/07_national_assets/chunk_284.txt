@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00284
+chunk_index: 284
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /KEY PRIORITIES/
+page_start: 101
+page_end: 101
+split_part: 1/2
+summary: This chunk contains a priorities list.
+--- text (1353 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: NATIONAL ASSETS]
+
+# KEY PRIORITIES
+
+The key priorities are the areas of focus that will guide resource allocation to ensure the successful achievement of the objectives.
+
+- **Speed and Secrecy in Initial Operations:** The highest priority is the rapid execution of the initial asset seizure and freezing operations (H-Hour to H+72) with maximum operational security. This is critical because any delay or information leak would allow regime insiders to transfer liquid assets (cash, crypto, electronic funds) and destroy incriminating records, rendering subsequent recovery efforts exponentially more difficult and less fruitful.
+- **Securing Physical and Digital Infrastructure:** The immediate physical control of critical economic and administrative locations (e.g., Central Bank, bonyad headquarters, data centers) is a top priority. This is to prevent looting by the public, sabotage by loyalists, and the destruction of crucial evidence and institutional records needed for governance and future prosecutions.
+- **Targeting Regime Mega-Debtors:** Priority will be given to identifying and pursuing the nation's 'mega-debtors,' the small set of individuals and entities whose concentrated debts and offshore holdings represent the single largest source of regime-linked ill-gotten wealth. 

@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: fa__Emergency_Phase_PERSIAN_20260301_1440__00237
+chunk_index: 237
+source_file: Emergency_Phase_PERSIAN_20260301_1440.md
+source_pdf: Emergency_Phase_PERSIAN_20260301_1440.pdf
+language: fa
+white_paper: اقتصاد کلان
+header_path: /اقتصاد کلان: مدیریت ریسک‌های مالی و پولی/خصوصیسازی/
+page_start: 100
+page_end: 100
+summary: این تکه شامل نمای کلی است.
+--- text (288 chars) ---
+[Summary: این تکه شامل نمای کلی است.]
+
+[Topic: اقتصاد کلان]
+
+#### **خصوصیسازی**
+
+با اینکه خصوصیسازی دارایی‌های متعلق به دولت و نهاد‌های نیمهدولتی در کوتاهمدت پس از سقوط رژیم اسلامی ممکن نیست، دولت موقت باید چارچوبی روشن و مؤثر برای تثبیت این دارایی‌ها و آمادگی برای اصلاحات آتی ایجاد کند.

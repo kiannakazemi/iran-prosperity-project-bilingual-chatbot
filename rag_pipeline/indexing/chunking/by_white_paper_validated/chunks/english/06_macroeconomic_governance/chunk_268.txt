@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00268
+chunk_index: 268
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING FINANCIAL MARKETS/Oversight of the Unregulated Financial Sector/
+page_start: 95
+page_end: 95
+split_part: 1/2
+summary: This chunk contains a policy recommendation.
+--- text (1180 chars) ---
+[Summary: This chunk contains a policy recommendation.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+### **Oversight of the Unregulated Financial Sector**
+
+Within two weeks of the regime's collapse, the Transitional Government shall establish a Joint Financial Task Force, composed of members drawn from the provisional financial authority and national security agencies, to prevent the immediate outflow of funds and restore control over informal payment networks. These networks—linking individuals seeking to send funds abroad with others remitting money into Iran—have long facilitated large-scale, unmonitored transactions outside the banking system, posing severe risks of capital flight, money laundering, and potential financing of illicit or terrorist activities.
+
+The Task Force shall move immediately to identify, monitor, and disrupt the operations of key actors within these networks. As its first operational measure, it shall implement a mandatory registration and approval system requiring all individuals and institutions conducting large-sum or cross-border payments to register and obtain authorization. No high-value payments shall be permitted outside this framework. 

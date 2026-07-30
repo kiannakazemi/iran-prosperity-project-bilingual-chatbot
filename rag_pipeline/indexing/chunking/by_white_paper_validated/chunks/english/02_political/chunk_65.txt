@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00065
+chunk_index: 65
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/B. TRANSITIONAL GOVERNMENT/
+page_start: 31
+page_end: 33
+split_part: 5/11
+summary: This chunk contains an action plan.
+--- text (1127 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: POLITICAL]
+
+secondary, and higher education) to ensure their content reflects the values of the new era in Iran.
+- **15.6.** Holding a referendum on the system of government: The Transitional Government shall, within four months, hold a referendum for the nation to choose Iran's future democratic system of government (a parliamentary monarchy or a republic).
+  - **15.6.1.** Political parties and activists supporting either system shall have at least three months (within the four-month period) to present and promote their preferred system of government to the public. 12 All institutions and organizations of the Transitional Government involved in this process (such as the National Iranian Radio and Television Organization and other state-owned news outlets) shall treat supporters of both systems impartially and provide them with equal access, time, and resources.
+  - **15.6.2.** This referendum shall be conducted freely and in accordance with international democratic standards, and all eligible Iranian voters shall be able to exercise their right to vote.

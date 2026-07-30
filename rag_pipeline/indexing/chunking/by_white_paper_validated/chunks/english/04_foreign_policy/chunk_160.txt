@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00160
+chunk_index: 160
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /STRATEGIC FOREIGN POLICY GOALS DURING THE TRANSITION/
+page_start: 62
+page_end: 62
+summary: This chunk contains strategic foreign policy goals.
+--- text (434 chars) ---
+[Summary: This chunk contains strategic foreign policy goals.]
+
+[Topic: FOREIGN POLICY]
+
+# STRATEGIC FOREIGN POLICY GOALS DURING THE TRANSITION
+
+Regional security cooperation will be defensive, state-to-state, and conditioned on non-intervention, with the primary focus during the transitional period placed on domestic stabilization and institutional reconstruction. Within that framework, the following policy goals will be pursued.

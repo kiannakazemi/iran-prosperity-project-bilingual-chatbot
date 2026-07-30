@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00368
+chunk_index: 368
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /ASSUMPTIONS/
+page_start: 127
+page_end: 127
+summary: This chunk contains a list of assumptions.
+--- text (722 chars) ---
+[Summary: This chunk contains a list of assumptions.]
+
+[Topic: INDUSTRY]
+
+# ASSUMPTIONS
+
+- Territorial and energy security are largely stabilized (per TECU Phase 1–2 completion).
+- Domestic fuel and electricity flows are resuming in 70%+ of provinces.
+- The transitional authority has initial public legitimacy and international recognition.
+- IRGC and Bonyad-linked industrial assets have been partially frozen or secured.
+- Short-term import credit lines or barter arrangements are available with neighboring countries and Western allies.
+- Time-bound capital controls and transparent timelines will be maintained while monetary/exchange frameworks shift to a floating or crawling-peg regime, and FATF engagement begins.

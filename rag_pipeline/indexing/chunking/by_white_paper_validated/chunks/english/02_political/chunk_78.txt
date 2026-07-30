@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00078
+chunk_index: 78
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/C. TRANSITIONAL DIVAN/
+page_start: 36
+page_end: 36
+split_part: 7/8
+summary: This chunk contains court procedures.
+--- text (1094 chars) ---
+[Summary: This chunk contains court procedures.]
+
+[Topic: POLITICAL]
+
+appointed by the Attorney General (Prosecutor General) after consultation with the Minister of Justice.
+- **19.7.1.8** An indictment can only be issued if a branch of the Office of the Special Prosecutor 14 receives:
+  - A case file from relevant military, law enforcement, or intelligence authorities;
+  - A file from the head of the Truth Commission (see below, paragraph 19.7.2.4); or
+  - A direct complaint from victims or their families/legal representatives; and
+
+After reviewing the file, the Special Prosecutor determines that sufficient grounds exist to support a conviction.
+
+- **19.7.1.9** If the Special Prosecutor declines to indict, the entities and individuals listed in the previous subparagraph have the right to appeal that decision to the Attorney General (Prosecutor General) within the designated timeframe. The Attorney General's decision is final, shall be in writing, include the reasons, and be published promptly.
+- **19.7.1.10** Iranian domestic law (substantive and procedural) shall be applied. 

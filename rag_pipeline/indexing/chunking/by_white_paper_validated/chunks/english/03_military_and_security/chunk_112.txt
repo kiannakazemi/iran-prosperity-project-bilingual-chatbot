@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00112
+chunk_index: 112
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /PHASED RECONSTRUCTION TIMELINE (24 MONTHS)/Phase 1: Immediate Post-Regime Collapse (0 to 3 Months)/Key Actions/
+page_start: 47
+page_end: 48
+summary: This chunk contains an action plan.
+--- text (983 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+### **Key Actions**
+
+- Declare the army's neutrality and call upon law enforcement, border security, and intelligence forces to return to duty under new oversight.
+- Peacefully secure, repurpose, reintegrate, and where needed suspend and/or shut down critical regime's military institutions.
+
+- Issue directives banning the use of force against civilians.
+- Secure borders, key infrastructure, and national resources (oil, energy, central bank, airports, and power plants).
+- Ensure immediate payment of salaries to military personnel, teachers, healthcare workers, and civil servants to prevent social collapse.
+- Officially launch the project to "redefine the military's identity" as a national, non-political, and non-ideological institution under the Transitional Government.
+- Launch a personnel registration and evaluation system to determine eligibility for retention, retirement, or prosecution.

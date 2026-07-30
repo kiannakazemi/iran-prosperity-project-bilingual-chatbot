@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00240
+chunk_index: 240
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /FISCAL POLICY/Actions/Administrative Streamlining/
+page_start: 86
+page_end: 86
+summary: This chunk contains an action plan.
+--- text (1070 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+### **● Administrative Streamlining**
+
+- **Downsize Ideological Institutions:** Dismantle or significantly reduce the scope of entities tied to the former regime to ease fiscal burdens and signal institutional reform. This includes dismantling the Securities and Exchange High Council of Iran (SEHC) and phasing out mandatory adherence to Islamic finance frameworks, which have constrained market development and transparency.
+- **Consolidate and Reform State-Affiliated Entities:** Merge redundant or parallel ministries and agencies to improve administrative efficiency. In particular, Bonyads—quasi-state foundations with vast untaxed holdings—must be downsized, brought under formal oversight, and subjected to taxation to ensure fiscal accountability.
+- **Defer Major Structural Reforms:** Postpone deep constitutional or systemic overhauls until a legitimate, democratically elected government is in place and empowered to undertake such changes with broad-based political support.

@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00487
+chunk_index: 487
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 3 (Days 91‑120) — Urgent‑Care Network and Electronic Health Infrastructure/Overview/
+page_start: 169
+page_end: 169
+summary: This chunk contains a phase description and an overview.
+--- text (460 chars) ---
+[Summary: This chunk contains a phase description and an overview.]
+
+[Topic: HEALTHCARE]
+
+# **Phase 3 (Days 91‑120) — Urgent‑Care Network and Electronic Health Infrastructure**
+
+#### **Overview**
+
+Phase 3 institutionalizes 24 / 7 urgent‑care centres (UCCs) and rolls out the National Electronic Health‑Operations System (EHOS) to modernize data flow and enable predictive analytics. Citizen apps or SMS channels push outbreak alerts and locate nearby services.

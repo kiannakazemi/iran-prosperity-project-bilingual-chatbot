@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00285
+chunk_index: 285
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /KEY PRIORITIES/
+page_start: 101
+page_end: 102
+split_part: 2/2
+summary: This chunk contains a priorities list.
+--- text (1226 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: NATIONAL ASSETS]
+
+debts and offshore holdings represent the single largest source of regime-linked ill-gotten wealth. Immediate legal, financial and diplomatic measures will be deployed to freeze, forensically audit and seek rapid recovery of these exposures so recovered funds can be redirected to national reconstruction and essential services.
+- **International Legal and Diplomatic Action:** A concurrent priority is the immediate activation of international legal mechanisms and diplomatic channels. This is essential because a significant portion of the regime's wealth is held offshore, often through complex ownership structures. Swift
+
+- notification to international bodies like FATF, Interpol, and partner nations is required to freeze these assets before they can be moved to non-cooperative jurisdictions.
+- **Establishing Legitimacy Through Communication:** A proactive and transparent public communication strategy is a vital priority. This is necessary to build domestic and international support for the transitional authority, prevent public panic, manage expectations regarding the recovered wealth, and counter disinformation from regime remnants.

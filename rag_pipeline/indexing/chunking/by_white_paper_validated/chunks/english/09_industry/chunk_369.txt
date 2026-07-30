@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00369
+chunk_index: 369
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /Phase 0: Pre-Entry Coordination (Before Day 1)/
+page_start: 127
+page_end: 128
+summary: This chunk contains a phase description and an action plan.
+--- text (1232 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: INDUSTRY]
+
+# **Phase 0: Pre-Entry Coordination (Before Day 1)**
+
+- **Form the Transitional Industrial Recovery Authority (TIRA):** TIRA will be formed under the directive of the leader of the national uprising.
+- **Develop Tiered Industrial Prioritization Map:** Classify industrial clusters into Tier 1, 2, and 3.
+- **Create Emergency Supply Chain Surveillance System:** Map the movement of wheat, APIs, medical goods, and other essentials.
+
+- **Pre-announce finance safeguards:** With CBI and MoF, prepare deposit-insurance extension/blanket guarantee, bank-holiday toolkit, and a 3–6 month temporary, market-wide suspension of trading on the Tehran Stock Exchange, halt with external audits of listed companies.
+- **Coordinate with TECU and Emergency Water Unit:** In order to ensure industrial cluster readiness for phased energy restoration.
+- **Coordinate with international partners for rapid import of essential items:** This will bridge inventory (medicines, food inputs, seeds, agricultural chemicals, etc.)
+- **Publish a Top-100 Restarts list** (plant, location, product, jobs, utility status, missing spares) within 72 hours, updated daily.

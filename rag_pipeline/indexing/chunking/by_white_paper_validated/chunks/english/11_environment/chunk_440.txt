@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00440
+chunk_index: 440
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENVIRONMENT
+header_path: /ANTICIPATED POLITICAL CHALLENGES/
+page_start: 153
+page_end: 153
+split_part: 3/3
+summary: This chunk contains a challenges analysis.
+--- text (1066 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: ENVIRONMENT]
+
+Plan should be developed in the first 180 days to attract early international and diaspora support. In parallel, integrate environmental recovery into broader national stabilization frameworks, such as economic, public health, industrial, and infrastructure recovery plans, to justify cross-sectoral budget allocations.
+
+- Limited cooperation on transboundary environmental issues: Regional tensions may hinder early cooperation in managing shared water resources and ecosystems.
+  - **Mitigation Strategy:** Pursue technical cooperation through multilateral frameworks and existing UN environmental platforms as outlined in the International Partnerships roadmap.
+- Security risks limiting field access: Unrest or sabotage may obstruct field operations in high-risk or remote areas.
+
+**Mitigation Strategy:** Coordinate with provincial security units to safeguard personnel and use remote monitoring tools via the National Environmental Intelligence Platform, where access is constrained.

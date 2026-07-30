@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00296
+chunk_index: 296
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /FINANCIAL ASSETS/Domestic Bank Accounts/
+page_start: 105
+page_end: 105
+summary: This chunk contains asset category descriptions.
+--- text (970 chars) ---
+[Summary: This chunk contains asset category descriptions.]
+
+[Topic: NATIONAL ASSETS]
+
+# FINANCIAL ASSETS
+
+### **Domestic Bank Accounts**
+
+- **Names of Banks:** Central Bank of Iran (CBI), Bank Melli, Bank Saderat, Bank Mellat, Bank Tejarat, Bank Sepah. These institutions are used to hold the state's primary accounts, process oil revenues, and finance government operations. Parastatal entities like bonyads also hold vast portfolios in these banks, often in complex, layered accounts to obscure ownership.
+- **Estimated Balances:** While precise figures are unattainable, estimates place tens of billions of dollars in accessible foreign currency reserves within the CBI and other state-owned banks. Domestic currency (Rial) accounts held by bonyads and Setad are estimated to be in the trillions.
+- **Account Structures:** Use of layered accounts, nominee accounts held by trusted individuals, and inter-bank transfers designed to obfuscate the ultimate beneficiary.

@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00062
+chunk_index: 62
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/B. TRANSITIONAL GOVERNMENT/
+page_start: 30
+page_end: 30
+split_part: 2/11
+summary: This chunk contains a responsibilities list.
+--- text (1434 chars) ---
+[Summary: This chunk contains a responsibilities list.]
+
+[Topic: POLITICAL]
+
+made by the head of the Transitional Government and approved by the Leader of the National Uprising. The appointment and removal of senior military commanders shall be made by the Leader of the National Uprising.
+- **15.** The responsibilities of the Transitional Government shall include, but are not limited to, the following:
+  - **15.1.** Executing laws and managing the daily affairs of the country and its people.
+  - **15.2.** Protecting and defending Iran's borders and maintaining the nation's unity and security through the military, law enforcement, and security forces.
+  - **15.3.** Preparing the national annual budget proposal. 10
+  - **15.4.** Managing the country's international affairs, including:
+    - **15.4.1.** Assuming control of Iranian embassies and consulates worldwide and deploying interim representatives and diplomatic staff to them;
+    - **15.4.2.** Replacing Iran's representatives in all international organizations of which Iran is a member;
+    - **15.4.3.** Sending an official notification to the United Nations through Iran's permanent mission to: (i) remove the title "Islamic Republic" from the country's official name, (ii) restore the tricolor flag of the lion and sun of Iran as the official flag, and (iii) officially communicate these changes to all member states, the UN system, and affiliated institutions. 

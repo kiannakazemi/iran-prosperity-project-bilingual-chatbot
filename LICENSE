@@ -1,0 +1,181 @@
+PolyForm Noncommercial License 1.0.0
+
+<https://polyformproject.org/licenses/noncommercial/1.0.0>
+
+Required Notice: Copyright (c) 2026 kiannakazemi
+(https://github.com/kiannakazemi)
+
+## Acceptance
+
+In order to get any license under these terms, you must agree to them as both
+strict obligations and conditions to all your licenses.
+
+## Copyright License
+
+The licensor grants you a copyright license for the software to do everything
+you might do with the software that would otherwise infringe the licensor's
+copyright in it for any permitted purpose. However, you may only distribute the
+software according to Distribution License and make changes or new works based
+on the software according to Changes and New Works License.
+
+## Distribution License
+
+The licensor grants you an additional copyright license to distribute copies of
+the software. Your license to distribute covers distributing the software with
+changes and new works permitted by Changes and New Works License.
+
+## Notices
+
+You must ensure that anyone who gets a copy of any part of the software from you
+also gets a copy of these terms or the URL for them above, as well as copies of
+any plain-text lines beginning with `Required Notice:` that the licensor
+provided with the software. For example:
+
+> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+
+## Changes and New Works License
+
+The licensor grants you an additional copyright license to make changes and new
+works based on the software for any permitted purpose.
+
+## Patent License
+
+The licensor grants you a patent license for the software that covers patent
+claims the licensor can license, or becomes able to license, that you would
+infringe by using the software.
+
+## Noncommercial Purposes
+
+Any noncommercial purpose is a permitted purpose.
+
+## Personal Uses
+
+Personal use for research, experiment, and testing for the benefit of public
+knowledge, personal study, private entertainment, hobby projects, amateur
+pursuits, or religious observance, without any anticipated commercial
+application, is use for a permitted purpose.
+
+## Noncommercial Organizations
+
+Use by any charitable organization, educational institution, public research
+organization, public safety or health organization, environmental protection
+organization, or government institution is use for a permitted purpose
+regardless of the source of funding or obligations resulting from the funding.
+
+## Fair Use
+
+You may have "fair use" rights for the software under the law. These terms do
+not limit them.
+
+## No Other Rights
+
+These terms do not allow you to sublicense or transfer any of your licenses to
+anyone else, or prevent the licensor from granting licenses to anyone else.
+These terms do not imply any other licenses.
+
+## Patent Defense
+
+If you make any written claim that the software infringes or contributes to
+infringement of any patent, your patent license for the software granted under
+these terms ends immediately. If your company makes such a claim, your patent
+license ends immediately for work on behalf of your company.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of these
+terms, or done anything with the software not covered by your licenses, your
+licenses can nonetheless continue if you come into full compliance with these
+terms, and take practical steps to correct past violations, within 32 days of
+receiving notice. Otherwise, all your licenses end immediately.
+
+## No Liability
+
+*As far as the law allows, the software comes as is, without any warranty or
+condition, and the licensor will not be liable to you for any damages arising
+out of these terms or the use or nature of the software, under any kind of legal
+claim.*
+
+## Definitions
+
+The **licensor** is the individual or entity offering these terms, and the
+**software** is the software the licensor makes available under these terms.
+
+**You** refers to the individual or entity agreeing to these terms.
+
+**Your company** is any legal entity, sole proprietorship, or other kind of
+organization that you work for, plus all organizations that have control over,
+are under the control of, or are under common control with that organization.
+**Control** means ownership of substantially all the assets of an entity, or the
+power to direct its management and policies by vote, contract, or otherwise.
+Control can be direct or indirect.
+
+**Your licenses** are all the licenses granted to you for the software under
+these terms.
+
+**Use** means anything you do with the software requiring one of your licenses.
+
+-------------------------------------------------------------------------------
+
+WHAT THIS MEANS IN PRACTICE
+
+1. PERSONAL AND NONCOMMERCIAL USE — FREE
+
+   Use it, run it, study it, experiment with it. No permission needed and no
+   cost. This covers individuals, and also charities, schools, universities,
+   public research bodies and government institutions.
+
+2. IF YOU MODIFY OR IMPROVE IT — KEEP THE ATTRIBUTION
+
+   You are welcome to change this software and build on it for any permitted
+   purpose. When you do, the Notices clause above requires that anyone who
+   receives your version also receives these license terms (or their URL) and
+   this line:
+
+     Required Notice: Copyright (c) 2026 kiannakazemi
+                      (https://github.com/kiannakazemi)
+
+   That obligation applies to modified versions and new works too, not only to
+   verbatim copies. In addition, you are asked to state clearly that your
+   version is modified and to describe what you changed, so that users can tell
+   your work from the original.
+
+   Improvements contributed back to the original repository are welcome.
+
+3. COMMERCIAL OR PRODUCTION USE — ASK FIRST
+
+   The license above does NOT permit commercial use. That includes, without
+   limitation:
+
+     - deploying this software as, or as part of, a paid product or service;
+     - hosting it publicly on behalf of a company or for commercial benefit;
+     - using it internally in a for-profit organization's operations;
+     - incorporating it into anything you sell or license to others.
+
+   For any of the above, please get in touch first. Commercial licenses are
+   available and are normally straightforward to arrange.
+
+     Email:  kianna.kazemi99@gmail.com
+     GitHub: https://github.com/kiannakazemi/iran-prosperity-project-bilingual-rag/issues
+
+   Email is the fastest route. Please include what you would like to build and
+   the context you would use it in.
+
+-------------------------------------------------------------------------------
+
+SCOPE OF THIS LICENSE
+
+The license above applies to the software in this repository — the retrieval
+pipeline, evaluation harness, API, web interface, and accompanying
+documentation.
+
+It does NOT apply to the source document. The "Emergency Phase Booklet" of the
+Iran Prosperity Project, and all derivatives of its text included here for the
+system to function — the converted Markdown and JSON, the text chunks under
+indexing/chunking/, and the chunk text stored in the vector index — remain the
+intellectual property of the Iran Prosperity Project and the National Union for
+Democracy in Iran (NUFDI). They are included solely to make this software
+usable, are governed by their owners' terms, and are not licensed by this file.
+
+If you build on this work, please credit both the Iran Prosperity Project /
+NUFDI for the Emergency Phase Booklet, and the author of this repository for the
+retrieval system and evaluation.

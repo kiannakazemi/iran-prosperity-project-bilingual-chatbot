@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00393
+chunk_index: 393
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /TRANSITIONAL NATIONAL CYBERSECURITY TASK FORCE/
+page_start: 137
+page_end: 137
+summary: This chunk contains an institutional framework description.
+--- text (1418 chars) ---
+[Summary: This chunk contains an institutional framework description.]
+
+[Topic: CYBERSECURITY]
+
+# TRANSITIONAL NATIONAL CYBERSECURITY TASK FORCE
+
+A dedicated Transitional National Cybersecurity Task Force is established from Day 0 as the central operational authority for stabilizing industrial, telecommunications, and critical digital infrastructure. This task force functions as the national coordination body for cyber incident response, exposure reduction, and cross-sector technical alignment during the stabilization phase.
+
+The task force is composed of vetted domestic specialists, trusted diaspora experts, and selected institutional personnel with critical operational knowledge. Accelerated vetting procedures and role-based access controls are implemented to ensure both trustworthiness and operational continuity. The structure includes defined operational units responsible for OT security, telecommunications security, national monitoring and incident response, technical standards coordination, and sector liaison functions.
+
+Operating on a 24/7 basis, the task force provides centralized situational awareness, rapid decision-making support, and coordinated guidance to critical infrastructure operators. It serves as the bridge between emergency stabilization efforts and the future permanent national cybersecurity institutions that will assume long-term governance and regulatory responsibilities.

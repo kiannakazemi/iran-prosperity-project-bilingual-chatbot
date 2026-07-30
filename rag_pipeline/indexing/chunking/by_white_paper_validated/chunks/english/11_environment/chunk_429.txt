@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00429
+chunk_index: 429
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENVIRONMENT
+header_path: /Phase 2—Rapid Assessment and Pollution Response (Days 11 to 40)/
+page_start: 149
+page_end: 149
+split_part: 2/2
+summary: This chunk contains an action plan.
+--- text (1030 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: ENVIRONMENT]
+
+trawling activities and contracts, and strengthen scientific stock assessments for vulnerable species. Temporarily suspend new industrial fishing licenses in coastal areas to protect depleted marine biodiversity pending further assessments.
+- **Environmental Public Education and Communication:** Launch a national public information and educational campaign to reassure citizens about the government's commitment to urgent environmental protection. Promote transparency on environmental risks, encourage civic participation in conservation efforts, and build public trust in the Transitional Government's response.
+- **Local Leadership Engagement:** Engage trusted local leaders and community representatives to identify site-specific environmental risks, mediate local disputes, and support rapid response operations, leveraging their local knowledge and influence to help tailor interventions to regional realities and improve cooperation in affected areas.

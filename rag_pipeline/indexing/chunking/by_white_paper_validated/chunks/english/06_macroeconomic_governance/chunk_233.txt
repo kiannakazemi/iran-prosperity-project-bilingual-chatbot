@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00233
+chunk_index: 233
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /MACROECONOMIC GOVERNANCE: Managing Fiscal and Monetary Risks/
+page_start: 84
+page_end: 84
+split_part: 1/2
+summary: This chunk contains a white paper title and an introductory overview.
+--- text (1506 chars) ---
+[Summary: This chunk contains a white paper title and an introductory overview.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# MACROECONOMIC GOVERNANCE: Managing Fiscal and Monetary Risks
+
+*February 2026*
+
+*This white paper outlines the core strategies for restoring Iran's economic functionality during the transitional period. It focuses on reasserting control over fiscal institutions, stabilizing the banking system and monetary framework, and rebuilding the integrity of financial markets. These efforts are essential to prevent economic collapse, maintain fiscal and monetary stability, preserve consumption and investment, and create the foundation for credible reform and long-term recovery.*
+
+This white paper is organized into three interrelated areas: fiscal policy, banking and monetary stabilization, and financial market restructuring. While each area requires targeted interventions, they all share the common goal of restoring public and investor confidence in the state's ability to manage the economy. The subsections below lay out clear objectives, priorities, and actions, along with monitoring mechanisms to ensure effective implementation and accountability.
+
+It is important to note the Central Bank of Iran (CBI) performs two critical and distinct roles that are particularly relevant during the transition period. First, as the monetary authority, the CBI is responsible for conducting monetary policy, managing inflation, stabilizing the exchange rate, and regulating the banking sector. 

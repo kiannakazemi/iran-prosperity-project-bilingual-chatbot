@@ -1,0 +1,30 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00077
+chunk_index: 77
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/C. TRANSITIONAL DIVAN/
+page_start: 35
+page_end: 36
+split_part: 6/8
+summary: This chunk contains a court mandate and procedures description.
+--- text (1566 chars) ---
+[Summary: This chunk contains a court mandate and procedures description.]
+
+[Topic: POLITICAL]
+
+person solely because that person held a managerial or administrative position during the Regime era. As a principle, managers and administrative staff (whether civilian or military) are excluded from the Court's jurisdiction unless the Special Prosecutor (see below, paragraph 19.7.1.7) can present strong evidence that a specific
+
+- individual directly participated in gross human rights violations or in the appropriation or destruction of national or public property.
+- **19.7.1.4** No form of political immunity (whether diplomatic or parliamentary), judicial immunity, statute of limitations, or justifications under Islamic Republic laws shall bar prosecution.
+
+*Judges and Branches of the Transitional Justice Court*:
+
+- **19.7.1.5** Judges of the Transitional Justice Court shall be nominated by the Judicial Council (discussed above, paragraph 19.4) and confirmed by the head of the Transitional Divan.
+- **19.7.1.6** The number and locations of the branches of the Transitional Justice Court shall be decided by the head of the Transitional Divan, after consulting with the Minister of Justice and the head of the Budget Organization of Divan (discussed above, paragraph 19.5).
+
+*Procedures of the Transitional Justice Court:*
+
+- **19.7.1.7** The judicial proceedings against an individual shall commence upon indictment by the Special Prosecutor, who is appointed by the Attorney General (Prosecutor General) after consultation with the Minister of Justice.

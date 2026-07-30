@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00491
+chunk_index: 491
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 4 (Days 121‑180) — Reassessment and Reinforcement of OC, DMCP, Supply Chains and Digital Systems/Overview and Importance/
+page_start: 170
+page_end: 170
+summary: This chunk contains a phase description, an overview, and a rationale statement.
+--- text (540 chars) ---
+[Summary: This chunk contains a phase description, an overview, and a rationale statement.]
+
+[Topic: HEALTHCARE]
+
+# **Phase 4 (Days 121‑180) — Reassessment and Reinforcement of OC, DMCP, Supply Chains and Digital Systems**
+
+### **Overview and Importance**
+
+The final phase converts emergency scaffolding into permanent institutions. Comparative evidence from Estonia and post‑genocide Rwanda shows that post‑crisis gains survive when embedded in clear legal mandates backed by stable financing, quadrupling five‑year sustainability [10][9].

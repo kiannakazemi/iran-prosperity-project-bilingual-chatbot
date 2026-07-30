@@ -1,0 +1,18 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00024
+chunk_index: 24
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/STRUCTURE OF THE EMERGENCY PHASE BOOKLET/
+page_start: 10
+page_end: 10
+split_part: 4/5
+summary: This chunk contains white paper summaries.
+--- text (1118 chars) ---
+[Summary: This chunk contains white paper summaries.]
+
+national interest, security, and economic recovery through reintegration into the international community. The paper recommends: 1) Nuclear transparency: ceasing all uranium enrichment and allowing unrestricted inspections by the International Atomic Energy Agency to facilitate the lifting of sanctions; 2) Global realignment: normalizing relations with the United States and the European Union, and officially recognizing Israel through the Cyrus Accord framework; and 3) Regional stability: establishing a "Framework for Regional Stability" with neighboring countries based on the principles of non-interference and border security. It also recommends institutional reforms to overhaul the Ministry of Foreign Affairs and establish an economic diplomacy task force to attract foreign investment.
+
+The white paper on macroeconomics provides a strategic roadmap for stabilizing Iran's economy during the Transitional Period. The overarching goal is to prevent systemic collapse and lay the groundwork for long-term recovery under a future democratic government. 

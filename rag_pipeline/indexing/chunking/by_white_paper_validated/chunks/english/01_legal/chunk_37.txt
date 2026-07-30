@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00037
+chunk_index: 37
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /II. POSSIBLE LEGAL FRAMEWORKS/A. RESTORATIVE OPTION/
+page_start: 20
+page_end: 20
+split_part: 1/2
+summary: This chunk contains a policy option analysis.
+--- text (1367 chars) ---
+[Summary: This chunk contains a policy option analysis.]
+
+[Topic: LEGAL]
+
+### **A. RESTORATIVE OPTION**
+
+- **7.** Repealing all laws of the Islamic Republic and reinstating all Imperial laws is not suitable for the transitional period and, therefore, this white paper does not recommend it. This is because, while this option is appealing, it would lead to legal and social chaos, as it fails to satisfy the first two wings of the optimal criteria: practicality and stabilizing effect.
+- **8.** The Islamic Republic has ruled Iran for approximately fifty years, during which significant changes have transformed people's lives worldwide, including in Iran. Examples include the rise of new technologies, novel forms of transactions, and scientific breakthroughs—none of which existed half a century ago, and thus no relevant laws even existed at the time. Throughout this period, the Islamic Republic has enacted numerous laws to keep pace with these changing needs. These laws, albeit ineffective and unscientific, play an important role simply by filling legal gaps.
+- **9.** One of the key objectives of the transitional period is to ensure stability in the daily lives of the Iranian people (the stabilizing criterion). Repealing all laws of the Islamic Republic would undermine this goal by creating a legal vacuum that Imperial-era laws cannot adequately fill. 

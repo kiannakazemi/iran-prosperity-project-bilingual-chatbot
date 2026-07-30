@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00394
+chunk_index: 394
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /EMERGENCY INTERNATIONAL CYBERSECURITY SUPPORT AND PROCUREMENT FRAMEWORK/
+page_start: 137
+page_end: 137
+summary: This chunk contains a framework description.
+--- text (1398 chars) ---
+[Summary: This chunk contains a framework description.]
+
+[Topic: CYBERSECURITY]
+
+# EMERGENCY INTERNATIONAL CYBERSECURITY SUPPORT AND PROCUREMENT FRAMEWORK
+
+Recognizing that early-stage stabilization may exceed existing national technical capacity, the strategy establishes a structured framework for rapid, secure, and transparent procurement of international cybersecurity expertise, tools, and operational support. This framework enables timely access to trusted external assistance for specialized monitoring technologies, incident response support, telecommunications resilience measures, and industrial control system security advisory services. Procurement is conducted through pre-approved vendor and partner lists, prioritizing providers that meet strict security, transparency, and interoperability standards. All external technical engagement is subject to defined oversight mechanisms, access control restrictions, and contractual safeguards to protect national sovereignty, sensitive infrastructure data, and operational integrity. This ensures that international cooperation strengthens national resilience while maintaining full national authority over critical systems. The framework is designed as a temporary capacity bridge, supporting stabilization and capability transfer until national institutions are fully equipped to manage long-term cybersecurity operations independently.

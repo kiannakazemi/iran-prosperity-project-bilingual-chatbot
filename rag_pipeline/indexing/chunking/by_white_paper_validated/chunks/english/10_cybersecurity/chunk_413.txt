@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00413
+chunk_index: 413
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /ANTICIPATED POLITICAL CHALLENGES/Backlash against tightening incident reporting and external audit powers/
+page_start: 144
+page_end: 144
+summary: This chunk contains a challenges analysis.
+--- text (476 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: CYBERSECURITY]
+
+### ● **Backlash against tightening incident reporting and external audit powers**
+
+Operators may frame mandatory reporting and audits as "politicization," cost burdens, or national-security exposure, delaying compliance.
+
+**Mitigation:** Mandating time-bound incident reporting and regulated supervision as national resilience requirements, with clear thresholds and protected reporting channels.

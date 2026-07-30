@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00246
+chunk_index: 246
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING THE BANKING SYSTEM AND THE CURRENCY/Assumptions/
+page_start: 88
+page_end: 88
+summary: This chunk contains a list of assumptions.
+--- text (703 chars) ---
+[Summary: This chunk contains a list of assumptions.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Assumptions**
+
+- Functioning transitional authority with control over key institutions, including the Central Bank of Iran (CBI), the Ministry of Economy and Financial Affairs (the Treasury), and major banks.
+- Relative stability with no active war and a peaceful or contained transfer of power, preserving core infrastructure.
+- Access to financial infrastructure, including payment systems, CBI facilities, and communications.
+- Openness to international engagement, including potential recognition by major powers.
+- The path to sanctions relief or legal access to frozen assets is available or negotiable.

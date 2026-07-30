@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00361
+chunk_index: 361
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /ANTICIPATED POLITICAL CHALLENGES/Sabotage and espionage during early SCADA or facility handovers/
+page_start: 124
+page_end: 124
+summary: This chunk contains a challenges analysis.
+--- text (430 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: ENERGY]
+
+#### ● **Sabotage and espionage during early SCADA or facility handovers**
+
+IRGC remnants may exploit digital or physical access points to sabotage key infrastructure during the transition window.
+
+**Mitigation:** Isolate all SCADA systems on Day 1, purge foreign-linked VPNs, and deploy plainclothes counter-sabotage units with rapid intervention authority.

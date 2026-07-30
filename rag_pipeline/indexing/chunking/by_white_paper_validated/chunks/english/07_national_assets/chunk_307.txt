@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00307
+chunk_index: 307
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /FOUNDATIONAL ACTION: IDENTIFICATION OF KEY ORGANIZATIONS/
+page_start: 107
+page_end: 108
+split_part: 1/3
+summary: This chunk contains a structural table.
+--- text (1570 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+# FOUNDATIONAL ACTION: IDENTIFICATION OF KEY ORGANIZATIONS
+
+The plan targets all major organizations controlling strategic resources.
+
+| Organization Name                                                    | Description                                                                                                                                                           | Estimated Worth / Economic Clout                                                                                           | Key Sectors of Operation                                                             |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Bonyad Mostazafan (Foundation of the Oppressed)                      | A massive parastatal conglomerate (bonyad) formed from confiscated assets of the former monarchy. Reports directly to the Supreme Leader.                             | Estimated at over 20 billion. Iran's second largest commercial company after the National Iranian Oil Company.             | Real Estate, Construction, Finance (Sina Bank), Manufacturing, Beverages, Logistics. 

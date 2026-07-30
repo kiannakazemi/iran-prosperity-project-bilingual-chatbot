@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00049
+chunk_index: 49
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /POLITICAL: Process and Framework for Transition from the Islamic Republic/
+page_start: 26
+page_end: 26
+split_part: 1/2
+summary: This chunk contains a white paper title and an introductory framework overview.
+--- text (1468 chars) ---
+[Summary: This chunk contains a white paper title and an introductory framework overview.]
+
+[Topic: POLITICAL]
+
+# POLITICAL: Process and Framework for Transition from the Islamic Republic
+
+*February 2026*
+
+*This white paper sets out a comprehensive political and institutional framework for Iran's transition following the fall of the Islamic Republic. It is part of the Iran Prosperity Project's governance planning, providing a legal and institutional roadmap for governing the country during the transitional period under the leadership of the Leader of the National Uprising. Within this framework, a unified Transitional System is proposed, consisting of three main pillars*—*the Transitional Mehestan (the legislative branch), the Transitional Government (the executive branch), and the Transitional Divan (the judiciary)*—*aimed at ensuring continuity of governance, maintaining territorial integrity, restoring public order, and establishing foundations for democratic legitimacy.*
+
+*This white paper details the responsibilities, appointment, and oversight mechanisms, and checks and balances among the institutions of the Transitional System. It also outlines a clear timeline for the transition, starting with a referendum on the future system of government, followed by the election of a Constituent Assembly, the drafting and ratification of a new constitution, the election of the Mehestan, and ultimately the transfer of power to an elected government. 

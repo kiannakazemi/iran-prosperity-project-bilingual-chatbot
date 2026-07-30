@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00225
+chunk_index: 225
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: GOVERNMENT ESSENTIAL FUNCTIONS
+header_path: /GOVERNMENT ESSENTIAL FUNCTIONS: Maintaining Services and Activities, and Fulfilling Obligations/
+page_start: 80
+page_end: 80
+summary: This chunk contains a white paper title and an introductory overview.
+--- text (556 chars) ---
+[Summary: This chunk contains a white paper title and an introductory overview.]
+
+[Topic: GOVERNMENT ESSENTIAL FUNCTIONS]
+
+# GOVERNMENT ESSENTIAL FUNCTIONS: Maintaining Services and Activities, and Fulfilling Obligations
+
+*February 2026*
+
+*This white paper establishes the continuity operating framework for the first 180 days. It defines essential functions, prioritization rules under constraint, and the governance mechanism for cross-sector allocation and standardized provincial execution. Detailed procedures are provided in the referenced chapters.*

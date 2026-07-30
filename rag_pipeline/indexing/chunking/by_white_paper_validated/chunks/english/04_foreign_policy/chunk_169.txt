@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00169
+chunk_index: 169
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /FIRST 100 DAYS: ACTION PLAN SUMMARY/IRAN AND NEIGHBORING COUNTRIES/Month One: Regional Visits by Interim Officials or Special Envoys/Iraq/
+page_start: 64
+page_end: 64
+summary: This chunk contains a diplomatic action plan.
+--- text (432 chars) ---
+[Summary: This chunk contains a diplomatic action plan.]
+
+[Topic: FOREIGN POLICY]
+
+### ● **Iraq**
+
+**Core Objective:** Expand bilateral trade and prevent militias that were previously backed by the IRGC, as well as separatist groups, from crossing into Iran and intervening in its internal affairs. **Initial Agreement Proposal:** Joint border monitoring and terminating the Islamic Republic's proxy
+
+and separatist-group influence.

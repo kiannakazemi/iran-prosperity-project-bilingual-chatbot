@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00423
+chunk_index: 423
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENVIRONMENT
+header_path: /ASSUMPTIONS/
+page_start: 147
+page_end: 147
+summary: This chunk contains a list of assumptions.
+--- text (1105 chars) ---
+[Summary: This chunk contains a list of assumptions.]
+
+[Topic: ENVIRONMENT]
+
+# ASSUMPTIONS
+
+- A coherent, functional, and stable political structure will exist to issue executive decrees, mobilize national institutions, and enforce environmental emergency measures.
+- Environmental professionals, particularly vetted mid-level technical staff in the Department of Environment and universities, will be present and willing to support the transition.
+- Key international actors, including UN agencies, regional environmental organizations, and donor institutions, will be positioned to rapidly initiate cooperation, provide technical assistance, and support financing mechanisms once a transitional framework is in place.
+- The public will respond positively to transparent communication and opportunities for civic participation, enabling effective outreach, volunteer mobilization, and local engagement in emergency environmental efforts.
+- The Transitional Government will be able to secure legal instruments to impose moratoria, declare emergency zones, and restructure institutional mandates as needed.

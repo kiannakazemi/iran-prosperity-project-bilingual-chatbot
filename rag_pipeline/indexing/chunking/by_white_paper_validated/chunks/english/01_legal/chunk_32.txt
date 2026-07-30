@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00032
+chunk_index: 32
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /LEGAL: Process and Framework for Transition from the Islamic Republic/
+page_start: 18
+page_end: 18
+split_part: 2/2
+summary: This chunk contains an introductory framework overview.
+--- text (1165 chars) ---
+[Summary: This chunk contains an introductory framework overview.]
+
+[Topic: LEGAL]
+
+transitional period. Replacement laws and institutions shall be drawn from the Pahlavi Imperial era. If a law or institution from that era does not meet the modern needs, it shall be updated or replaced with a new one, whichever is more effective.*
+
+*Part III: Repealing laws and regulations, and dissolving institutions and bodies that are in clear conflict with any of the following three criteria: (a) Iran's historical and national identity; (b) the 1948 Universal Declaration of Human Rights; or (c) the progress of the Transitional System.*
+
+*The proposed framework offers a pragmatic, stabilizing, and promising approach for the transitional period. By combining legal continuity with the targeted repeal of laws and dissolution of institutions, it ensures stability until new laws are enacted, lessens the legal workload of the Transitional System (allowing it to prioritize urgent needs), and defers comprehensive legal reform to the future, democratically elected Mehestan. This framework lays the foundation for the democratic modernization of the Iranian legal system.*

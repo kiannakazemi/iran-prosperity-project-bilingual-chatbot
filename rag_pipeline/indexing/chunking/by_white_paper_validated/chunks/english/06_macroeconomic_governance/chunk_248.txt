@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00248
+chunk_index: 248
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING THE BANKING SYSTEM AND THE CURRENCY/Actions/Monetary and Banking System Stabilization/
+page_start: 88
+page_end: 89
+summary: This chunk contains an action plan.
+--- text (925 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **● Monetary and Banking System Stabilization**
+
+- Grant the CBI operational independence to set interest rates, manage liquidity, and implement anti-inflation policy.
+- Restricting liquidity growth (M2) by limiting the growth of the banking sector's balance sheet and eventually raising interest rates to counter inflationary pressures.
+- Reform the Foreign Exchange Market by consolidating the current multiple exchange rates into a dual-rate system as a transitional step. This approach can help stabilize the currency and prioritize essential imports in the short run, while maintaining capital controls to preserve reserves.
+
+- Maintain uninterrupted banking and payment services to support private consumption and public sector operations.
+- Issue domestic bonds via local financial institutions to address short-term budget deficits.

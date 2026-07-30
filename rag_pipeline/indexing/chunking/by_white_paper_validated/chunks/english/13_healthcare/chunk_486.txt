@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00486
+chunk_index: 486
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 2 (Days 31‑90) — Mental Health Surge, Insurance Continuity and Workforce Allocation/Expected Outcomes / Monitoring and Evaluation / Political Risks and Mitigation/
+page_start: 169
+page_end: 169
+summary: This chunk contains an expected outcomes statement, monitoring metrics, and a risk and mitigation analysis.
+--- text (728 chars) ---
+[Summary: This chunk contains an expected outcomes statement, monitoring metrics, and a risk and mitigation analysis.]
+
+[Topic: HEALTHCARE]
+
+## **Expected Outcomes / Monitoring and Evaluation / Political Risks and Mitigation**
+
+By Day 90, national MHPSS coverage is achieved, workforce inequity drops 30 %, and over 70 % of voucher claims pay within seven days. Oversight by the Red Crescent prevents provincial power plays, while mass‑media public education campaigns destigmatize mental health care. 24/7 peer support channels are live in all provinces, and suicide hotline services are fully operational. Escalation rates and intervention success are tracked using validated tools and AI-derived emotional pattern monitoring.

@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00272
+chunk_index: 272
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /PRIVATIZATION/Key Priorities/
+page_start: 95
+page_end: 96
+summary: This chunk contains a priorities list.
+--- text (590 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Key Priorities**
+
+The following measures should be taken promptly:
+
+- Taking control of assets, safeguarding, and recordkeeping.
+- Removing political appointees from SOEs and appointing interim management.
+
+- Maintaining the operations of productive enterprises.
+- Hiring accounting/auditing firms to oversee past transactions, monitor ongoing finances and perform full risk assessment.
+- Assessing liabilities and preserving enterprise value.
+- Defining a prioritization framework for privatization.

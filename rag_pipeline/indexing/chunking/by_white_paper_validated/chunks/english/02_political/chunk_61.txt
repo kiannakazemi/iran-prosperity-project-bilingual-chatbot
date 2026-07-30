@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00061
+chunk_index: 61
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/B. TRANSITIONAL GOVERNMENT/
+page_start: 30
+page_end: 30
+split_part: 1/11
+summary: This chunk contains an institutional mandate description.
+--- text (1290 chars) ---
+[Summary: This chunk contains an institutional mandate description.]
+
+[Topic: POLITICAL]
+
+### **B. TRANSITIONAL GOVERNMENT**
+
+- **12.** The Transitional Government shall act as the executive branch during the transitional period.
+- **13.** The structure of the Transitional Government (such as the number and names of ministries, organizations, and institutions) shall be devised by the head of the Transitional Government in due course, after consulting with the Transitional Mehestan and obtaining the approval of the Leader of the National Uprising. The same process applies to reviewing institutions, organizations, and important symbols from the Islamic Republic era, aiming to identify which should be dissolved or removed and which can be retained, with or without modification.
+- **14.** All ministers, except the Minister of Defense, shall be appointed by the head of the Transitional Government, subject to approval by the Transitional Mehestan (by absolute majority vote). The removal of any minister, other than the Minister of Defense, shall also be at the discretion of the head of the Transitional Government. The appointment and removal of the Minister of Defense shall be made by the head of the Transitional Government and approved by the Leader of the National Uprising. 

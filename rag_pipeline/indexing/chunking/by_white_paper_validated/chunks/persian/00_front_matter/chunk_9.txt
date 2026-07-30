@@ -1,0 +1,16 @@
+--- metadata ---
+chunk_id: fa__Emergency_Phase_PERSIAN_20260301_1440__00009
+chunk_index: 9
+source_file: Emergency_Phase_PERSIAN_20260301_1440.md
+source_pdf: Emergency_Phase_PERSIAN_20260301_1440.pdf
+language: fa
+white_paper: Front Matter
+header_path: /درباره پروژه شکوفایی ایران/چشم انداز ما/
+page_start: 5
+page_end: 5
+split_part: 2/2
+summary: این تکه شامل بیانیه چشم‌انداز است.
+--- text (313 chars) ---
+[Summary: این تکه شامل بیانیه چشم‌انداز است.]
+
+جای صدور افراط گرایی و تروریسم از سوی رژیم کنونی، به تقویت ثبات و همکاری در سراسر منطقه یاری رساند. در داخل کشور نیز گسترش تجارت بین المللی به موتور محرکه ای نیرومند برای اقتصاد ایران بدل خواهد شد و به احیای جایگاه آن به عنوان یکی از قدرت های منطقه ای کمک خواهد کرد.

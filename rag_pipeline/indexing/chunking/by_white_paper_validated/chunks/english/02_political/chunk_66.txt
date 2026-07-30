@@ -1,0 +1,28 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00066
+chunk_index: 66
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/B. TRANSITIONAL GOVERNMENT/
+page_start: 31
+page_end: 31
+split_part: 6/11
+summary: This chunk contains an action plan and a list of foundational principles.
+--- text (1195 chars) ---
+[Summary: This chunk contains an action plan and a list of foundational principles.]
+
+[Topic: POLITICAL]
+
+democratic standards, and all eligible Iranian voters shall be able to exercise their right to vote.
+  - **15.6.3.** To safeguard the democratic values shared by both systems of government, the following statement shall be included on both ballots of parliamentary monarchy and republic:
+
+"*Regardless of the nation's choice (parliamentary monarchy or republic), the following seven principles shall be immutable foundations of Iran's future legal system and shall remain enshrined and inviolable in the new Constitution and all laws of the country:*
+
+- *- The territorial integrity of Iran and the unity of the Iranian nation;*
+- *- Human dignity and fundamental individual rights and freedoms, inspired by the Cyrus Cylinder and grounded in the Universal Declaration of Human Rights (1948);*
+
+further information, see the white paper "Foreign Policy."
+
+timeline is intended to balance two priorities: on the one hand, allowing sufficient time for a national discussion on an important issue, and on the other hand, preventing the transitional period from becoming excessively prolonged.

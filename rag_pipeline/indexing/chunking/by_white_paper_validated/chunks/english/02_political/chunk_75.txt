@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00075
+chunk_index: 75
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/C. TRANSITIONAL DIVAN/
+page_start: 35
+page_end: 35
+split_part: 4/8
+summary: This chunk contains a responsibilities list.
+--- text (1142 chars) ---
+[Summary: This chunk contains a responsibilities list.]
+
+[Topic: POLITICAL]
+
+annual budget, which will ultimately be sent to the Transitional Mehestan for review and final approval. It should be noted that:
+    - **19.5.3.1** The Transitional Government shall not alter any part of the Transitional Divan's proposed budget without approval from the Budget Organization of Divan.
+    - **19.5.3.2** If the Transitional Mehestan has any questions regarding the Transitional Divan's proposed budget during the budget review, the Budget Organization of Divan shall attend the session independently (from the Transitional Government) to defend its proposed budget.
+    - **19.5.3.3** Once the budget is approved by the Transitional Mehestan, the Supreme Audit Court shall be responsible for overseeing its proper implementation within the Transitional Divan.
+- **19.6.** Reviewing and approving the Transitional Divan's annual budget proposed by the Budget Organization of Divan (see above, paragraph 19.5.2).
+- **19.7.** Establishing the Transitional Justice Program, which includes a specialized court and a truth commission, as detailed below.

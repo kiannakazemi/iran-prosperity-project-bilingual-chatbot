@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00480
+chunk_index: 480
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 1 (Days 1‑30) — Medication Flow, Hospital Operations and Infection Control/Actions/
+page_start: 167
+page_end: 167
+summary: This chunk contains an action plan and a recommendation list.
+--- text (614 chars) ---
+[Summary: This chunk contains an action plan and a recommendation list.]
+
+[Topic: HEALTHCARE]
+
+### **Actions**
+
+Conduct a 72‑hour national warehouse inventory, publish gap lists, and issue blanket purchase orders financed by a pooled donor fund. Provide mixed civil‑military escorts for convoys through insecure corridors.
+
+### **Recommendations**
+
+Embed electronic stock‑tracking into the OC dashboard; sign rapid‑procurement MoUs with Persian Gulf and other international humanitarian agencies; and leverage Iran's postal service and private service providers for last‑mile delivery of chronic‑disease medicines.

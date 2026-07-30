@@ -1,0 +1,31 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00238
+chunk_index: 238
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /FISCAL POLICY/Assumptions/
+page_start: 85
+page_end: 85
+summary: This chunk contains a list of assumptions and an action plan.
+--- text (1137 chars) ---
+[Summary: This chunk contains a list of assumptions and an action plan.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Assumptions**
+
+- Widespread political consent for the Transitional Government.
+- Sufficient support among mid-level managers of ministries and agencies.
+- No credible alternative entity to challenge international legitimacy.
+
+### **Actions**
+
+### **● Economic Stabilization**
+
+- **Control fiscal institutions:** Secure the Central Bank of Iran (CBI) role as the fiscal agent and account holder of the Treasury to maintain regular government payments and preserve private consumption (~50% of GDP), including through public subsidies on essential goods.
+- **Monetary policy:** Empowering the CBI as an Independent Institution (Managing interest rates to curb inflation).
+- **Capital controls on public institutions:** Temporarily imposed to prevent capital flight and freeze and immobilize assets of former regime affiliates.
+- **Domestic debt issuance:** Issue bonds through local financial institutions to cover short-term budgetary gaps.
+- **Support existing pensioners:** Ensure minimal disruption for current pensioners.

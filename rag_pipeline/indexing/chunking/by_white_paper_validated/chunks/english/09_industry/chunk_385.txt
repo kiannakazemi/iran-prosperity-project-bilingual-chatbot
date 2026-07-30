@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00385
+chunk_index: 385
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /ANTICIPATED POLITICAL CHALLENGES/Challenge 4: Skilled flight or brain drain continues/
+page_start: 132
+page_end: 132
+summary: This chunk contains a challenges analysis.
+--- text (694 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: INDUSTRY]
+
+# **Challenge 4: Skilled flight or brain drain continues**
+
+- **Risk**: Remaining experts may emigrate due to uncertainty, hampering restarts.
+- **Mitigation**: Offer 12-month transitional retention contracts; coordinate with the Ministry of Labor and Education to reskill and stabilize.
+
+# **Challenge 5: Legal uncertainty delays private investment**
+
+- **Risk**: Absence of commercial court reform, bankruptcy laws, or JV frameworks may deter diaspora and FDI capital.
+- **Mitigation**: Draft temporary legal guarantees under MITP with transitional parliamentary oversight; publish timelines for full regulatory reset.

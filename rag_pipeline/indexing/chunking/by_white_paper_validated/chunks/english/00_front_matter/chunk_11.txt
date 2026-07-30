@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00011
+chunk_index: 11
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /ABOUT IRAN PROSPERITY PROJECT/THE PROJECT'S STRUCTURE/
+page_start: 6
+page_end: 6
+split_part: 2/2
+summary: This chunk contains a project structure overview.
+--- text (938 chars) ---
+[Summary: This chunk contains a project structure overview.]
+
+policy papers organized into two categories: Foundational Stabilization and Industrial Revitalization. These papers establish national policy frameworks to support long-term economic stability, labor market resilience, and sustainable growth. They also outline sector-specific visions and investment requirements. A draft of the economic part of the Foundational Stabilization papers was released to the public for comment in May 2025, and the full booklet is expected to be published in the coming months. Work on the Industrial Revitalization papers has already commenced, and the initial draft will be released in the near future.
+
+Iran is a great country, and Iranians are a great nation. They deserve freedom, prosperity, and respect. The Iran Prosperity Project has developed a comprehensive plan to restore Iran's greatness.
+
+Saeed Ghasseminejad, Ph.D. Project Director

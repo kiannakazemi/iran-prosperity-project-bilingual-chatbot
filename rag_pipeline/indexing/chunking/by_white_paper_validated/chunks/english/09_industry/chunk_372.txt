@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00372
+chunk_index: 372
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /Phase 2: Stabilization and Triage (Days 11 to 40)/
+page_start: 128
+page_end: 129
+summary: This chunk contains a phase description and an action plan.
+--- text (1304 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: INDUSTRY]
+
+# **Phase 2: Stabilization and Triage (Days 11 to 40)**
+
+● **Restore and restart Tier 1 production lines**: This includes production lines for flour, rice packaging, edible oil, dairy, vaccines, insulin, IV fluids, antibiotics, poultry and cattle feed, seed processing, etc. Priority should also be given to labor-intensive industries with low import dependency, which can be restarted rapidly to absorb unemployed workers and stabilize communities.
+
+- **Stabilize critical packaging sectors (plastic, aluminum, cardboard):** This will prevent bottlenecks in food/pharma delivery.
+- **Begin plant-level audits for Tier 2 sectors:** Specifically for cement, steel, construction materials, auto parts, fertilizer.
+- **Launch Emergency Workforce Retention Scheme:** Implement temporary wage support for returning skilled labor in Tier 1–2 industries.
+- **Initiate national machine tool registry and reactivation program:** Map CNC, extruders, injection molders, kilns, and packaging equipment that can be restarted.
+- **Logistics Industrial Situation Room:** Designate three trucking corridors, two rail paths, and two ports with 24/7 staffing, secure parking, escorted fuel convoys, and daily throughput dashboards.

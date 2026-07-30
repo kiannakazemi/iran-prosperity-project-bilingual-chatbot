@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00410
+chunk_index: 410
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /MONITORING AND EVALUATION/Review Process/
+page_start: 143
+page_end: 143
+summary: This chunk contains a review process description.
+--- text (651 chars) ---
+[Summary: This chunk contains a review process description.]
+
+[Topic: CYBERSECURITY]
+
+### **● Review Process**
+
+- **Daily Situation Reports:** Compiled by national and sectoral monitoring centers, summarizing incidents, exposure changes, and system stability.
+- **Weekly National Cybersecurity Briefings:** Delivered to national leadership and key sector authorities, covering risk trends, incident response performance, and stabilization progress.
+- **Monthly Public Oversight Summaries:** Releasing high-level, non-sensitive metrics on infrastructure stability, response readiness, and cybersecurity improvement to strengthen transparency and trust.

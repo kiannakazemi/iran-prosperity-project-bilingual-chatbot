@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00116
+chunk_index: 116
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /STRUCTURAL ASSESSMENT OF ARMED FORCES AND PARAMILITARY ORGANIZATIONS/
+page_start: 49
+page_end: 109
+split_part: 1/14
+summary: This chunk contains a structural assessment table.
+--- text (1299 chars) ---
+[Summary: This chunk contains a structural assessment table.]
+
+[Topic: MILITARY AND SECURITY]
+
+# STRUCTURAL ASSESSMENT OF ARMED FORCES AND PARAMILITARY ORGANIZATIONS
+
+The following table outlines the restructuring and future of the former regime's military, intelligence, and law enforcement institutions. The titles and organizational names of these bodies may change during the transitional period, with their final designations to be determined by either the new Constitution or statutes enacted by the future elected Mehestan (parliament).
+
+|                                                 |                                                                                                                            |                                                                                                                                                                                                       |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

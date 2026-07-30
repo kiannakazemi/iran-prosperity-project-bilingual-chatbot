@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00107
+chunk_index: 107
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /INSTITUTIONAL MODERNIZATION AND CAPACITY BUILDING/Financial Transparency and Smart Defense Budgeting/
+page_start: 46
+page_end: 47
+summary: This chunk contains institutional modernization recommendations.
+--- text (745 chars) ---
+[Summary: This chunk contains institutional modernization recommendations.]
+
+[Topic: MILITARY AND SECURITY]
+
+### **Financial Transparency and Smart Defense Budgeting**
+
+- The Transitional Government must combat corruption, patronage, and wasteful projects within the defense sector.
+- Defense budgets and financial reports must be made publicly available in a transparent and accountable manner.
+
+### **Establishing a System for Performance Evaluation and Oversight**
+
+- The Transitional Government shall create mechanisms to evaluate the progress of military reforms, assess operational efficiency, and ensure accountability within the chain of command.
+- Modern, data-driven technologies must be employed to enhance transparency and oversight.

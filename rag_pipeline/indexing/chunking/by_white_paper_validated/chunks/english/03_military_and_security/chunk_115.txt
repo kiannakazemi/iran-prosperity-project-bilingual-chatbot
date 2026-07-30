@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00115
+chunk_index: 115
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /RESTRUCTURING IRAN'S MILITARY AND SECURITY FORCES/Core Principles of Transitional Security Reform/
+page_start: 49
+page_end: 49
+summary: This chunk contains transitional reform principles.
+--- text (974 chars) ---
+[Summary: This chunk contains transitional reform principles.]
+
+[Topic: MILITARY AND SECURITY]
+
+# RESTRUCTURING IRAN'S MILITARY AND SECURITY FORCES
+
+# **Core Principles of Transitional Security Reform**
+
+- **De-ideologization:** The complete removal of religious, sectarian, and revolutionary influence from the military, police, and security institutions.
+- **Depoliticization:** A total ban on political, partisan, or propaganda activities by the armed forces and intelligence services.
+- **Integration:** Gradual, transparent, and conditional incorporation of qualified personnel from previous institutions into new structures, maximizing retention of capable individuals.
+- **Professionalization:** Standardization of training, promotions, command hierarchy, and oversight in line with international norms and best practices.
+- **Security with Trust:** Ensuring national security while rebuilding public trust in the military, law enforcement, and intelligence services.

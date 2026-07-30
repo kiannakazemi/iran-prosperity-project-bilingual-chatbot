@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00339
+chunk_index: 339
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /Phase 0: Pre-Entry Coordination (Before Day 1)/
+page_start: 117
+page_end: 117
+split_part: 1/3
+summary: This chunk contains a phase description and an action plan.
+--- text (1122 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: ENERGY]
+
+### **Phase 0: Pre-Entry Coordination (Before Day 1)**
+
+- **Form Transitional Energy Command Unit (TECU):** A high-trust command body composed of experts in oil and gas, electricity, cybersecurity, strategic planning, physical security, water and economic stabilization. TECU will serve as the central node for all planning, operations, and policy control. Establish a tiered field structure under TECU, including Regional Command Units (RCUs) to coordinate implementation at the provincial level, ensure rapid deployment, and manage site-specific operations.
+- **Legal empowerment**: A formal, written, and signed directive from Crown Prince Reza Pahlavi authorizes TECU to serve as an advisory and coordinating body to support the transitional ministries in maintaining control and stability of energy institutions post-regime.
+- **Identify and vet internal technocrats and Engineers:** Conduct structured mapping of personnel within the MoP and the MoE-Niroo, extending down through operational and technical levels as necessary. 

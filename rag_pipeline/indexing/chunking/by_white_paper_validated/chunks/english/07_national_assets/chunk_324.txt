@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00324
+chunk_index: 324
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /SEQUENCED RECOVERY MEASURES/Phase 2: Mid-Term Measures (Days +3 to +30)/Whistleblower Program/
+page_start: 111
+page_end: 112
+summary: This chunk contains an action plan.
+--- text (541 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: NATIONAL ASSETS]
+
+# ● **Whistleblower Program**
+
+Launch a public campaign encouraging insiders to provide information on hidden assets, offering financial rewards and amnesty where appropriate.
+
+### **Phase 3: Long-Term Measures (Month 2 Onwards)**
+
+#### ● **International Legal Action:**
+
+Initiate legal proceedings in foreign jurisdictions to recover frozen assets. This will involve hiring international law firms and working closely with the justice departments of partner nations.

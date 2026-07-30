@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00286
+chunk_index: 286
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /ASSUMPTIONS/
+page_start: 102
+page_end: 102
+split_part: 1/2
+summary: This chunk contains a list of assumptions.
+--- text (1018 chars) ---
+[Summary: This chunk contains a list of assumptions.]
+
+[Topic: NATIONAL ASSETS]
+
+# ASSUMPTIONS
+
+The viability of this plan rests on several key assumptions, which are the conditions that should be satisfied for the plan to work.
+
+- **Scenario Assumption:** The plan operates under the assumption of a collapse of central authority in Iran following an external attack or people's uprising event, creating a window of opportunity for a transitional authority to act.
+- **Operational Control:** It is assumed that a nascent transitional authority, supported by either cooperative elements of the regular military (Artesh) or an international coalition, can establish physical control over key locations in Tehran and other major cities.
+- **International Cooperation:** The plan assumes the political will of key international partners (e.g., the United States, the European Union, the United Kingdom, Switzerland, Türkiye, and the UAE) to act swiftly on notifications to freeze assets and provide intelligence support. 

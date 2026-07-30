@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00291
+chunk_index: 291
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /ACTIONS/Foundational Action: Identification and Description of Assets/
+page_start: 103
+page_end: 103
+split_part: 4/8
+summary: This chunk contains a structural table.
+--- text (2859 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+| Asset Type                  | Primary Holders                                                                                                | Brokers / Intermediaries                                                                | Potential Abuses                                                                                                                                                                                    | Countermeasures (Stop / Detect / Reverse)                                                                                                                                                                                                       |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+conversion patterns. **Reverse:** Work with FATF, Interpol, and foreign regulators to seize illicit funds. |
+| Domestic Rial Accounts      | Bonyads (Mostazafan, Setad), Astan Quds Razavi, IRGC foundations                                               | State-owned commercial banks, trusted regime-linked bank executives                     | – Moving regime-linked funds into multiple nominee accounts. – Sudden withdrawals to convert to foreign currency or gold. – Temporary "ghost accounts" created to hide final transactions.          | **Stop:** Freeze accounts tied to bonyads, Setad, and IRGC entities. **Detect:** Deploy forensic banking teams to trace transaction spikes. **Reverse:** Reclaim funds through national courts and public treasury transfers.                   |
+| Gold & Precious Metals      | CBI Treasury, Bonyad Mostazafan, IRGC elite units                                                              | Trusted family networks, private vault operators, foreign smuggling rings               | – Smuggling gold abroad through private operators. – Rapid conversion of gold to offshore currency or cryptocurrency. – Diversion of gold reserves before transition.                               | **Stop:** Secure key vaults, refineries, and border checkpoints. **Detect:** Monitor large gold sales and track exports in customs. **Reverse:** Coordinate with foreign customs agencies to recover smuggled assets. 

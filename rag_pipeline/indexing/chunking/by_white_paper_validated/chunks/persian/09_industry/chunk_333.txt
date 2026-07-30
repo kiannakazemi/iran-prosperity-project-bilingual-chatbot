@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: fa__Emergency_Phase_PERSIAN_20260301_1440__00333
+chunk_index: 333
+source_file: Emergency_Phase_PERSIAN_20260301_1440.md
+source_pdf: Emergency_Phase_PERSIAN_20260301_1440.pdf
+language: fa
+white_paper: صنعت
+header_path: /صنعت: مدیریت منابع وتولید/فاز نخست: تصرف اضطراری و قرنطینه )روزهای ۱ تا ۱۰(/
+page_start: 138
+page_end: 138
+split_part: 2/2
+summary: این تکه شامل طرح اقدام است.
+--- text (223 chars) ---
+[Summary: این تکه شامل طرح اقدام است.]
+
+[Topic: صنعت]
+
+  - تصرف و ایمنسازی انبارهای گمرکی، مراکز ذخیره ورودیهای صنعتی و انبارهای بازار سیاه تجهیزات پزشکی.
+      - ممنوعیت صادرات اقالم حیاتی غذایی وبهداشتی تا زمان تثبیت ملی.

@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00302
+chunk_index: 302
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /PHYSICAL ASSETS/Power Plants, Telecom Networks, Transport Hubs/
+page_start: 106
+page_end: 106
+summary: This chunk contains asset category descriptions.
+--- text (596 chars) ---
+[Summary: This chunk contains asset category descriptions.]
+
+[Topic: NATIONAL ASSETS]
+
+# **Power Plants, Telecom Networks, Transport Hubs**
+
+- Major power generation facilities, the national electricity grid, and the Telecommunication Company of Iran (TCI) are controlled by state-owned or IRGC-linked entities. TCI, for instance, is majority-owned by a consortium linked to Setad and the IRGC.
+- Transport hubs like Imam Khomeini International Airport and the ports of Bandar Abbas and Chabahar are under state control, with the IRGC having a pervasive presence in their security and operations.

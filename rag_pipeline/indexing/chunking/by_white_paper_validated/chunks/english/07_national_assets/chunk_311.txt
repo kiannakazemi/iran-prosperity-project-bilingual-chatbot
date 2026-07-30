@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00311
+chunk_index: 311
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /FOUNDATIONAL ACTION: IDENTIFICATION OF KEY INDIVIDUALS AND ROLES/
+page_start: 109
+page_end: 109
+split_part: 2/3
+summary: This chunk contains a structural table.
+--- text (2096 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+| Name          | Position / Role                                        | Organization                    | Connections to Assets                                                                                                                                                           |
+| ------------- | ------------------------------------------------------ | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+Defense with deep ties to the IRGC. Controls the foundation's vast real estate and corporate portfolio.                                                    |
+| ---------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ahmad Marvi                                                            | Custodian of Astan Quds Razavi                        | Astan Quds Razavi      | Appointed by the Supreme Leader, he controls all religious endowments and the massive business empire attached to the shrine.                                                 |
+| Abdolali Ali-Asgari                                                    | CEO of Tadbir Group (Setad's primary holding company) | Setad (EIKO)           | Manages the day-to-day operations of Setad's corporate empire and its network of subsidiaries.                                                                                |
+| Saeed Mohammad                                                         | Former Commander of Khatam al-Anbiya HQ               | Khatam al-Anbiya (KAA) | Oversaw the IRGC's massive construction and infrastructure projects, likely with access to associated slush funds and front companies. 

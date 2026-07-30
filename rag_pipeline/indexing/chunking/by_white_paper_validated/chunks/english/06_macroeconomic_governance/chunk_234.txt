@@ -1,0 +1,18 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00234
+chunk_index: 234
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /MACROECONOMIC GOVERNANCE: Managing Fiscal and Monetary Risks/
+page_start: 84
+page_end: 84
+split_part: 2/2
+summary: This chunk contains an introductory overview.
+--- text (1160 chars) ---
+[Summary: This chunk contains an introductory overview.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+monetary policy, managing inflation, stabilizing the exchange rate, and regulating the banking sector. Second, and less commonly seen in advanced economies, the CBI also acts as the fiscal agent and account holder of the Treasury, responsible for processing government payments, disbursing subsidies and pensions, and maintaining the operational flow of public expenditures. This dual role means that control over the CBI is not only essential for macroeconomic stabilization but also for ensuring the continuity of basic state functions and household consumption. In the following sections, references to the CBI will depend on the context: its fiscal agent role is discussed under Fiscal Policy, while its monetary authority role is examined under Stabilizing Banks and Money. In the short run, immediately following the collapse of the regime, these dual roles are not expected to change dramatically and will remain in place until the necessary steps are taken to modernize both fiscal operations and monetary policymaking under a future constitutional framework.

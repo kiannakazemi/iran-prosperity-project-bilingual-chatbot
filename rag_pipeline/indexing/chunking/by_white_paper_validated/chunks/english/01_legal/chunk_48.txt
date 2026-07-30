@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00048
+chunk_index: 48
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /IV. PROPOSED LEGAL FRAMEWORK/CONCLUSION/
+page_start: 23
+page_end: 24
+summary: This chunk contains a conclusion.
+--- text (1335 chars) ---
+[Summary: This chunk contains a conclusion.]
+
+[Topic: LEGAL]
+
+### CONCLUSION
+
+**31.** This white paper examined potential legal frameworks for managing Iran's domestic legal affairs during the transitional period following the fall of the Islamic Republic, along with the implications of
+
+- each framework. It evaluated three options and ultimately recommended the Hybrid Option as the most suitable framework.
+- **32.** Under the Hybrid Option, despite the abolition of the Constitution of the Islamic Republic, existing laws and institutions are retained, as the default rule, during the transitional period. However, those laws and institutions that are in clear conflict with any of the following three criteria are repealed and dissolved, respectively: Iran's historical and national identity, the Universal Declaration of Human Rights, and the progress of the Transitional System.
+- **33.** This phased approach ensures the continuity of societal functions without causing judicial paralysis or provoking public backlash. It enables the Transitional Mehestan to focus on urgent priorities while deferring the task of a comprehensive legal system modernization to a future democratically elected Mehestan.
+- **34.** Adopting this legal framework paves the way for a successful, peaceful transition to a democratic future for Iran.

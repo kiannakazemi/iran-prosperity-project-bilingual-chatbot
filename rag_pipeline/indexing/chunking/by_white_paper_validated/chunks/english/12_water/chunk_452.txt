@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00452
+chunk_index: 452
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /Phase 4: Strategic Planning and Institutional Transition (Days 101 to 180)/
+page_start: 158
+page_end: 158
+split_part: 2/4
+summary: This chunk contains an action plan.
+--- text (1372 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: WATER]
+
+management, and public engagement, to support the development of modern environmental and water laws.
+- **Economic Purposes:** Foster collaboration among foreign policy agencies, economic ministries, and tourism organizations to develop plans for transitioning from highly water-intensive jobs to low or non-water-intensive economic and employment opportunities.
+- **Water Balance Compilation:** Conduct a preliminary basin-level water balance assessment to inform immediate allocation and long-term planning efforts for domestic and transboundary basins.
+- **Groundwater Management Strategy:** Finalize the national assessment of aquifer conditions and develop a roadmap for sustainable groundwater use to guide future legislation and regulation.
+- **Environmental Restoration Priorities:** Identify and document priority water resources for post-transition recovery, including *Lake Urmia*, and degraded watersheds and wetlands, supported by baseline data and restoration concepts.
+- **Initiation of Agricultural Policy Planning:** In collaboration with relevant agencies, ministries, and organizations, initiate development of comprehensive policies on agricultural imports, exports, subsidies, and related areas to address national needs and the critical challenges of water resources and food security.

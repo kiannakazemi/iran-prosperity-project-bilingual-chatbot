@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00146
+chunk_index: 146
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /OPERATIONAL IMPLEMENTATION COMPANION TO IRAN'S TRANSITIONAL MILITARY REFORM PLAN/Phase A/B3: Days 41 to 100 | Institutional Establishment and Civilian Control/Key Actions:/
+page_start: 57
+page_end: 57
+summary: This chunk contains an action plan.
+--- text (974 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+### **Key Actions:**
+
+- **● National Intelligence and Security Service (NISS) and Iranian National Police:**
+  - Internal (counterintelligence, state security), External (espionage, proxy tracking), and Cyber Divisions.
+  - The Iranian National Police is demilitarized and civilian-trained.
+- **National Security Academy (NSA)**: Rapid induction program; ethics, chain of command, global law.
+- **Artesh Command Framework:** Artesh-led, accountable, zero political affiliation.
+- **National Crisis Response Activation**: Rapid-response civilian support and disaster unit.
+- **Transitional Financial Intelligence Taskforce (TFIT):** Seize and reallocate assets of IRGC-linked conglomerates.
+- **Security Transparency Framework:** A public portal for announcing arrests, publishing vetting results, and providing updates on judicial proceedings to build public trust and enable citizen oversight.

@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00235
+chunk_index: 235
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /FISCAL POLICY/Overview/
+page_start: 84
+page_end: 84
+summary: This chunk contains an overview.
+--- text (580 chars) ---
+[Summary: This chunk contains an overview.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# FISCAL POLICY
+
+#### **Overview**
+
+This transition plan outlines the strategic approach for stabilizing Iran's fiscal policy during the transitional period, focusing on securing control over public finances, maintaining essential government functions, and reestablishing administrative and international legitimacy. The plan aims to implement immediate, actionable steps that preserve core state outlays, prevent institutional collapse, and create the fiscal space necessary for recovery and reform.

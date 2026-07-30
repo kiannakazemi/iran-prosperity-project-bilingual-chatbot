@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00334
+chunk_index: 334
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /ENERGY: Managing Critical Infrastructure and Ensuring Continuity of Supply/
+page_start: 116
+page_end: 116
+summary: This chunk contains a white paper title and an introductory overview.
+--- text (626 chars) ---
+[Summary: This chunk contains a white paper title and an introductory overview.]
+
+[Topic: ENERGY]
+
+# ENERGY: Managing Critical Infrastructure and Ensuring Continuity of Supply
+
+*February 2026*
+
+*This Emergency Phase plan outlines a strategic approach for stabilizing, restoring, and reforming Iran's critical oil, gas, electricity, and nuclear infrastructure over the first 180 days following the fall of the Islamic Republic. Designed to be implemented by a vetted Transitional Energy Command Unit (TECU), the plan integrates security, governance, technical, and geopolitical risk management elements across multiple phases.*

@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00105
+chunk_index: 105
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /PRINCIPLES OF DEMOCRATIC MILITARY REFORM/Commitment to the Principle of Iran's Territorial Integrity/
+page_start: 46
+page_end: 46
+split_part: 3/3
+summary: This chunk contains a military reform principle.
+--- text (962 chars) ---
+[Summary: This chunk contains a military reform principle.]
+
+[Topic: MILITARY AND SECURITY]
+
+oversight over border stabilization through the Border Guard Forces and, if necessary, the National Army. When required and upon the request of the unified military command, the government must immediately allocate the necessary budget for the establishment of border posts and bases.
+- The Military Intelligence Directorate of the National Armed Forces shall continuously and closely monitor the movements of military and paramilitary forces in areas surrounding Iran's borders, utilizing the capacities of other relevant branches of the armed forces and in coordination with national intelligence institutions, and report its findings through the chain of command to the unified military command.
+- The principle of Iran's Territorial Integrity, as outlined above, shall be institutionalized in the national defense doctrine, military training, and command structure.

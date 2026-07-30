@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00283
+chunk_index: 283
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /OBJECTIVES/
+page_start: 101
+page_end: 101
+split_part: 2/2
+summary: This chunk contains an objectives list.
+--- text (848 chars) ---
+[Summary: This chunk contains an objectives list.]
+
+[Topic: NATIONAL ASSETS]
+
+ (Mostafaan Foundation), Tadbir Group (Setad), and Sadra Marine Industries Iran (Khatam Al-Anbiya). Ownership is deliberately obscured through complex, multi-layered holding structures, where a parent bonyad owns a holding company, which in turn owns a portfolio of subsidiaries, making it difficult to trace ultimate beneficial ownership.
+- **Enable Recovery and Repatriation:** To establish the legal and operational groundwork for the eventual recovery and repatriation of all stolen or misused public wealth for the benefit of the Iranian people.
+- **Promote Accountability:** To preserve financial records, archives, and other digital evidence essential for future investigations into corruption, human rights abuses, and the regime's military and nuclear programs.

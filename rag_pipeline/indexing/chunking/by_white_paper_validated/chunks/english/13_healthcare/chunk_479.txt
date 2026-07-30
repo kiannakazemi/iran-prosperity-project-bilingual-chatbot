@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00479
+chunk_index: 479
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 1 (Days 1‑30) — Medication Flow, Hospital Operations and Infection Control/Key Priorities/
+page_start: 167
+page_end: 167
+summary: This chunk contains a priorities list.
+--- text (428 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: HEALTHCARE]
+
+## **Key Priorities**
+
+- Use military and postal fleets for a central "push" distribution model until private wholesalers revive.
+- Ensure power and water restoration to flagship referral hospitals as a confidence signal.
+- Deploy mobile IPC units with chlorine generators and Personal Protective Equipment to high‑density communities, camps, and shelters.

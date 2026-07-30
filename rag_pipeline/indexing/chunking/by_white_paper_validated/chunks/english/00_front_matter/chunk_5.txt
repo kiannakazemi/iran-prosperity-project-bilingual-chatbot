@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00005
+chunk_index: 5
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /A NOTE FROM NUFDI'S PRESIDENT/
+page_start: 4
+page_end: 4
+split_part: 2/3
+summary: This chunk contains a foreword.
+--- text (1440 chars) ---
+[Summary: This chunk contains a foreword.]
+
+of the people, while preserving Iran's territorial integrity, cultural heritage, and national unity. At NUFDI, we have long believed that supporting the Iranian people means more than opposing the Islamic Republic; it also means helping build the foundation for what comes next.
+
+This booklet, the Emergency Phase of the Iran Prosperity Project, is part of NUFDI's commitment to help prepare for that future responsibly and seriously. The purpose is not to dictate Iran's future; that future belongs to the Iranian people. Rather, this document is a practical planning tool for the transitional period. It reflects a simple belief: preparation matters. A successful transition requires not only courage in the streets, but also competence, coordination, and foresight. I am deeply grateful to all those who have contributed their time, expertise, and patriotism to this effort.
+
+The Iranian people have already shown extraordinary bravery. Our responsibility, especially those of us outside Iran who have the freedom to plan and prepare, is to match that bravery with readiness. We must be prepared to support a peaceful transition, help prevent chaos, and ensure that the first steps of a post-Islamic Republic Iran move the country in the right direction.
+
+We offer this booklet as a sign of confidence in Iran's future. The road ahead will not be easy. But Iran is not beginning from nothing. 

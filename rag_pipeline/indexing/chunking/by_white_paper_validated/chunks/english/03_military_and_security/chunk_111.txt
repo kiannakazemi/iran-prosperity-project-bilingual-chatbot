@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00111
+chunk_index: 111
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /PHASED RECONSTRUCTION TIMELINE (24 MONTHS)/Overarching Goal/
+page_start: 47
+page_end: 47
+summary: This chunk contains a phased timeline overview and an action plan.
+--- text (539 chars) ---
+[Summary: This chunk contains a phased timeline overview and an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+# PHASED RECONSTRUCTION TIMELINE (24 MONTHS)
+
+# **Overarching Goal**
+
+To guide the country from the collapse of the Islamic Republic toward the establishment of national, democratic, accountable, and security-centered institutions.
+
+# **Phase 1: Immediate Post-Regime Collapse (0 to 3 Months)**
+
+# **Objective**
+
+Stabilize the crisis, prevent a power vacuum, maintain order, and begin dismantling the former regime's structures.

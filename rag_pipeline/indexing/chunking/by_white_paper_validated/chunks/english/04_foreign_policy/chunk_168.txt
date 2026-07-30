@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00168
+chunk_index: 168
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /FIRST 100 DAYS: ACTION PLAN SUMMARY/IRAN AND NEIGHBORING COUNTRIES/Month One: Regional Visits by Interim Officials or Special Envoys/Türkiye/
+page_start: 64
+page_end: 64
+summary: This chunk contains a diplomatic action plan.
+--- text (431 chars) ---
+[Summary: This chunk contains a diplomatic action plan.]
+
+[Topic: FOREIGN POLICY]
+
+# **Month One: Regional Visits by Interim Officials or Special Envoys**
+
+### ● **Türkiye**
+
+**Core Objective:** Joint cooperation to counter terrorist and separatist groups, enhance stability along the western border, and combat drug trafficking.
+
+**Initial Agreement Proposal:** Border security cooperation and joint intelligence coordination hub.

@@ -1,0 +1,28 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00245
+chunk_index: 245
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING THE BANKING SYSTEM AND THE CURRENCY/Objectives/
+page_start: 87
+page_end: 88
+summary: This chunk contains an objectives list and a priorities list.
+--- text (1158 chars) ---
+[Summary: This chunk contains an objectives list and a priorities list.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Objectives**
+
+- Assess banks' health and deploy emergency liquidity support.
+- Maintain banking operations and payment system continuity.
+- Restore confidence among the public and foreign counterparties in Iran's banking system, and safeguard financial integrity.
+
+# **Key Priorities**
+
+- Reestablish operational control over the Central Bank of Iran and national payment systems to ensure continuity of banking services and prevent financial disruption.
+- Restore monetary policy credibility by empowering an independent central bank to address inflation and transition to a floating exchange rate regime.
+- Safeguard financial system integrity through temporary capital controls and asset freezes targeting politically exposed persons and regime-linked entities.
+- Mobilize external financial resources by securing international recognition and access to frozen assets to stabilize the financial sector and rebuild confidence, including through reestablishing links to global financial systems such as SWIFT and compliance with FATF standards.

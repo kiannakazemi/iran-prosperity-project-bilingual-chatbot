@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00282
+chunk_index: 282
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /OBJECTIVES/
+page_start: 100
+page_end: 101
+split_part: 1/2
+summary: This chunk contains an objectives list.
+--- text (1364 chars) ---
+[Summary: This chunk contains an objectives list.]
+
+[Topic: NATIONAL ASSETS]
+
+# OBJECTIVES
+
+The objectives of this operational plan are clearly defined goals that are both strategic and measurable. The primary objectives are:
+
+● **Locate and Secure Public Wealth:** To systematically identify, locate, and secure all significant assets, both domestic and international, that are under the direct or indirect control of the Islamic Republic regime and its key institutions.
+
+acronym PBAD is based on the Farsi designation for the "Recovering Assets Project."
+
+- **Prevent Sabotage:** To neutralize the financial capacity of regime loyalists and prevent them from using these vast resources to undermine the transitional authority or instigate conflict.
+- **Identifying the Financial Structure of Foundations and Asset Control Paths:** Bonyads and Setad control hundreds of companies across almost every sector of the Iranian economy, including finance, construction, manufacturing, pharmaceuticals, and telecommunications. The most significant parastatal organizations include *EIKO*, *Bonyad Mostazafan*, and the *IRGC Cooperation Foundation*, each of which manages vast and diverse portfolios through complex holding structures. For example, we can name Bank Sina (Mostafaan Foundation), Tadbir Group (Setad), and Sadra Marine Industries Iran (Khatam Al-Anbiya). 

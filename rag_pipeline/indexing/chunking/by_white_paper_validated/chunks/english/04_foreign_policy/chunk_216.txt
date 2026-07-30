@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00216
+chunk_index: 216
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /PROPOSAL: SPECIAL ENVOY FOR THE IRANIAN DIASPORA/
+page_start: 76
+page_end: 76
+split_part: 1/2
+summary: This chunk contains a proposal.
+--- text (1527 chars) ---
+[Summary: This chunk contains a proposal.]
+
+[Topic: FOREIGN POLICY]
+
+# PROPOSAL: SPECIAL ENVOY FOR THE IRANIAN DIASPORA
+
+The Transitional Government recognizes the Iranian diaspora as one of the nation's greatest resources for reconstruction and reintegration into the international community. With millions of Iranians abroad contributing to science, business, culture, and civic life, the diaspora is uniquely positioned to support Iran's transition while remaining an integral part of the national community.
+
+To institutionalize this engagement, the Transitional Government will appoint a Special Envoy for the Iranian Diaspora, tasked with serving as a bridge between Iranians abroad and the Transitional Government. The envoy's mandate will include:
+
+- **Economic and Technical Mobilization:** Facilitate diaspora investment, entrepreneurship, and the transfer of technical skills to accelerate reconstruction and modernization.
+- **Community Engagement:** Maintain open dialogue with diaspora organizations, cultural institutions, and civic networks to ensure that the voices of Iranians abroad are represented in the transition process.
+- **Support for Diaspora Needs:** Address the practical concerns of Iranians abroad—including consular services, visas, documentation, and citizenship matters—by working with embassies and the Emergency Consular Task Force.
+- **Humanitarian and Social Support:** Leverage diaspora networks to expand access to humanitarian relief, medical assistance, and educational opportunities.

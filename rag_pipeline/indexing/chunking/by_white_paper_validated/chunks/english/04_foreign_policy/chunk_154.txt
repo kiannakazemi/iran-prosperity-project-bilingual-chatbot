@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00154
+chunk_index: 154
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /IRAN'S FOREIGN POLICY OUTLOOK AFTER TRANSITION/Fundamental Objectives/
+page_start: 60
+page_end: 61
+split_part: 2/2
+summary: This chunk contains an objectives list.
+--- text (1000 chars) ---
+[Summary: This chunk contains an objectives list.]
+
+[Topic: FOREIGN POLICY]
+
+program. Iran will demonstrate full transparency, peaceful intent, and adherence to international norms. By deepening cooperation with global partners and fostering inclusive regional dialogue, Iran seeks to transform past tensions into opportunities for trust-building and partnership, with the total removal of sanctions as a primary priority.
+
+- Ending Iran's international isolation and addressing the issue of economic sanctions, which have imposed a significant cost on the economy.
+- Replacing the Islamic Republic's ideological foreign policy with a pragmatic, national-interest-based and peace-oriented strategy.
+
+It is noted that the Transitional Government shall develop and implement its foreign policy under the leadership of the Leader of the National Uprising (Crown Prince Reza Pahlavi) and, when appropriate, in consultation with the Transitional Mehestan, in accordance with the Transitional Framework. 19

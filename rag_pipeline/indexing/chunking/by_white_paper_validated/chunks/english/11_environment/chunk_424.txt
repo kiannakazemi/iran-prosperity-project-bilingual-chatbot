@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00424
+chunk_index: 424
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENVIRONMENT
+header_path: /Phase 0—Before Day 1/
+page_start: 148
+page_end: 148
+split_part: 1/2
+summary: This chunk contains a phase description and an action plan.
+--- text (995 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: ENVIRONMENT]
+
+### **Phase 0—Before Day 1**
+
+- **Assemble a Transitional Environmental Emergency Task Force (TEETF)**: Establish the Transitional Environmental Emergency Task Force (TEETF) as an inclusive core of technocrats, environmental professionals, and experts, with representation from academia, agriculture, industry, and local communities to maintain readiness to assume control of environmental governance structures, draft immediate stabilization protocols, and identify priority ecological zones during the transitional period. The Transitional Water Governance Sector (TWGS) will be formed as a sub-entity of TEETF, responsible for overseeing and coordinating national water resource management. Its specific mandate and authorities are detailed in the Water chapter. TEETF should coordinate closely with the TWGS to prevent duplication and conflict of interest and ensure integrated recovery planning. 

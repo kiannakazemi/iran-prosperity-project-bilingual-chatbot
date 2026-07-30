@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00360
+chunk_index: 360
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /ANTICIPATED POLITICAL CHALLENGES/Populist backlash against international coordination or diaspora leadership/
+page_start: 123
+page_end: 123
+summary: This chunk contains a challenges analysis.
+--- text (764 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: ENERGY]
+
+# ● **Populist backlash against international coordination or diaspora leadership**
+
+Anti-reform factions may frame the return of diaspora experts or coordination with international agencies as foreign interference, aiming to delegitimize transitional leadership and inflame nationalist sentiment.
+
+**Mitigation:** Emphasize national ownership of reforms, with diaspora leadership framed as patriotic service. Appoint vetted local experts to key positions alongside diaspora professionals to ensure continuity and trust. Maintain transparency in selection processes, publicize stories of successful cooperation, and use targeted media campaigns to counter regime narratives and promote unity.

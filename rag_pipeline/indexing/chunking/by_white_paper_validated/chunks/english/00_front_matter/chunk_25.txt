@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00025
+chunk_index: 25
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/STRUCTURE OF THE EMERGENCY PHASE BOOKLET/
+page_start: 10
+page_end: 10
+split_part: 5/5
+summary: This chunk contains white paper summaries.
+--- text (1341 chars) ---
+[Summary: This chunk contains white paper summaries.]
+
+systemic collapse and lay the groundwork for long-term recovery under a future democratic government. The plan focuses on five critical areas: 1) Fiscal policy: establishing control over public finances and the Central Bank to ensure continued government payments and provision of essential public services; 2) Banking and currency: granting the Central Bank full and functional independence to conduct monetary policy to curb inflation; 3) Capital flows and oversight: implementing capital controls and seeking access to frozen international assets; 4) Financial markets: temporarily suspending the stock exchange to prevent panic-driven selloffs while auditing state-owned enterprises; and 5) Social safety nets: ensuring uninterrupted payment of pensions and subsidies to maintain public trust.
+
+The remaining white papers in this Booklet provide technical assessments and policy recommendations across key sectors, including asset control, energy, industry, cybersecurity, water, the environment, healthcare, and education. Taken together, these papers establish an operational framework aimed at restoring essential services, addressing immediate shortages, and positioning Iran on a stable, growth-oriented path forward.
+
+Saeed Ghasseminejad, Ph.D. Mohammad R. Jahan-Parvar, Ph.D.

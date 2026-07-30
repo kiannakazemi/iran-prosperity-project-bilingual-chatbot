@@ -1,0 +1,30 @@
+--- metadata ---
+chunk_id: fa__Emergency_Phase_PERSIAN_20260301_1440__00447
+chunk_index: 447
+source_file: Emergency_Phase_PERSIAN_20260301_1440.md
+source_pdf: Emergency_Phase_PERSIAN_20260301_1440.pdf
+language: fa
+white_paper: بهداشت و درمان
+header_path: /بهداشت و درمان: مدیریت زنجیره تامین دارو و خدمات درمانی/منابع/
+page_start: 186
+page_end: 187
+summary: این تکه شامل فهرست منابع است.
+--- text (1103 chars) ---
+[Summary: این تکه شامل فهرست منابع است.]
+
+[Topic: بهداشت و درمان]
+
+## **منابع**
+
+- WHO. Classification and Minimum Standards for Emergency Medical Teams (2021).
+- Brookings Institution. The War on Syria's Health System (2016).
+- Mansour et al. Traumatic Injuries and Outcomes during the Libyan Civil War (2025).
+- Madede et al. Stock‑outs of Essential Medicines among Community Health Workers. BMC Health Serv Res (2022).
+- Priebe et al. Long‑Term Psychological Distress of Bosnian War Survivors. BMC Psychiatry (2019).
+
+- Ho et al. Impact of Urgent Care Centres on ED Utilisation. BMC Health Serv Res (2021).
+- Al‑Omari & Al‑Zoubi. Role of Urgent Care Clinics in Alleviating ED Congestion. Cureus (2025).
+- Kwan & Cresswell. How Effective Are Electronic Medication Systems in Reducing Errors? J Am Med Inform Assoc (2021).
+- Think Global Health. Rwanda's Healthcare Success Holds Lessons for Others (2023).
+- Blue Ocean Strategy Institute. E‑Estonia: From Post‑Soviet Nation to Digital Republic (2021).
+- The effectiveness of peer support in mental health: a systematic review and meta-analysis (2024).

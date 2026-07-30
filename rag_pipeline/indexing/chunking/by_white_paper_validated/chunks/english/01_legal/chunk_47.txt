@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00047
+chunk_index: 47
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /IV. PROPOSED LEGAL FRAMEWORK/
+page_start: 23
+page_end: 23
+split_part: 2/2
+summary: This chunk contains a proposed framework and repeal criteria.
+--- text (1167 chars) ---
+[Summary: This chunk contains a proposed framework and repeal criteria.]
+
+[Topic: LEGAL]
+
+inherited from the regime. Replacement laws and institutions shall be drawn from the Pahlavi Imperial era. If a law or institution from that era no longer meets modern needs, it will be updated or replaced with a new one—whichever is more effective.
+- **29.** This approach ensures that societal functions continue without interruption, thereby preventing sudden legal disruptions or judicial paralysis. It also lessens the workload of the Transitional Mehestan, allowing it to focus on immediate priorities. Furthermore, it enables the future elected Mehestan to debate and implement lasting legal reforms in a democratic manner.
+- **30.** A critical question arises about the formula for identifying the laws to be repealed in *Part III*. To that end, any laws and regulations that are in clear conflict with any one of the following three criteria shall be repealed in Part III of the Leader's decree.
+  - **30.1.** Iran's historical and national identity;
+  - **30.2.** The Universal Declaration of Human Rights (1948); and
+  - **30.3.** The Transitional System's progress.

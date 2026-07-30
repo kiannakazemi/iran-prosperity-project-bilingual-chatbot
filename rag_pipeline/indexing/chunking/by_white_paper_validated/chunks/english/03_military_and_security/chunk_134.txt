@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00134
+chunk_index: 134
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /KEY CHALLENGES AND SOLUTIONS IN MILITARY-SECURITY REFORM/
+page_start: 53
+page_end: 109
+split_part: 5/5
+summary: This chunk contains a challenges and solutions table.
+--- text (2665 chars) ---
+[Summary: This chunk contains a challenges and solutions table.]
+
+[Topic: MILITARY AND SECURITY]
+
+| Challenge                                                                                                 | Proposed Solution                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+conditions, and healthcare; national messaging focused on the future and inclusive national reconstruction.                                                                                                                                                                                                                                                                                   |
+| Infiltration of former regime intelligence networks into new structures                                   | Systematic removal of suspicious elements from security systems; dismantling of parallel intelligence structures; creation of the National Intelligence and Security Service.                                                                                                                                                                                                                                                                     |
+| Separatist and ethno-sectarian threats in border regions                                                  | The new army will operate under a doctrine focused on safeguarding territorial integrity while upholding inclusive justice and equal citizenship, and will deliver firm yet measured responses to any separatist activity.                                                                                                                                                                                                                        |

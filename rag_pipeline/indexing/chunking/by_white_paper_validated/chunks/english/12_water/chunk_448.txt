@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00448
+chunk_index: 448
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /Phase 2: Stabilization and Assessment (Days 11 to 40)/
+page_start: 157
+page_end: 157
+split_part: 2/2
+summary: This chunk contains an action plan.
+--- text (521 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: WATER]
+
+with experienced engineers, specialists, and technical advisors to strengthen operational capacity.
+- **Public Education:** A national effort will be launched to educate and mobilize society on water conservation and efficiency. By raising awareness of the country's severe water bankruptcy, the Transitional Government will promote responsible water use and support urgent measures to stabilize the water security outlook and prevent further deterioration.

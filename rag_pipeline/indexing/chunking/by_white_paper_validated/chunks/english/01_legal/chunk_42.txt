@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00042
+chunk_index: 42
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /III. EXAMPLES FROM OTHER JURISDICTIONS/A. SOVIET UNION, IRAQ, TUNISIA, AND EGYPT/
+page_start: 21
+page_end: 22
+split_part: 2/2
+summary: This chunk contains a comparative case analysis and a definition.
+--- text (1184 chars) ---
+[Summary: This chunk contains a comparative case analysis and a definition.]
+
+[Topic: LEGAL]
+
+ compared to the changes implemented in the Iranian legal system after the 1979 Islamic Revolution. Many elements of the Soviet legal infrastructure
+
+term "legal system" covers both "legal sources" and "legal institutions" (such as parliament and courts).
+
+were retained, with reforms largely operating within the preexisting framework rather than replacing it outright.
+
+- **20.** The absence of an ideological shift in the legal systems of these other countries distinguishes their experience from that of Iran. Consequently, their transitional periods offer limited practical guidance for addressing Iran's unique circumstances. Undoing the ideological changes imposed on the Iranian legal system in 1979 requires an approach that is equally fundamental and substantive. To draw inspiration, we must look to jurisdictions that have undergone comparable ideological changes in their legal systems.
+- **21.** The research conducted for this white paper suggests that Britain's legal experience during the Brexit transition is the most analogous and thus the most relevant example for Iran.

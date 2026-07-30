@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00455
+chunk_index: 455
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /CROSS-CUTTING MEASURES/
+page_start: 159
+page_end: 160
+summary: This chunk contains policy measures.
+--- text (1363 chars) ---
+[Summary: This chunk contains policy measures.]
+
+[Topic: WATER]
+
+# CROSS-CUTTING MEASURES
+
+- **Counter-Sabotage Operations:** In close collaboration with security and law enforcement agencies, deploy inspectors, police, security forces, and rapid response teams to detect and prevent acts of infrastructure sabotage.
+- **Crisis Preparedness:** Conduct regular scenario-based exercises addressing drought, flooding, wildfires, dam failures, dust storms, and water infrastructure cyberattacks.
+- **Economic Stabilization:** Pursue and secure international emergency funds, in coordination with financial transition authorities, to maintain critical services such as agencies responsible for drinking water; temporarily subsidize operations to avoid service disruption.
+- **Inter-Sectoral Coordination:** Ensure collaboration between the Transitional Water Governance Sector and the Transitional Environmental Agency for aligned policies. Water allocation, infrastructure planning, and ecosystem restoration must be coordinated to avoid unintended negative impacts.
+
+● **Water-Energy Operations**: Ensure close collaboration between the Water and Energy sectors during the 180-day transition to align water and power operations. This coordination will ensure electricity for water pumping, treatment, and supply, safeguarding service continuity and public stability.

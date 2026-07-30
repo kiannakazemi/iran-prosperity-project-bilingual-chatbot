@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00121
+chunk_index: 121
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /STRUCTURAL ASSESSMENT OF ARMED FORCES AND PARAMILITARY ORGANIZATIONS/
+page_start: 50
+page_end: 51
+split_part: 6/14
+summary: This chunk contains a structural assessment table.
+--- text (2061 chars) ---
+[Summary: This chunk contains a structural assessment table.]
+
+[Topic: MILITARY AND SECURITY]
+
+| CURRENT INSTITUTION                             | MAIN FUNCTION                                                                                                              | CATEGORY                                                                                                                                                                                              |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+                                              | Dissolution and integration into the national army.                                                                                                                                                   |
+| IRGC Navy                                       | Asymmetric naval warfare                                                                                                   | Dissolution and integration into the national army.                                                                                                                                                   |
+| Artesh Ground Force                             | Conventional ground warfare                                                                                                | Retaining the structure and ensuring operational continuity after vetting.                                                                                                                            |
+| Quds Force                                      | Foreign operations and proxy warfare                                                                                       | Dissolution of the organization. 

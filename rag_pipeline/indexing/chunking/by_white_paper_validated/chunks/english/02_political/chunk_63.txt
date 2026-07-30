@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00063
+chunk_index: 63
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/B. TRANSITIONAL GOVERNMENT/
+page_start: 30
+page_end: 30
+split_part: 3/11
+summary: This chunk contains a responsibilities list.
+--- text (851 chars) ---
+[Summary: This chunk contains a responsibilities list.]
+
+[Topic: POLITICAL]
+
+officially communicate these changes to all member states, the UN system, and affiliated institutions. Furthermore, and separately, announcing these changes through Iranian embassies and diplomatic missions to all countries and international organizations, and requesting that their correspondence, documents, and systems be updated accordingly;
+    - **15.4.4.** Managing and safeguarding Iran's assets held abroad;
+
+the national annual budget proposal, a budget line item shall be allocated to the Legal Aid Office, which operates under the Iranian Bar Association. This allocation is intended to expand legal assistance to underprivileged individuals and to mitigate the harm they may suffer resulting from the rapid pace of legal changes during the transitional period. 

@@ -1,0 +1,17 @@
+--- metadata ---
+chunk_id: fa__Emergency_Phase_PERSIAN_20260301_1440__00344
+chunk_index: 344
+source_file: Emergency_Phase_PERSIAN_20260301_1440.md
+source_pdf: Emergency_Phase_PERSIAN_20260301_1440.pdf
+language: fa
+white_paper: اقتصاد کلان
+header_path: /اقتصاد کلان: مدیریت ریسک‌های مالی و پولی/تثبیت بازارهای مالی/چالشهای سیاسی پیشبینیشده/
+page_start: 94
+page_end: 94
+summary: این تکه شامل عنوان بخش است.
+--- text (93 chars) ---
+[Summary: این تکه شامل عنوان بخش است.]
+
+[Topic: اقتصاد کلان]
+
+## **چالشهای سیاسی پیشبینیشده**

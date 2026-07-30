@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00466
+chunk_index: 466
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /ANTICIPATED POLITICAL CHALLENGES/
+page_start: 164
+page_end: 165
+summary: This chunk contains a challenges analysis.
+--- text (999 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: HEALTHCARE]
+
+# ANTICIPATED POLITICAL CHALLENGES
+
+Implementing the supply-side reforms outlined in the previous section will likely invite some resistance from special interest groups. However, the transition period also offers a unique opportunity to overcome such resistance and shift the status quo, considering that:
+
+● The current pharmaceutical oligopoly in Iran is largely under the control of Islamic Republic-connected figures. As those figures lose their political influence in a post-regime Iran, the removal of protectionist regulations should become easier.
+
+● IMC and similar interest groups will likely find it more difficult to organize and mount political pressure campaigns in the immediate aftermath of a regime change. They will also have a more difficult case to make to the government for the enforcement of their priorities when the Transitional Government has limited resources and more urgent tasks to deal with.

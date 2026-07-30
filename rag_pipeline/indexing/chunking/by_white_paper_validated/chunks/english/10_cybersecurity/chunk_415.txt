@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00415
+chunk_index: 415
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /ANTICIPATED POLITICAL CHALLENGES/Sabotage and cyber disruption during institutional handover/
+page_start: 144
+page_end: 144
+summary: This chunk contains a challenges analysis.
+--- text (429 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: CYBERSECURITY]
+
+### ● **Sabotage and cyber disruption during institutional handover**
+
+Actors with privileged access may attempt to wipe logs, disable monitoring, or trigger outages during transition windows.
+
+**Mitigation:** Executing rapid credential control, privileged access management, and continuous monitoring through a national CSIRT-led coordination model.

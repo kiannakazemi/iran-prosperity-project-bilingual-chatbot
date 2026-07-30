@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00301
+chunk_index: 301
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /PHYSICAL ASSETS/Oil, Gas, and Petrochemical Infrastructure/
+page_start: 106
+page_end: 106
+summary: This chunk contains asset category descriptions.
+--- text (621 chars) ---
+[Summary: This chunk contains asset category descriptions.]
+
+[Topic: NATIONAL ASSETS]
+
+# **Oil, Gas, and Petrochemical Infrastructure**
+
+- **Facilities:** All major oil fields, refineries (e.g., Abadan, Isfahan), petrochemical plants (e.g., Bandar Imam), and export terminals (e.g., Kharg Island) are under state control via the National Iranian Oil Company (NIOC).
+- **Pipelines and Storage:** The national pipeline network and all strategic storage facilities are critical state assets. The IRGC, through Khatam al-Anbiya, has significant influence and control over the construction and security of this infrastructure.

@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00091
+chunk_index: 91
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /CORE STRATEGIC PRIORITIES DURING TRANSITION/Immediate Reactivation of Law Enforcement, Border Security, and National Security Institutions/
+page_start: 43
+page_end: 43
+summary: This chunk contains a policy recommendation.
+--- text (1074 chars) ---
+[Summary: This chunk contains a policy recommendation.]
+
+[Topic: MILITARY AND SECURITY]
+
+### **Immediate Reactivation of Law Enforcement, Border Security, and National Security Institutions**
+
+- The Transitional Government shall issue a directive to reinstate operational responsibilities under new guidelines and direction across institutions such as law enforcement, border control and customs, intelligence and counterintelligence, and the defenders of Iran's land, air, maritime, and cyber borders.
+- Under new oversight, these institutions must resume their role in maintaining domestic order and safeguarding national borders without delay and interruption.
+- Timely payment of salaries, benefits, and welfare support for all military and law enforcement personnel must be a top priority to prevent disaffection, unrest, and security gaps.
+- The Transitional Government shall take measures to prevent the collapse of state institutions and to ensure their speedy restoration, while taking steps to root out corrupt regime loyalists from government and state positions.

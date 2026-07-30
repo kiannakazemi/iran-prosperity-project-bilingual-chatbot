@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00219
+chunk_index: 219
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /PROPOSAL: FORMATION OF A SPECIAL TASK FORCE FOR ECONOMIC DIPLOMACY AND FOREIGN INVESTMENT/Overall Objective/
+page_start: 77
+page_end: 77
+summary: This chunk contains a proposal and an objective statement.
+--- text (467 chars) ---
+[Summary: This chunk contains a proposal and an objective statement.]
+
+[Topic: FOREIGN POLICY]
+
+# PROPOSAL: FORMATION OF A SPECIAL TASK FORCE FOR ECONOMIC DIPLOMACY AND FOREIGN INVESTMENT
+
+# **Overall Objective**
+
+To create a cross-sectoral, professional mechanism within the Ministry of Foreign Affairs to steer, facilitate, and accelerate foreign investment through proactive economic diplomacy in full coordination with the Transitional Government's economic team.

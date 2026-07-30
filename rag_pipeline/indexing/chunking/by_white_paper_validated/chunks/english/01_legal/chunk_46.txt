@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00046
+chunk_index: 46
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /IV. PROPOSED LEGAL FRAMEWORK/
+page_start: 23
+page_end: 23
+split_part: 1/2
+summary: This chunk contains a proposed framework and action plan.
+--- text (1339 chars) ---
+[Summary: This chunk contains a proposed framework and action plan.]
+
+[Topic: LEGAL]
+
+# IV. PROPOSED LEGAL FRAMEWORK
+
+- **28.** Upon the fall of the Islamic Republic regime, the Leader of the National Uprising will issue an official decree consisting of three parts:
+  - *– Part I:* Abolishing the Constitution of the Islamic Republic. From a legal standpoint, this action formally dissolves the regime, establishes the Transitional System, and creates a clear break from the previous order—thereby paving the way for gaining international legitimacy and support.
+  - *– Part II:* Declaring that, despite the abolition of the regime's Constitution, existing laws, regulations, institutions, and organizations shall remain in force during the transitional period, except those expressly listed in *Part III*. The objective is to maintain legal stability throughout the transitional period.
+  - *– Part III:* Repealing a specific set of laws and regulations, and dissolving or restructuring certain institutions and organizations. At the same time, vesting the Transitional Mehestan with the authority to enact replacement and new laws, and granting the Transitional Government the authority to restructure the remaining institutions inherited from the regime. Replacement laws and institutions shall be drawn from the Pahlavi Imperial era. 

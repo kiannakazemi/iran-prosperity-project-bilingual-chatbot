@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00280
+chunk_index: 280
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /NATIONAL ASSETS: Recovering and Safeguarding/
+page_start: 100
+page_end: 100
+summary: This chunk contains a white paper title and an introductory overview.
+--- text (1194 chars) ---
+[Summary: This chunk contains a white paper title and an introductory overview.]
+
+[Topic: NATIONAL ASSETS]
+
+# NATIONAL ASSETS: Recovering and Safeguarding
+
+*February 2026*
+
+*This white paper outlines the strategic approach for Iran Asset Recovery during the transitional period, focusing on providing an actionable blueprint to enable a transitional authority or an international coalition to locate, secure, and repatriate Iran's stolen or endangered public wealth while preventing regime loyalists from using these assets to sabotage the transition.*
+
+*This paper focuses exclusively on organizations and assets under the direct control of the Supreme Leader, including Bonyads, Setad Ejraiye Farmane Emam (SEFE), Astan Quds Razavi, and the non-military corporate holdings of the IRGC.*
+
+*Assets controlled by conventional ministries and government agencies will be addressed separately in the Military and Security chapters.*
+
+*It provides a comprehensive, detailed operational plan to secure, freeze, and recover all significant assets controlled by the Islamic Republic regime, with specific details for each category of assets and the mechanisms of their control, ownership, or transfer.*

@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00019
+chunk_index: 19
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/CONTEXT: THE ISLAMIC REPUBLIC IS WEAK, VULNERABLE, AND HAS LOST LEGITIMACY/
+page_start: 8
+page_end: 9
+split_part: 5/5
+summary: This chunk contains a background and context narrative.
+--- text (599 chars) ---
+[Summary: This chunk contains a background and context narrative.]
+
+the protesters with unprecedented violence, reportedly killing tens of thousands in just a few days. The growing convergence of nationwide uprisings and localized labor strikes demonstrates that the regime is no longer confronting isolated dissent, but rather a 
+
+broad-based revolutionary movement. At this point, Crown Prince Reza Pahlavi has emerged as the widely recognized leader of the Iranian people's uprising.
+
+Taken together, these developments point to the real possibility of regime change through a popular revolution.

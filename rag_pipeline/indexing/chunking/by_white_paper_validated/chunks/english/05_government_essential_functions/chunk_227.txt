@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00227
+chunk_index: 227
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: GOVERNMENT ESSENTIAL FUNCTIONS
+header_path: /PURPOSE/Continuity Objectives/
+page_start: 80
+page_end: 80
+summary: This chunk contains a list of continuity objectives.
+--- text (527 chars) ---
+[Summary: This chunk contains a list of continuity objectives.]
+
+[Topic: GOVERNMENT ESSENTIAL FUNCTIONS]
+
+#### **Continuity Objectives**
+
+- Maintain availability of essential services nationwide, with priority protection of life-safety and critical loads.
+- Preserve public safety and basic order while minimizing rumor, hoarding, and coercion.
+- Sustain essential economic participation and protect critical productive capacity.
+- Retain essential personnel and safeguard institutional knowledge required to operate the state.

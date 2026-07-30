@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00297
+chunk_index: 297
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /FINANCIAL ASSETS/Offshore Accounts/
+page_start: 105
+page_end: 105
+summary: This chunk contains asset category descriptions.
+--- text (757 chars) ---
+[Summary: This chunk contains asset category descriptions.]
+
+[Topic: NATIONAL ASSETS]
+
+### **Offshore Accounts**
+
+- **Jurisdictions:** United Arab Emirates (Dubai), Canada, Türkiye, Switzerland, Luxembourg, Malaysia, China (Hong Kong), and various Caribbean nations.
+- **Front Companies:** Extensive use of front companies in trading, construction, and consulting sectors, registered in the above jurisdictions, to hold accounts and conduct international transactions. Notable examples include companies linked to the IRGC's Khatam al-Anbiya and subsidiaries of bonyads.
+- **Known Intermediaries:** A network of trusted businessmen, dual nationals, and family members of senior officials act as signatories and beneficial owners for these offshore accounts.

@@ -1,0 +1,31 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00151
+chunk_index: 151
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /OPERATIONAL IMPLEMENTATION COMPANION TO IRAN'S TRANSITIONAL MILITARY REFORM PLAN/Phase A/B5: Days 141 to 180 | Stress Testing, Trust Building, Final Transfers/Strategic Outcomes by Day 180/Public Institutions/
+page_start: 58
+page_end: 58
+summary: This chunk contains strategic outcome indicators.
+--- text (469 chars) ---
+[Summary: This chunk contains strategic outcome indicators.]
+
+[Topic: MILITARY AND SECURITY]
+
+### ● **Public Institutions**
+
+- Oversight bodies are functional.
+- Civilian-police engagement reestablished.
+
+#### ● **International Legitimacy**
+
+- Implementation of reforms in line with international standards.
+- Joint security cooperation with allies.
+
+#### ● **Stability Indicators**
+
+- No mass surveillance.
+- Transparent justice.
+- Upholding civil-military separation.

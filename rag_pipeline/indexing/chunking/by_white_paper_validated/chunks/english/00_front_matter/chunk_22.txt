@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00022
+chunk_index: 22
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/STRUCTURE OF THE EMERGENCY PHASE BOOKLET/
+page_start: 9
+page_end: 9
+split_part: 2/5
+summary: This chunk contains white paper summaries.
+--- text (1408 chars) ---
+[Summary: This chunk contains white paper summaries.]
+
+ meet the modern needs, it will be updated or replaced with a new one, whichever is more effective. Accordingly, the proposed legal framework does not call for a complete overhaul of existing institutions and laws during the Transitional Period, but rather for targeted, surgical changes. Responsibility for fully modernizing laws and institutions is left to a future parliament democratically elected by the Iranian people.
+
+The political framework for the Transitional Period comprises three institutions: a transitional legislature, a transitional government, and a transitional judiciary. The latter includes a transitional justice program featuring a specialized court and a truth commission to address human rights violations committed by the Islamic Republic. The political process culminates in: a national referendum to determine the future system of government; the election of the Constitutional Assembly to draft a new, modern Constitution; a subsequent referendum to approve the proposed Constitution; and finally, elections for the legislative body (parliament) and the formation of an elected government, following which the transitional bodies will be dissolved.
+
+The white paper on military and security outlines a comprehensive 24-month plan to overhaul Iran's military and security sectors following the fall of the Islamic Republic. 

@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00502
+chunk_index: 502
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: EDUCATIONAL SYSTEM
+header_path: /PHASE 1: THE EMERGENCY PHASE/ANTICIPATED CHALLENGES/
+page_start: 175
+page_end: 175
+split_part: 4/5
+summary: This chunk contains a challenges analysis.
+--- text (1535 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: EDUCATIONAL SYSTEM]
+
+particularly those trained under or affiliated with the former regime, may resist reform or fear dismissal. Immediate assessments should be conducted to determine who can adapt, who requires retraining, and who must be removed. Clear assurances should be provided to educators who merely complied with mandatory curricula, while those who actively promoted extreme ideology must be held accountable. Retraining, job security guarantees, and early retirement options should be integral to a humane and pragmatic transition.
+
+Students will also require psychological and academic support. Some secondary-school students, deeply immersed in ideological narratives, may find the transition to secular education disorienting. Younger children may experience anxiety amid broader conflicts among adults. Schools should therefore provide structured spaces for discussion, counseling services, and a gradual curricular transition. These could happen through maintaining core subjects and essential instructional content while incrementally introducing new material in history, literature, and ethics.
+
+To coordinate these reforms, an interim National Education Task Force should be established immediately. The Task Force should be composed of experts, educators, and civil society figures. This body should oversee personnel reforms, initiate rapid teacher training, and ensure that no school is forced to close due to staffing shortages or curricular gaps. 

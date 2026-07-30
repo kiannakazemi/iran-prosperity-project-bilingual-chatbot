@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00497
+chunk_index: 497
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: EDUCATIONAL SYSTEM
+header_path: /PHASE 1: THE EMERGENCY PHASE/IMMEDIATE PRIORITIES/
+page_start: 173
+page_end: 173
+summary: This chunk contains a priorities list.
+--- text (1389 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: EDUCATIONAL SYSTEM]
+
+# IMMEDIATE PRIORITIES
+
+- Maintaining administrative and operational continuity to prevent chaos, ensure that schools remain open, and guarantee the uninterrupted continuation of teaching, including the timely payment of teachers' salaries.
+- Providing essential support services, including free transportation in rural areas and the distribution of school meals in disadvantaged provinces, to promote equitable access, keep students from vulnerable communities in school, and reduce dropout rates.
+- Ending gender segregation policies, initially in primary schools, making the wearing of the hijab optional for students and teachers at all educational levels, and abolishing rigid Islamic dress codes.
+- In-service training for teachers and staff to help them navigate the new conditions and prepare them to teach in integrated, mixed-gender classrooms.
+- Depoliticizing and de-ideologizing the teaching profession, introducing new recruitment standards based on professional qualifications rather than political or ideological affiliation.
+- Removing Islamic Republic-related visual symbols, withdrawing selected textbooks and ideologically driven content, and eliminating specific indoctrination-focused extracurricular activities, under the guidance of task forces established explicitly for this purpose.

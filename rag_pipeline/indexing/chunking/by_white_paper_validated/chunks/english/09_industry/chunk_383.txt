@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00383
+chunk_index: 383
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /ANTICIPATED POLITICAL CHALLENGES/Challenge 2: Public backlash over privatization or diaspora involvement/
+page_start: 132
+page_end: 132
+summary: This chunk contains a challenges analysis.
+--- text (446 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: INDUSTRY]
+
+### **Challenge 2: Public backlash over privatization or diaspora involvement**
+
+- **Risk:** Populist actors may frame privatization as foreign theft or diaspora co-leadership as elitist favoritism.
+- **Mitigation:** Public communication campaigns emphasizing national ownership, jobs, and public benefit; pair diaspora with domestic counterparts; prioritize transparency.

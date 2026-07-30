@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00416
+chunk_index: 416
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /ANTICIPATED POLITICAL CHALLENGES/Resistance to executive-level liability and board-level cyber accountability/
+page_start: 144
+page_end: 144
+summary: This chunk contains a challenges analysis.
+--- text (430 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: CYBERSECURITY]
+
+### ● **Resistance to executive-level liability and board-level cyber accountability**
+
+Senior leaders may oppose governance models that make management bodies explicitly responsible for cyber risk measures.
+
+**Mitigation:** Codifying leadership accountability and oversight duties as part of national cyber governance, tied to audits and enforcement.

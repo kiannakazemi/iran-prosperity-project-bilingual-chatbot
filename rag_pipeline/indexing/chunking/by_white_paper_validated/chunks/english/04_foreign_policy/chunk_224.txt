@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00224
+chunk_index: 224
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /PROPOSAL: FORMATION OF A SPECIAL TASK FORCE FOR ECONOMIC DIPLOMACY AND FOREIGN INVESTMENT/Coordinating Body/
+page_start: 78
+page_end: 78
+summary: This chunk contains an organizational structure description.
+--- text (385 chars) ---
+[Summary: This chunk contains an organizational structure description.]
+
+[Topic: FOREIGN POLICY]
+
+# **Coordinating Body**
+
+- Office of Economic Diplomacy.
+- Under the Special Economic Deputy of the Ministry of Foreign Affairs.
+- In coordination with the Ministries of Economy, Oil, Industry, Central Bank, Chamber of Commerce, and the Office of the Head of the Transitional Government.

@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00363
+chunk_index: 363
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /ANTICIPATED POLITICAL CHALLENGES/Delayed international financial support/
+page_start: 124
+page_end: 124
+summary: This chunk contains a challenges analysis.
+--- text (389 chars) ---
+[Summary: This chunk contains a challenges analysis.]
+
+[Topic: ENERGY]
+
+### ● **Delayed international financial support**
+
+Uncertainty over legal recognition or geopolitical risk may slow the release of frozen assets or emergency credit.
+
+**Mitigation:** Coordinate early with international partners. Secure pre-drafted credit instruments and public commitments during pre-entry (Phase 0).

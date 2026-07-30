@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00186
+chunk_index: 186
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /STRATEGIC EXTRA-REGIONAL RELATIONS DURING THE TRANSITION/Israel and the Cyrus Accord Framework/Three-Month Roadmap/Months 2 to 3/
+page_start: 68
+page_end: 68
+summary: This chunk contains an action plan timeline.
+--- text (409 chars) ---
+[Summary: This chunk contains an action plan timeline.]
+
+[Topic: FOREIGN POLICY]
+
+#### ● **Months 2 to 3**
+
+- Sign a preliminary memorandum of strategic cooperation.
+- Launch institutional and security training programs, including:
+  - Transfer of knowledge and best practices to Iran's law enforcement, intelligence, and border security forces.
+  - Expansion of cyber, intelligence, and judicial cooperation.

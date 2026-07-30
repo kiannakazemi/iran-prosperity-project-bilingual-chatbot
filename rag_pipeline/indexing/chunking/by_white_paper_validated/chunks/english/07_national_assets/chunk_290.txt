@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00290
+chunk_index: 290
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /ACTIONS/Foundational Action: Identification and Description of Assets/
+page_start: 103
+page_end: 103
+split_part: 3/8
+summary: This chunk contains a structural table.
+--- text (2876 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+| Asset Type                  | Primary Holders                                                                                                | Brokers / Intermediaries                                                                | Potential Abuses                                                                                                                                                                                    | Countermeasures (Stop / Detect / Reverse)                                                                                                                                                                                                       |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+                                                                                                  |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Foreign Currency Reserves   | Central Bank of Iran (CBI), Bank Melli, Bank Saderat, Bank Sepah, Bank Tejarat, Bank Mellat                    | Senior currency managers, politically connected families, high-level financial officers | – Large-scale transfers to offshore accounts during regime collapse. – Concealing reserves via private exchange networks and shell companies. – Emergency withdrawals through coordinated insiders. | **Stop:** Issue emergency freeze orders on all state banks. **Detect:** Real-time monitoring of high-value transactions and currency conversion patterns. **Reverse:** Work with FATF, Interpol, and foreign regulators to seize illicit funds. 

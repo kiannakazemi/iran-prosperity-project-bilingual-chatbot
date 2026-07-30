@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00477
+chunk_index: 477
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 1 (Days 1‑30) — Medication Flow, Hospital Operations and Infection Control/Overview/
+page_start: 167
+page_end: 167
+summary: This chunk contains an overview and a rationale statement.
+--- text (602 chars) ---
+[Summary: This chunk contains an overview and a rationale statement.]
+
+[Topic: HEALTHCARE]
+
+### **Overview**
+
+The first 30 days focus on reopening hospitals, restarting medicine flows, and deploying infection‑prevention teams to communities; logistics outranks long‑term reform during this "golden month."
+
+### **Importance**
+
+Cross‑country reviews show medicine stock‑outs in the first two weeks of an emergency correlate with sharp spikes in avoidable mortality and antimicrobial resistance [4]. Rapid restoration of surgical capacity also deters clinician flight, as observed in post‑2011 Syria [2].

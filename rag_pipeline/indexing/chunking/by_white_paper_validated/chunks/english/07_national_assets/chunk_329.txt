@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00329
+chunk_index: 329
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /RECOMMENDATIONS/Establish a centralized digital asset registry/
+page_start: 113
+page_end: 113
+summary: This chunk contains a recommendation list.
+--- text (532 chars) ---
+[Summary: This chunk contains a recommendation list.]
+
+[Topic: NATIONAL ASSETS]
+
+#### **● Establish a centralized digital asset registry**
+
+The Asset Recovery Task Force is to be mandated to develop and maintain a publicly accessible Centralized Digital Registry. This platform will provide real-time tracking of:
+
+- Significant physical properties and their estimated value.
+- The total value of recovered domestic and international funds.
+- The status of major state-owned and parastatal enterprises under the authority's control.

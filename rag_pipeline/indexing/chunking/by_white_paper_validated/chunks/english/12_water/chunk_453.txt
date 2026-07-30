@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00453
+chunk_index: 453
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /Phase 4: Strategic Planning and Institutional Transition (Days 101 to 180)/
+page_start: 158
+page_end: 159
+split_part: 3/4
+summary: This chunk contains an action plan.
+--- text (1547 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: WATER]
+
+related areas to address national needs and the critical challenges of water resources and food security.
+
+- **● Agricultural Trade Transparency:** Cancel all import and export trade privileges for agri-food items held by individuals or entities affiliated with the Islamic Republic, and ensure that all agri-food trade activities are conducted transparently and disclosed to the public.
+- **International Partnership Framework:** Develop a roadmap for long-term engagement with international partners and neighboring countries on transboundary water management, climate resilience, and infrastructure financing.
+- **Regional Water Cooperation Scoping:** Initiate technical consultations and diplomatic groundwork for future cooperation with neighboring countries, laying the foundation for structured negotiations on shared water management.
+- **National Data Platform Design:** Initiate design and piloting of a centralized, open-source water data system to support future evidence-based decision-making.
+- **Procurement Audit:** Launch an initial review of procurement practices in the water sector to identify corruption risks, institutional weaknesses, and areas requiring future transparency safeguards.
+- **Review of Domestic Water Tariffs and Subsidies:** Commission a technical analysis of current tariff systems and subsidy policies to highlight inefficiencies, fiscal risks, and equity concerns, informing the design of long-term affordability and sustainability reforms.

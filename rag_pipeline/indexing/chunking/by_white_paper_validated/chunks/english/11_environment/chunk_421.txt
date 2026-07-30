@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00421
+chunk_index: 421
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENVIRONMENT
+header_path: /KEY PRIORITIES/
+page_start: 147
+page_end: 147
+split_part: 1/2
+summary: This chunk contains a priorities list.
+--- text (1508 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: ENVIRONMENT]
+
+# KEY PRIORITIES
+
+- Establishing emergency environmental governance and assessment capacity: Form the Transitional Environmental Emergency Task Force (TEETF) to assume operational oversight, coordinate response efforts, and facilitate rapid national assessments that re-evaluate and prioritize critical needs, including ecological damage, pollution hotspots, and associated public health risks.
+- Stabilizing critical ecosystems and preventing irreversible ecological loss in high-risk areas: Direct emergency resources toward protecting the country's most endangered ecosystems, aiming to maintain ecological resilience and avoid long-term national and regional consequences.
+- Restoring institutional functionality and preserving environmental capacity: Maintain the core operations of the Department of Environment and regional offices by retaining and educating vetted technical staff and protecting monitoring infrastructure.
+- Protecting public health through urgent pollution control response**:** Prioritize immediate interventions to address critical air and water pollution issues, conflict-related contamination, and hazardous waste in affected communities, with a focus on safeguarding vulnerable populations.
+- Rebuild public trust and reestablish international cooperation: Initiate a national communication and education campaign to promote transparency and civic engagement in environmental protection and restoration. 

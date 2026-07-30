@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00211
+chunk_index: 211
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /EMERGENCY FOREIGN MINISTRY RECONSTRUCTION PLAN DURING TRANSITION/First 14-Day Action Plan/
+page_start: 74
+page_end: 74
+split_part: 2/4
+summary: This chunk contains an action plan table.
+--- text (1453 chars) ---
+[Summary: This chunk contains an action plan table.]
+
+[Topic: FOREIGN POLICY]
+
+interim special envoys to:
+  - Deliver the message of regime change.
+  - Open new diplomatic channels.
+
+| Country / Institution               | Government Action                                                  | Mission of Interim Representative                                                                                                                       |
+| ----------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| United States (UN & Washington DC)  | Dismiss the current ambassador, send an interim envoy.             | Announce regime change, begin diplomatic engagement.                                                                                                    |
+| United Kingdom                      | Dismiss the ambassador, appoint an interim envoy.                  | Maintain ties with the Foreign Office; review financial/legal files; coordinate on sanctions relief.                                                    |
+| France                              | Dismiss the ambassador, appoint an interim envoy.                  | Rebuild ties with the Elysée, EU's support for sanction relief, and explore cooperative investment projects. 

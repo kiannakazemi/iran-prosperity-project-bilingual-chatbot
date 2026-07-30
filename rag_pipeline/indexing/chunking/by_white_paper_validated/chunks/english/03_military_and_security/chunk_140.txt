@@ -1,0 +1,33 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00140
+chunk_index: 140
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /OPERATIONAL IMPLEMENTATION COMPANION TO IRAN'S TRANSITIONAL MILITARY REFORM PLAN/Phase A/B1: Days 1 to 10 | Seizure and Stabilization/Strategic Focus/
+page_start: 55
+page_end: 55
+split_part: 1/2
+summary: This chunk contains a phase description and an action plan.
+--- text (1484 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+# **Phase A/B1: Days 1 to 10 | Seizure and Stabilization**
+
+### **Strategic Focus**
+
+- Decapitate regime control.
+- Secure national command zones.
+- Establish a visible, lawful transitional authority.
+
+## **Key Actions**
+
+- **Artesh Deployment:** The targeted and responsible deployment of National Army in sensitive locations across the country, particularly in major metropolitan areas and key cities as determined by the Transitional Government, shall be carried out for the purposes of establishing and maintaining public security, supporting the continuity of vital services, and preventing the emergence of security vacuums, without creating a repressive militarized environment or disrupting the daily lives of citizens.
+- **Cyber Neutralization Cell (CNC):** Shut down regime comms and databases within 48 to 72 hours.
+- **Emergency Broadcast Authority (EBA):** Launch national unity messages, counter disinformation.
+- **Rapid Containment Force (RCF):** Eliminate active IRGC/Basij resistance cells.
+- **Critical Infrastructure Security:** Deploy vetted Artesh personnel to secure energy, water, oil, gas, and power plant facilities from sabotage attempts.
+- **Curfews and Martial Law:** The implementation of martial law in critical and high-risk urban areas, strictly within the framework of the law and under the oversight of the Transitional Divan (judicial branch). 

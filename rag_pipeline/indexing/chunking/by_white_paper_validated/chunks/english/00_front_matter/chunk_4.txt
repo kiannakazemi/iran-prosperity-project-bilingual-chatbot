@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00004
+chunk_index: 4
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /A NOTE FROM NUFDI'S PRESIDENT/
+page_start: 4
+page_end: 4
+split_part: 1/3
+summary: This chunk contains a foreword.
+--- text (1408 chars) ---
+[Summary: This chunk contains a foreword.]
+
+# A NOTE FROM NUFDI'S PRESIDENT
+
+The National Union for Democracy in Iran (NUFDI) is a non-profit, non-partisan organization in Washington, DC. It works to elevate the voices of the Iranian-American community, which tirelessly strives to strengthen international support for the Iranian people's democratic aspirations and to help shape a serious policy framework for a peaceful transition and long-term stability. We seek to connect diaspora communities, policymakers, media, and civil society around a common goal: supporting the Iranian people, isolating the Islamic Republic regime's machinery of repression, and preparing for a future democratic Iran that can rejoin the international community as a responsible and prosperous nation.
+
+NUFDI's vision is an Iran that is free and democratic, where the Iranian people can determine their future through peaceful political participation, free elections, and the rule of law. We believe Iran's future must be built on equal citizenship, accountability, and national dignity, with protections for freedom of speech, freedom of religion, and the right of every Iranian to live without fear of repression. At its core, NUFDI envisions a post-Islamic Republic Iran with a secular governing system rooted in the will of the people, while preserving Iran's territorial integrity, cultural heritage, and national unity. 

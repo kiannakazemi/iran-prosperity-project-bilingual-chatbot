@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00079
+chunk_index: 79
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/C. TRANSITIONAL DIVAN/
+page_start: 36
+page_end: 37
+split_part: 8/8
+summary: This chunk contains court procedures and an institutional mandate description.
+--- text (1604 chars) ---
+[Summary: This chunk contains court procedures and an institutional mandate description.]
+
+[Topic: POLITICAL]
+
+published promptly.
+- **19.7.1.10** Iranian domestic law (substantive and procedural) shall be applied. In cases where Iranian domestic law is insufficient, judges of the Transitional Justice Court may, with the approval of the head of the Transitional Divan, apply rules and case law from international criminal law and reference the case law of other jurisdictions that have established similar courts.
+
+number and locations of the branches of the Office of the Special Prosecutor shall be set by the Attorney General (Prosecutor General) in consultation with the Minister of Justice.
+
+- **19.7.1.11** Judgments of the Transitional Justice Court shall become final and enforceable upon completion of the appeal process, which may be initiated by either the defendant or the Special Prosecutor. The scope of appeal shall be limited to reviewing the correct application of the law.
+- **19.7.2.** Truth Commission: As the second part of the Transitional Justice Program, a commission shall be established, called the *Truth Commission*, consisting of three committees: the *Investigation Committee*, the *Conditional Amnesty Committee*, and the *High Committee*. Members of all three committees shall be appointed by the Judicial Council (discussed above, paragraph 19.4) after consulting with the Special Prosecutor and the Minister of Justice. The head of the Truth Commission shall be appointed by the head of the Transitional Divan. Each committee shall have the following responsibilities.

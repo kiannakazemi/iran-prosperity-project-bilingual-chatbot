@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00366
+chunk_index: 366
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /KEY PRIORITIES/
+page_start: 126
+page_end: 127
+split_part: 2/3
+summary: This chunk contains a priorities list.
+--- text (1054 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: INDUSTRY]
+
+and assess industrial parks, refineries, plants, and major Small and Medium-sized Enterprises zones. Identify sabotage, looting risks, and restart potential.
+- **Launch Industrial Workforce Stabilization Plan:** Vet and rehire skilled workers, engineers, plant managers, and factory operators; prevent black market diversion.
+- **Restore electricity and water to Tier 1 and Tier 2 clusters:** Coordinate with TECU and municipalities to prioritize high-employment and food/pharma-linked industrial zones.
+
+- **Initiate legal reform and inventory cleanup:** Place IR-linked and quasi-state assets under temporary custodianship/receivership (not blanket nationalization), conduct audits, and prepare clean re-privatization channels via PIC.
+- **Create Emergency Import Facilitation Framework:** Work with international partners to ensure the import of critical inputs: active pharmaceutical ingredients, wheat, medical supplies, fertilizer, machine parts, and clean packaging materials. 

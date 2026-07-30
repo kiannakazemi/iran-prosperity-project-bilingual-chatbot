@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00323
+chunk_index: 323
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /SEQUENCED RECOVERY MEASURES/Phase 2: Mid-Term Measures (Days +3 to +30)/Launch Comprehensive Forensic Audits/
+page_start: 111
+page_end: 111
+summary: This chunk contains an action plan.
+--- text (675 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: NATIONAL ASSETS]
+
+# ● **Launch Comprehensive Forensic Audits**
+
+The Asset Recovery Task Force will deploy specialized forensic accounting teams to:
+
+- Analyse all secured digital records, interbank transfers, and international transactions, as well as other relevant records, to map the full extent of domestic and offshore holdings.
+- Trace ownership through complex layers of shell companies and front companies to identify the ultimate beneficial owners.
+- Create a detailed and verified inventory of all financial assets, which will form the legal basis for international recovery actions and domestic prosecutions.

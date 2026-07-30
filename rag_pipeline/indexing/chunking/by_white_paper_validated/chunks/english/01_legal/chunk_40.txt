@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00040
+chunk_index: 40
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /II. POSSIBLE LEGAL FRAMEWORKS/C. HYBRID OPTION/
+page_start: 21
+page_end: 21
+summary: This chunk contains a policy option analysis and evaluation criteria.
+--- text (1409 chars) ---
+[Summary: This chunk contains a policy option analysis and evaluation criteria.]
+
+[Topic: LEGAL]
+
+## **C. HYBRID OPTION**
+
+- **14.** This framework consists of two key parts: retaining existing laws during the transitional period, as the default rule, while repealing those laws and regulations that are clearly incompatible with any of the following three criteria:
+  - **14.1.** Iran's historical and national identity;
+  - **14.2.** The Universal Declaration of Human Rights (1948); or
+  - **14.3.** The progress of the Transitional System.
+- **15.** This white paper recommends the Hybrid Option because it satisfies all three criteria for an optimal framework:
+  - **15.1.** *Practical* The Hybrid Option lessens the workload of the Transitional System because it is implementable without overburdening the Transitional System's resources;
+  - **15.2.** *Stabilizing* By maintaining continuity in the Iranian people's daily affairs, the Hybrid Option helps ensure stability until new modern laws can be enacted; and
+  - **15.3.** *Promising* Repealing repressive laws associated with the Islamic Republic provides visible evidence of progress, boosting the nation's hope and confidence that the Transitional System is steering the country in the right direction.
+- **16.** The next consideration is whether the Hybrid Option is informed by examples from notable regime changes over the past five decades.

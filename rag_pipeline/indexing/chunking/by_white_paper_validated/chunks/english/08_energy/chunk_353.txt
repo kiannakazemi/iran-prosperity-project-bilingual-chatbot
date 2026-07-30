@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00353
+chunk_index: 353
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /Phase 6: Economic Opening and Regulatory Alignment (Days 161 to 180)/
+page_start: 121
+page_end: 121
+split_part: 2/2
+summary: This chunk contains an action plan.
+--- text (731 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: ENERGY]
+
+energy dialogue forum:** Position the summit as a platform for transparency and constructive engagement. Present technical audit findings, outline investment pathways, and gather stakeholder feedback without initiating premature capital discussions.
+- **Revise and publish national energy reform roadmap:** Release a 2-year action plan covering reforms, incentives, budget allocations, and market transition steps.
+- **Launch the MoE emergency innovation unit:** Create a rapid-response innovation team to support near-term recovery challenges—such as leak detection, grid repair analytics, and dispatch optimization—through applied technologies and diaspora talent.

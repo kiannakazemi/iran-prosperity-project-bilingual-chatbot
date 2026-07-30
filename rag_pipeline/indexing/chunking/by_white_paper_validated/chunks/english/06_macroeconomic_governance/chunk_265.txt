@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00265
+chunk_index: 265
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING FINANCIAL MARKETS/Monitoring and Evaluation/Review Process/
+page_start: 90
+page_end: 94
+summary: This chunk contains a review process description.
+--- text (801 chars) ---
+[Summary: This chunk contains a review process description.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+### **● Review Process**
+
+- Weekly transition authority meetings with published agendas and decisions.
+- Regular public disclosure and leadership appointments, mandates, and transitions.
+- Regular bulletins on market conditions, policy changes, and reopening timelines.
+- Monthly transparency reports on audit progress, capital control enforcement, and FX operations.
+- Third-party audits of valuation, financial disclosures, and regulatory compliance.
+- External advisory board to review market reopening conditions and benchmarks.
+- Standardized internal reporting from market institutions to the transitional authority.
+- Investor engagement sessions to gather input and communicate reform milestones.

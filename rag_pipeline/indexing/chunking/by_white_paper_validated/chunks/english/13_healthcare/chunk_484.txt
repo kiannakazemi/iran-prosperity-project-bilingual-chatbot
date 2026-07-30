@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00484
+chunk_index: 484
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 2 (Days 31‑90) — Mental Health Surge, Insurance Continuity and Workforce Allocation/Objectives and Key Priorities/
+page_start: 168
+page_end: 169
+summary: This chunk contains an objectives list and a priorities list.
+--- text (823 chars) ---
+[Summary: This chunk contains an objectives list and a priorities list.]
+
+[Topic: HEALTHCARE]
+
+# **Objectives and Key Priorities**
+
+- Place at least one lead MHPSS team in every province to coordinate service delivery along with the local professionals.
+- Operationalize the EHVS (Elderly Health Voucher Scheme) to subsidize essential care for six months.
+
+- Use the digital registry to ensure 90 % of the population lives within 30 minutes of EMS or urgent care.
+- Train and deploy peer support responders using a 100-day structured curriculum, modeled after the Supportive Academy framework.
+- Integrate AI-powered triage and suicide risk detection tools into MHPSS workflows to support faster, safer escalation decisions.
+- Embed emotional wellbeing protocols across frontline healthcare and humanitarian response teams.

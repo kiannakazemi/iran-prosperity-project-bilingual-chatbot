@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00442
+chunk_index: 442
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /WATER: Resource Management and Supply Infrastructure/OBJECTIVES/
+page_start: 155
+page_end: 155
+summary: This chunk contains an objectives list.
+--- text (836 chars) ---
+[Summary: This chunk contains an objectives list.]
+
+[Topic: WATER]
+
+## OBJECTIVES
+
+- Ensure uninterrupted access to safe drinking water and basic sanitation for all citizens during the emergency phase of the transition period.
+- Secure, protect, and rapidly stabilize critical water infrastructure across the country.
+- Establish transparent, accountable, and participatory interim governance (TWGS) for the water sector.
+- Lay the technical, legal, and financial foundations for long‑term sustainable and equitable water resources management, aligned with international best practices, human‑rights standards, and sustainable development goals (SDGs) defined by the United Nations.
+- Foster public trust and civic engagement through education, clear communication, data transparency, and inclusion of local expertise and civil society.

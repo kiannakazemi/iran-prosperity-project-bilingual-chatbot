@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: fa__Emergency_Phase_PERSIAN_20260301_1440__00456
+chunk_index: 456
+source_file: Emergency_Phase_PERSIAN_20260301_1440.md
+source_pdf: Emergency_Phase_PERSIAN_20260301_1440.pdf
+language: fa
+white_paper: نظام آموزشی
+header_path: /نظام آموزشی: تداوم آموزش و ایدئولوژیزدایی/مرحله :۱ مرحله اضطراری/چالشهای قابل پیشبینی و احتمالی/
+page_start: 192
+page_end: 193
+split_part: 5/5
+summary: این تکه شامل تحلیل چالش‌ها است.
+--- text (177 chars) ---
+[Summary: این تکه شامل تحلیل چالش‌ها است.]
+
+[Topic: نظام آموزشی]
+
+حوزه فرهنگی و سیاسی، از خطر تعطیلی و یا بی نظمی طوالنیمدت نجات خواهد داد.
+
+عمدا سفید گذاشته شده است. ً این صفحه

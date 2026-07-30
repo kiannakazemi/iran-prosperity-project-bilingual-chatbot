@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00074
+chunk_index: 74
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/C. TRANSITIONAL DIVAN/
+page_start: 34
+page_end: 35
+split_part: 3/8
+summary: This chunk contains a responsibilities list.
+--- text (1115 chars) ---
+[Summary: This chunk contains a responsibilities list.]
+
+[Topic: POLITICAL]
+
+and the Administrative Justice Court), and for overseeing their appointments and removal nationwide.
+    - **19.4.2.** The Judicial Council shall consist of five members, all of whom shall be appointed from respected and distinguished jurists. During their tenure, they shall not engage in judicial, prosecutorial, or academic activities, nor in the practice of law.
+
+- **19.5.** Establishing an organization within the Transitional Divan, called the *Budget Organization of Divan*: This organization aims to ensure the judiciary's financial independence from the executive branch. Its responsibilities include:
+  - **19.5.1.** Preparing the draft of the Transitional Divan's annual budget proposal.
+  - **19.5.2.** Submitting the draft budget proposal to the head of the Transitional Divan for review and approval.
+  - **19.5.3.** Submitting the approved budget proposal to the Transitional Government for inclusion in the national annual budget, which will ultimately be sent to the Transitional Mehestan for review and final approval. 

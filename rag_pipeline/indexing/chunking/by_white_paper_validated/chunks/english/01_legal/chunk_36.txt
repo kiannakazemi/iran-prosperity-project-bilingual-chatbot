@@ -1,0 +1,31 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00036
+chunk_index: 36
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /II. POSSIBLE LEGAL FRAMEWORKS/
+page_start: 19
+page_end: 20
+summary: This chunk contains a list of policy options.
+--- text (1275 chars) ---
+[Summary: This chunk contains a list of policy options.]
+
+[Topic: LEGAL]
+
+# II. POSSIBLE LEGAL FRAMEWORKS
+
+**5.** There are three possible legal frameworks for the transitional period:
+
+- **5.1.** The *Restorative Option*, which—
+  - repeals all laws enacted by legislative bodies of the Islamic Republic, on the premise that these laws are rooted in illegitimate power, corruption, incompetence, and discrimination; and
+  - immediately reinstates the body of laws in force during the reign of Mohammad Reza Shah Pahlavi.
+- **5.2.** The *Retaining Option*, which—
+  - retains the laws of the Islamic Republic; and
+  - leaves the task of modernizing these laws to a future elected Mehestan (parliament).
+- **5.3.** The *Hybrid Option*, which—
+  - retains the laws of the Islamic Republic, as the default rule, during the transitional period; but
+  - immediately repeals any laws and regulations that clearly conflict with one of the following three criteria: Iran's historical and national identity, the 1948 Universal Declaration of Human Rights, or the progress of the Transitional System.
+
+**6.** The Hybrid Option is the only framework that meets all three optimal criteria outlined earlier: being practical, stabilizing, and promising. The following Sections explain why.

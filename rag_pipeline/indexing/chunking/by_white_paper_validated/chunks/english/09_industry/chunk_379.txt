@@ -1,0 +1,31 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00379
+chunk_index: 379
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: INDUSTRY
+header_path: /MONITORING AND EVALUATION/Metrics for Success:/
+page_start: 131
+page_end: 131
+summary: This chunk contains monitoring metrics.
+--- text (929 chars) ---
+[Summary: This chunk contains monitoring metrics.]
+
+[Topic: INDUSTRY]
+
+#### **Metrics for Success:**
+
+- **● Industrial Output Recovery:**
+  - Percentage of production capacity restored by different sectors.
+  - Number of active industrial sites re-licensed and re-operational under provisional permits.
+- **● Workforce Continuity and Confidence:**
+  - Percentage of skilled workforce reactivated and retained in critical facilities.
+  - Number of retraining and co-leadership initiatives launched with diaspora professionals.
+- **● Export and Logistics Reactivation:**
+  - Export volume of key goods vs. baseline pre-collapse figures.
+  - The number of cross-border logistics corridors stabilized and was monitored.
+- **● Governance and Transparency:**
+  - Number of privatization audits completed.
+  - Volume of recovered industrial assets from IRGC-linked entities.
+  - Registry entries in the Clean Industry Investment Portal.

@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00319
+chunk_index: 319
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /SEQUENCED RECOVERY MEASURES/Phase 1: Immediate Measures (First 72 Hours)/Immediate Securing of Physical Locations/Execution/
+page_start: 110
+page_end: 110
+summary: This chunk contains an action plan.
+--- text (620 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: NATIONAL ASSETS]
+
+#### ○ **Execution**
+
+- Deploy pre-designated units of the regular military (Artesh) or coalition forces with clear rules of engagement.
+- Establish a multi-layered security perimeter. The inner layer secures all entrances and exits, while the outer layer manages public access and prevents crowds from forming.
+- Simultaneously, "inside teams" composed of vetted technocrats and security personnel will enter the facilities to secure server rooms, file archives, and executive offices. All personnel will be prevented from leaving until cleared.

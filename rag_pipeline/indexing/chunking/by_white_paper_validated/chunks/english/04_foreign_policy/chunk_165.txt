@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00165
+chunk_index: 165
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /FIRST 100 DAYS: ACTION PLAN SUMMARY/Timeline and Key Actions/Week 1/
+page_start: 63
+page_end: 63
+summary: This chunk contains an action plan timeline.
+--- text (547 chars) ---
+[Summary: This chunk contains an action plan timeline.]
+
+[Topic: FOREIGN POLICY]
+
+# FIRST 100 DAYS: ACTION PLAN SUMMARY
+
+### **Timeline and Key Actions**
+
+#### ● **Week 1**
+
+- Dispatch official letters to the world and regional powers announcing the end of the Islamic Republic and renewed cooperation.
+- Recognize Israel.
+- Request the start of immediate negotiations with the U.S., the European Union (EU), and the United Nations (UN) Security Council with the objective of removing sanctions.
+- Appoint transition envoys to global institutions.

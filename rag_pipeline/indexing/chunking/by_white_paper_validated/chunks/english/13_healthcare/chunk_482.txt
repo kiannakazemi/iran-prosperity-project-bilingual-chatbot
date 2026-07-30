@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00482
+chunk_index: 482
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: HEALTHCARE
+header_path: /HEALTHCARE SPECIFIC OPERATIONS/Phase 2 (Days 31‑90) — Mental Health Surge, Insurance Continuity and Workforce Allocation/Overview/
+page_start: 168
+page_end: 168
+summary: This chunk contains a phase description and an overview.
+--- text (1381 chars) ---
+[Summary: This chunk contains a phase description and an overview.]
+
+[Topic: HEALTHCARE]
+
+# **Phase 2 (Days 31‑90) — Mental Health Surge, Insurance Continuity and Workforce Allocation**
+
+#### **Overview**
+
+- With immediate mortality curves flattening, the system pivots to psychosocial care, financial protection, facilities audit, and equitable staffing. This phase deploys province-wide Mental Health and Psychosocial Support (MHPSS) teams, launches an Emergency Health-Voucher System (EHVS), and activates a GIS-enabled (Geographical Information System) human-resource registry. To ensure accessibility and sustainability, MHPSS services are further strengthened by integrating 24/7 peer support networks, AI-powered triage tools, and clinician-led supervision systems that dramatically expand the country's reach and capacity for mental, emotional, and social wellbeing. Implementing a 90-day rapid safety audits (non-structural first—oxygen lines, generators, water tanks) and map red-tag/amber-tag facilities; publish a capital plan for seismic retrofits.
+- Setting up a national chronic-disease database (diabetes, dialysis, cancer and other chronic conditions needing essential services) with a three-month build.
+- Starting a reliable simple to use Telemedicine for primary care + mental-health counseling.
+- Publishing a 90-day Health Workforce Fair Compensation Package.

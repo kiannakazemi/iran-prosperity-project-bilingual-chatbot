@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00137
+chunk_index: 137
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /OPERATIONAL IMPLEMENTATION COMPANION TO IRAN'S TRANSITIONAL MILITARY REFORM PLAN/Phase 0: Pre-Fall Operations and Strategic Preparation/Secure Command Continuity Protocol (SCCP)/
+page_start: 54
+page_end: 54
+summary: This chunk contains an action plan.
+--- text (486 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+### **Secure Command Continuity Protocol (SCCP)**
+
+- Multi-region emergency bunkers and satellite communications systems.
+- Hidden data vaults with succession orders.
+- Redundant communication chains via diaspora and allied nodes.
+
+### **Credentialing and Mapping Cell (CMC)**
+
+- Geospatial and AI fusion to map IRGC/MOIS assets, tunnels, airbases, and proxies.
+- Predictive modeling of power vacuum zones.

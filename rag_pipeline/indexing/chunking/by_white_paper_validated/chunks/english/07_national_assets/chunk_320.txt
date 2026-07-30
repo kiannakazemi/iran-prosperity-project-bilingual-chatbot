@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00320
+chunk_index: 320
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /SEQUENCED RECOVERY MEASURES/Phase 1: Immediate Measures (First 72 Hours)/Digital Asset Backup and Forensic Preservation/
+page_start: 110
+page_end: 110
+summary: This chunk contains an action plan.
+--- text (402 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: NATIONAL ASSETS]
+
+# ● **Digital Asset Backup and Forensic Preservation**
+
+- IT teams will immediately begin creating forensic images of all critical servers and databases.
+- Network access to the outside world will be severed to prevent remote wiping of data.
+- All available digital records will be preserved as evidence for future legal action.

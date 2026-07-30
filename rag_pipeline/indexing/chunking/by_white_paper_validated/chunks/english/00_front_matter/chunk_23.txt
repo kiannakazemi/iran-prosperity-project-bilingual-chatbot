@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00023
+chunk_index: 23
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: Front Matter
+header_path: /INTRODUCTION/STRUCTURE OF THE EMERGENCY PHASE BOOKLET/
+page_start: 9
+page_end: 10
+split_part: 3/5
+summary: This chunk contains white paper summaries.
+--- text (1514 chars) ---
+[Summary: This chunk contains white paper summaries.]
+
+24-month plan to overhaul Iran's military and security sectors following the fall of the Islamic Republic. The plan's core objective is to ensure national stability and territorial 
+
+integrity while transitioning to a professional, non-ideological, and accountable defense structure. Key elements include: 1) Institutional consolidation: dissolving ideological and parallel structures such as the IRGC—including the Quds Force and Basij—and integrating their technical assets and vetted personnel into a unified National Army and a National Intelligence and Security Service (the "NISS"); 2) Pragmatic personnel vetting: avoiding the mistakes of past revolutions by retaining most rank-andfile personnel while referring those responsible for egregious crimes to a transparent judicial process; 3) Democratic oversight: enforcing a strict separation between the military and politics and establishing civilian oversight bodies to rebuild public trust and ensure accountability; and 4) Phased transition: implementing a three-stage timeline (0 to 24 months) moving from immediate crisis management and border security to longterm institutional modernization and international defense cooperation.
+
+The white paper on foreign policy outlines a pragmatic, non-ideological roadmap for the transitional government's foreign policy. The framework prioritizes national interest, security, and economic recovery through reintegration into the international community. 

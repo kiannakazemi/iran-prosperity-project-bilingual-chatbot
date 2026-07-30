@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00389
+chunk_index: 389
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /CORE OBJECTIVES/
+page_start: 135
+page_end: 136
+summary: This chunk contains an objectives list.
+--- text (1472 chars) ---
+[Summary: This chunk contains an objectives list.]
+
+[Topic: CYBERSECURITY]
+
+# CORE OBJECTIVES
+
+- **Protecting critical cyber-physical infrastructure** including industrial control systems in energy, water, transport, and manufacturing from disruptive cyber threats.
+- **Securing national telecommunications and digital connectivity systems** to ensure stable, reliable communication and prevent malicious interference, surveillance abuse, or systemic network disruption.
+- **Rapidly reducing exposure in legacy operational technology (OT), SCADA, and network control environments** that were not designed for hostile or highly connected digital conditions.
+- **Establishing national visibility and coordinated defensive control** over industrial networks, telecommunications backbone infrastructure, and key digital systems.
+- **Preventing cascading societal and economic impacts** resulting from cyber incidents affecting essential services or communications networks.
+
+- **Building integrated monitoring, detection, and incident response capability** across industrial and telecommunications domains.
+- **Restoring secure, accountable, and transparent governance of national cyber infrastructure**, replacing opaque or security-compromised control structures.
+- **Creating the institutional and technical foundation for long-term modernization**, including secure industrial architectures, resilient telecom networks, and internationally aligned cybersecurity standards.

@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00390
+chunk_index: 390
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /KEY PRIORITIES/
+page_start: 136
+page_end: 136
+split_part: 1/2
+summary: This chunk contains a priorities list.
+--- text (1438 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: CYBERSECURITY]
+
+# KEY PRIORITIES
+
+- **Protecting the most critical industrial and energy control systems first,** including national dispatch centers, major substations, refineries, water treatment facilities, and transport control hubs.
+- **Securing core telecommunications infrastructure,** including backbone networks, switching centers, data routing facilities, and international connectivity gateways.
+- **Eliminating uncontrolled remote access** and unauthorized external connectivity across operational technology and telecom environments.
+- **Deploying monitoring and detection capabilities** before attempting major system changes, ensuring visibility into threats and system behavior.
+- **Stabilizing digital communication services to prevent outages,** manipulation, or large-scale disruption that could undermine public trust and emergency coordination.
+- **Ensuring the safe and continuous delivery of essential services**, including electricity, water, fuel distribution, and communications, throughout the cybersecurity stabilization phase.
+- **Establishing centralized national coordination for cybersecurity response,** integrating industrial operators, telecom providers, and government technical teams.
+- **Preserving operational continuity while introducing defensive controls,** avoiding abrupt technical interventions that could destabilize legacy systems.

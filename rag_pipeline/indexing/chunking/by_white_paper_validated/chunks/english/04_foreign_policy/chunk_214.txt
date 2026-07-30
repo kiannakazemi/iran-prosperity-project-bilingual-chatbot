@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00214
+chunk_index: 214
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /EMERGENCY FOREIGN MINISTRY RECONSTRUCTION PLAN DURING TRANSITION/Handling Other Embassies and Diplomatic Personnel/
+page_start: 75
+page_end: 75
+summary: This chunk contains a policy recommendation.
+--- text (651 chars) ---
+[Summary: This chunk contains a policy recommendation.]
+
+[Topic: FOREIGN POLICY]
+
+### **Handling Other Embassies and Diplomatic Personnel**
+
+For all other ambassadors and mission staff:
+
+- Those without ties to the Islamic Republic's intelligence, security, or ideological apparatus may, with the head of the Transitional Government's approval, continue temporarily in their roles.
+- If a senior diplomat is suspected of ideological or security ties, their authority will be immediately transferred to a bureaucratic officer at the mission, pending further orders.
+- In all cases, mission performance will be monitored by the central office in Tehran.

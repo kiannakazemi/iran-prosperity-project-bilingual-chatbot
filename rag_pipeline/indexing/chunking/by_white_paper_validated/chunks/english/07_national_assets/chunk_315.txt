@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00315
+chunk_index: 315
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /PRELIMINARY ACTION: VULNERABILITY ASSESSMENT/Risk of Illicit Transfer/
+page_start: 109
+page_end: 109
+summary: This chunk contains a risk assessment.
+--- text (405 chars) ---
+[Summary: This chunk contains a risk assessment.]
+
+[Topic: NATIONAL ASSETS]
+
+#### ● **Risk of Illicit Transfer**
+
+○ The highest and most immediate risk. In a crisis, regime insiders will immediately attempt to transfer liquid assets (electronic funds, cryptocurrency) to pre-established offshore accounts. They will also attempt to smuggle out high-value physical assets like gold, cash, and bearer bonds.

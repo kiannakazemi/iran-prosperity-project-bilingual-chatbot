@@ -1,0 +1,24 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00342
+chunk_index: 342
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /Phase 1: Emergency Seizure and Lockdown (Days 1 to 10)/
+page_start: 118
+page_end: 118
+split_part: 1/2
+summary: This chunk contains a phase description and an action plan.
+--- text (1562 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: ENERGY]
+
+### **Phase 1: Emergency Seizure and Lockdown (Days 1 to 10)**
+
+- **Personnel suspension and detention:** Immediately suspend or detain senior personnel at MoP and MoE-Niroo under TECU supervision, with security escorts as needed. Access to payroll, bank accounts, and control systems will be frozen to prevent interference. Temporary freeze-in-place orders (48–72 hours) may be issued to maintain continuity at critical sites during vetting. Exception: staff already vetted through the defection platform or verified channels may remain in place. This measure is temporary and aims to secure operations while encouraging further defections and cooperation.
+- **Curtail Harasat units:** Seize and isolate all Harasat units embedded within energy institutions. Disarm personnel; confiscate surveillance hardware and encrypted archives. Issue blackout on any further internal intel reporting chains.
+- **Lock down SCADA and digital control systems:** Change all root access credentials. Isolate networks from external servers. Manual fallback protocols are initiated where automation is compromised.
+- **Activate a Day-1 digital security reset:** change all system passwords, cut off outside access, and put backup copies of critical data in safe storage to prevent hacking or sabotage.
+- **Activate civil-military coordination protocol:** TECU and security forces coordinate on securing physical energy infrastructure, enforcing curfews, and protecting returning personnel. 

@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00456
+chunk_index: 456
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /CROSS-CUTTING MEASURES/STRATEGIC COMMUNICATION/
+page_start: 160
+page_end: 160
+summary: This chunk contains a communication strategy.
+--- text (428 chars) ---
+[Summary: This chunk contains a communication strategy.]
+
+[Topic: WATER]
+
+### STRATEGIC COMMUNICATION
+
+- **Public Outreach:** Implement proactive public communication through regular media interviews, emphasizing transparency and accountability.
+- **Community Engagement:** Encourage public participation by establishing channels for reporting issues, promoting water conservation, and supporting localized distribution efforts.

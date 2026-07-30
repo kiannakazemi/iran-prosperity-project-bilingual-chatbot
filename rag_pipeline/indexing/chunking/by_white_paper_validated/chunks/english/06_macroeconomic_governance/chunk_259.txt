@@ -1,0 +1,29 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00259
+chunk_index: 259
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING FINANCIAL MARKETS/Objectives/
+page_start: 91
+page_end: 92
+summary: This chunk contains an objectives list and a priorities list.
+--- text (846 chars) ---
+[Summary: This chunk contains an objectives list and a priorities list.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Objectives**
+
+- Prevent systemic disruption in financial markets.
+- Ensure accountability and investor protection.
+- Stabilize the foreign exchange market.
+- Reopen and normalize financial markets.
+
+### **Key Priorities**
+
+- Prevent market disruption by temporarily closing vulnerable market segments (e.g., equity and corporate debt markets) to avoid panic-driven selloffs and insider asset stripping.
+- Conduct audits, reassess asset valuations, and strengthen governance, disclosure, and regulatory frameworks before market reopenings.
+
+● Reopen financial markets selectively, beginning with the Treasury market under transparent issuance procedures, followed by phased equity and debt market reopenings tied to reform benchmarks.

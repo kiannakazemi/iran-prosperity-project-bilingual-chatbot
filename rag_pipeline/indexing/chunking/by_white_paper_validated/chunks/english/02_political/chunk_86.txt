@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00086
+chunk_index: 86
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/C. TRANSITIONAL DIVAN/
+page_start: 39
+page_end: 40
+split_part: 3/3
+summary: This chunk contains program duration and scope provisions.
+--- text (1260 chars) ---
+[Summary: This chunk contains program duration and scope provisions.]
+
+[Topic: POLITICAL]
+
+duration shall be five years, with an optional one-year extension approved by the head of the Divan. There shall not be any other extension.
+  - **19.7.4.3** If after the dissolution of the Program, documents or evidence are discovered that (i) indicate the occurrence of crimes falling within the scope of the Transitional Justice Court or the Conditional Amnesty Committee, and (ii) implicate a specific individual or individuals, the file shall be transmitted to the Attorney General (Prosecutor General), who shall, at his/her discretion, refer it to the appropriate prosecutorial branch. The court to which the case is ultimately assigned shall be required to apply the judicial procedures and practices of the Transitional Justice Court.
+- **19.7.5.** Scope Limitation: The Transitional Justice Program (including the Transitional Justice Court and the Truth Commission) only addresses crimes committed before the fall of the Islamic Republic. Therefore, any crimes committed after the
+
+Regime involving national security, public order, or the Transitional System are considered separate crimes and shall be prosecuted through the regular criminal justice system.

@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00454
+chunk_index: 454
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: WATER
+header_path: /Phase 4: Strategic Planning and Institutional Transition (Days 101 to 180)/
+page_start: 159
+page_end: 159
+split_part: 4/4
+summary: This chunk contains an action plan.
+--- text (771 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: WATER]
+
+risks, and equity concerns, informing the design of long-term affordability and sustainability reforms.
+- **Investment Strategy Brief:** Develop a strategic investment brief that highlights critical infrastructure needs, financing options, and priority projects to engage the private sector, attract foreign and internal investments, secure international assistance, and mobilize diaspora support. Future investment planning should include but not limited to modern irrigation technologies, water and wastewater reuse, and the potential, targeted use of desalination for drinking water along the southern coastal areas, drawing on international best practices from countries such as Israel and South Africa.

@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00430
+chunk_index: 430
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENVIRONMENT
+header_path: /Phase 3—Institutional Coordination and Reform Planning (Days 41 to 100)/
+page_start: 149
+page_end: 150
+split_part: 1/2
+summary: This chunk contains a phase description and an action plan.
+--- text (1018 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: ENVIRONMENT]
+
+# **Phase 3—Institutional Coordination and Reform Planning (Days 41 to 100)**
+
+- **Strategic Projects Assessments:** In coordination with TWGS and relevant sectoral agencies, review all major infrastructure and development projects to identify those lacking valid Environmental Impact Assessments or requiring reassessment. Conduct necessary evaluations and recommend suspension, revision, or continuation based on ecological integrity and public health considerations.
+- **Legal and Institutional Reform:** Convene a temporary commission to develop draft recommendations to establish integrated environmental governance mechanisms and align future policies with principles of ecological justice, sustainable agricultural and industrial development, and
+
+efficiency and equity in resource allocation, while suggesting removal and revision of the regulations that are not in accordance with the current needs of the country. 

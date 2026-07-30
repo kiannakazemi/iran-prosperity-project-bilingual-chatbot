@@ -1,0 +1,29 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00218
+chunk_index: 218
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /EMERGENCY STRUCTURE OF THE MINISTRY OF FOREIGN AFFAIRS DURING THE TRANSITION/
+page_start: 76
+page_end: 77
+summary: This chunk contains a structural table.
+--- text (1526 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: FOREIGN POLICY]
+
+# EMERGENCY STRUCTURE OF THE MINISTRY OF FOREIGN AFFAIRS DURING THE TRANSITION
+
+**Core Principle:** The Ministry of Foreign Affairs must not collapse; it must be swiftly freed from ideological control and rebuilt on the basis of professionalism, national interest, and responsible global engagement. This transformation will begin through immediate stabilization, fair screening, and professional retraining.
+
+| Domain         | Proposed Action                          | Details                                                      |
+| -------------- | ---------------------------------------- | ------------------------------------------------------------ |
+| Leadership     | Appoint a temporary head of the Ministry | Must be experienced, non-ideological, and patriotic.         |
+| Administration | Establish a Diplomatic Vetting Committee | Review diplomats' records for past affiliations and conduct. |
+| Training       | Launch a Diplomatic Reorientation Center | Align diplomats with the new foreign policy framework.       |
+
+| Media & Transparency  | Form a Diplomatic Transparency Unit           | Publish reports on foreign contacts and communications.       |
+| --------------------- | --------------------------------------------- | ------------------------------------------------------------- |
+| Regional Coordination | Set up a Neighboring States Coordination Desk | Facilitate regional diplomacy on security and border affairs. |

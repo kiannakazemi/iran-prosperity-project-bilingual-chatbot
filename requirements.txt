@@ -1,0 +1,68 @@
+# ────────────────────────────────────────────────────────────────────
+#  IPP Assistant — Python dependencies
+#
+#  Setup (Windows PowerShell, from the project root):
+#     python -m venv .venv
+#     .\.venv\Scripts\Activate.ps1
+#     pip install -U pip wheel
+#     pip install -r requirements.txt
+#
+#  Setup (macOS / Linux):
+#     python3 -m venv .venv
+#     source .venv/bin/activate
+#     pip install -U pip wheel
+#     pip install -r requirements.txt
+#
+#  Then copy .env.example to .env and fill in your API keys.
+#
+#  Every package listed here is imported by at least one file in the
+#  project. Versions are pinned where a specific release is known-good and
+#  left open where any recent release works.
+# ────────────────────────────────────────────────────────────────────
+
+# ── Chat engine — chatbot/engine.py ─────────────────────────────────
+# Gemini and Qwen are both called over plain REST, so no vendor SDK is
+# needed for generation: only an HTTP client and .env loading.
+requests>=2.32
+python-dotenv>=1.0
+
+# ── Indexing + retrieval — indexing/{chunking,embedding,retrieval} ──
+# llama-index-core supplies MarkdownNodeParser (chunking), TextNode,
+# VectorStoreIndex, and the BaseEmbedding class that cohere_embed.py
+# subclasses. The qdrant package bridges it to the local vector store.
+llama-index-core==0.14.20
+llama-index-vector-stores-qdrant==0.10.0
+qdrant-client==1.17.1
+
+# Cohere supplies both the embedding model (embed-multilingual-v3.0) and
+# the reranker (rerank-v3.5).
+cohere>=5.5
+
+# ── API server — api/main.py ────────────────────────────────────────
+# sse-starlette powers the token-by-token streaming endpoint. It is NOT
+# installed as a FastAPI dependency, so it must be listed explicitly or
+# the API fails to import on a fresh environment.
+fastapi>=0.110
+uvicorn[standard]>=0.27
+sse-starlette>=2.0
+pydantic>=2.0
+
+# Conversation history uses the standard library's sqlite3 module
+# (api/database.py), so no database driver is required.
+
+# ── Evaluation harness — indexing/retrieval/eval/run_eval.py ────────
+pandas>=2.1
+openpyxl>=3.1
+
+# ── Document preprocessing — document_preprocessing/ ────────────────
+# OPTIONAL and heavy: marker-pdf pulls in PyTorch and transformer models
+# (several GB). It is only needed to regenerate Markdown from the source
+# PDF — a one-off step whose output is already committed under
+# document_preprocessing/iran_prosperity_project_md/.
+#
+# Comment out the line below to skip it; nothing else imports marker.
+#
+# For GPU Torch on Windows, install torch from the CUDA index BEFORE
+# installing this file, e.g. for CUDA 12.1:
+#     pip install torch --index-url https://download.pytorch.org/whl/cu121
+marker-pdf==1.10.2

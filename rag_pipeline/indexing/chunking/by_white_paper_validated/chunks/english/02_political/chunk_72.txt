@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00072
+chunk_index: 72
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: POLITICAL
+header_path: /II. AFTER THE FALL OF THE ISLAMIC REPUBLIC/C. TRANSITIONAL DIVAN/
+page_start: 34
+page_end: 34
+split_part: 1/8
+summary: This chunk contains an institutional mandate description and a responsibilities list.
+--- text (1576 chars) ---
+[Summary: This chunk contains an institutional mandate description and a responsibilities list.]
+
+[Topic: POLITICAL]
+
+# **C. TRANSITIONAL DIVAN**
+
+- **16.** The Transitional Divan shall serve as the judicial branch during the transitional period.
+- **17.** The head of the Transitional Divan shall be a respected and distinguished jurist, whose appointment and dismissal shall be in accordance with the procedure set out in paragraph 4 of this white paper.
+- **18.** In accordance with the correct use of Persian terminology, this white paper uses the title *Dadgah-e Aali Keshvar* (Supreme Court) instead of "Divan-e Aali Keshvar," and *Dadgah-e Edalat-e Edari* (Administrative Justice Court) instead of "Divan-e Edalat-e Edari."
+- **19.** The responsibilities of the head of the Transitional Divan include, but are not limited to:
+  - **19.1.** Appointment and removal of the following officials: Chief Justice of the Supreme Court, Chief Justice of the Administrative Justice Court, Head of the National Inspectorate, Head of the Prisons and Correctional Facilities Organization, Head of the National Forensic Medicine Organization, Head of the Deeds and Properties Registration Organization, and Head of the Budget Organization of Divan (discussed below, paragraph 19.5).
+    - **19.1.1.** The appointment and dismissal of the Attorney General (Prosecutor General) fall under the responsibilities of the Minister of Justice (see above, paragraph 6.8).
+  - **19.2.** Determining the total number of chambers for both the Supreme Court and the Administrative Justice Court.

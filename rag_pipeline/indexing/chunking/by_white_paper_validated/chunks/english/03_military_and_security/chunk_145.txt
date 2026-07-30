@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00145
+chunk_index: 145
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /OPERATIONAL IMPLEMENTATION COMPANION TO IRAN'S TRANSITIONAL MILITARY REFORM PLAN/Phase A/B3: Days 41 to 100 | Institutional Establishment and Civilian Control/Personnel Structuring and Selective Reintegration/
+page_start: 57
+page_end: 57
+summary: This chunk contains an action plan.
+--- text (1409 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+### **Personnel Structuring and Selective Reintegration**
+
+● Remaining personnel from institutions affiliated with the regime, including the Islamic Revolutionary Guard Corps (IRGC), will be eligible to continue service or be reintegrated into the new structures only upon successfully completing rigorous, individualized, and well-documented vetting processes. These procedures will include comprehensive security screenings, professional retraining, behavioral and psychological assessments, and formal verification of commitment to political neutrality and the rule of law. Individuals who played a direct or significant role in the repression of citizens, human rights violations, financial corruption, or other unlawful acts will be excluded from this process, and their cases will be referred to the appropriate transitional judicial authorities. Conversely, technical, specialized, and expert personnel with no record of involvement in repression may, based on the needs of the new structure, be incorporated into the National Army or newly established intelligence and security institutions. This selective reintegration aims to preserve valuable human capital, ensure the transfer of critical technical expertise, and guarantee full alignment with the mission, values, and legal framework of the transitional government.

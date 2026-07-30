@@ -1,0 +1,19 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00038
+chunk_index: 38
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /II. POSSIBLE LEGAL FRAMEWORKS/A. RESTORATIVE OPTION/
+page_start: 20
+page_end: 20
+split_part: 2/2
+summary: This chunk contains a policy option analysis.
+--- text (957 chars) ---
+[Summary: This chunk contains a policy option analysis.]
+
+[Topic: LEGAL]
+
+would undermine this goal by creating a legal vacuum that Imperial-era laws cannot adequately fill. The only way to fill such a vacuum would be for the Transitional System to enact a wide range of new laws—an undertaking that is impractical given the scope of its responsibilities (the practicality criterion).
+- **10.** It is crucial to emphasize that the above analysis does not imply that the current laws of the Islamic Republic should remain unchanged indefinitely. These laws—being retrograde, unscientific, and discriminatory—must indeed be replaced. The question is one of timing. The transitional period is not the appropriate time for such a sweeping and fundamental overhaul. Instead, once the elected Mehestan (parliament) is formed, the Imperial laws can serve as a starting point for debates on modernizing Iranian laws, in line with the nation's needs and aspirations.

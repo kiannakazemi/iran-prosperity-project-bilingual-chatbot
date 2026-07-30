@@ -1,0 +1,20 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00337
+chunk_index: 337
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /KEY PRIORITIES/
+page_start: 117
+page_end: 117
+split_part: 2/2
+summary: This chunk contains a priorities list.
+--- text (511 chars) ---
+[Summary: This chunk contains a priorities list.]
+
+[Topic: ENERGY]
+
+review body to evaluate and renegotiate regime-era energy contracts to align with international norms.
+- **Reframe nuclear oversight under civilian and international norms:** Suspend operations, secure materials, initiate inspections, and conduct contamination and storage safety audits.
+- **Build international investor and institutional trust:** Coordinate observer access, release reform roadmaps, and launch the Iran Energy Dialogue Forum.

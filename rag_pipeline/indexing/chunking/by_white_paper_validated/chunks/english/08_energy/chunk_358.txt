@@ -1,0 +1,21 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00358
+chunk_index: 358
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: ENERGY
+header_path: /MONITORING AND EVALUATION/Review Process/
+page_start: 123
+page_end: 123
+summary: This chunk contains a review process description.
+--- text (427 chars) ---
+[Summary: This chunk contains a review process description.]
+
+[Topic: ENERGY]
+
+### ● **Review Process**
+
+- Daily Situation Reports compiled by TECU regional command centers and aggregated at HQ.
+- Weekly National Energy Briefings shared with the Crown Prince's Transitional Authority and international liaisons.
+- Monthly Independent Oversight Summaries to be released publicly, covering restoration, safety, and staffing KPIs.

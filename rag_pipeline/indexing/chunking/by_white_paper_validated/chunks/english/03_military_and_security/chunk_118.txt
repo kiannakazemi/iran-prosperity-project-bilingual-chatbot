@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00118
+chunk_index: 118
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /STRUCTURAL ASSESSMENT OF ARMED FORCES AND PARAMILITARY ORGANIZATIONS/
+page_start: 50
+page_end: 52
+split_part: 3/14
+summary: This chunk contains a structural assessment table.
+--- text (2134 chars) ---
+[Summary: This chunk contains a structural assessment table.]
+
+[Topic: MILITARY AND SECURITY]
+
+| CURRENT INSTITUTION                             | MAIN FUNCTION                                                                                                              | CATEGORY                                                                                                                                                                                              |
+| ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+officials, screening, and absorption of mid-level personnel into the new intelligence organization.                                                                       |
+| IRGC Intelligence Organization                  | Parallel intelligence focused on dissent and cyber operations                                                              | Screening, removal of top officials, integration of staff into the new intelligence body, and dissolution of the old organization.                                                                    |
+| Basilj Intelligence                             | Neighborhood informant network                                                                                             | Dissolution of the organization.                                                                                                                                                                      |
+| FARAJA Intelligence                             | Main intelligence branch of law enforcement, monitoring domestic threats and dissidents                                    | Dismantling the repressive component and leadership, screening personnel, and restructuring the organization with the primary goal of preserving national security and public safety. 

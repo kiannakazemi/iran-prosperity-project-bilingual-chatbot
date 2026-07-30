@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00212
+chunk_index: 212
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /EMERGENCY FOREIGN MINISTRY RECONSTRUCTION PLAN DURING TRANSITION/First 14-Day Action Plan/
+page_start: 74
+page_end: 74
+split_part: 3/4
+summary: This chunk contains an action plan table.
+--- text (1940 chars) ---
+[Summary: This chunk contains an action plan table.]
+
+[Topic: FOREIGN POLICY]
+
+| Country / Institution               | Government Action                                                  | Mission of Interim Representative                                                                                                                       |
+| ----------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+ties with the Elysée, EU's support for sanction relief, and explore cooperative investment projects.                                            |
+| Germany                             | Dismiss the ambassador, appoint an interim envoy.                  | Resume engagement with the Chancellor's Office; advocating for the European Union to adopt an expansionary economic strategy and a liberal trade policy |
+|                                     |                                                                    | toward Iran; and promote expanded technological cooperation and investment.                                                                             |
+| China                               | Dismiss the current ambassador, send an interim envoy.             | Reset relations; expand trade dialogue; explore cooperative investment projects.                                                                        |
+| Russia                              | Dismiss the current ambassador, send an interim envoy.             | Reset relations; manage security dialogue; explore new areas of cooperation.                                                                            |
+| Belgium (EU Institutions)           | Dismiss the ambassador, send an envoy to the EU bodies.            | Redefine Iran-EU relations. 

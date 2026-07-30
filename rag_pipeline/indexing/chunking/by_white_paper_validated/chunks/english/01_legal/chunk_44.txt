@@ -1,0 +1,27 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00044
+chunk_index: 44
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: LEGAL
+header_path: /III. EXAMPLES FROM OTHER JURISDICTIONS/D. BRITAIN/
+page_start: 22
+page_end: 23
+split_part: 2/3
+summary: This chunk contains a comparative case analysis.
+--- text (1417 chars) ---
+[Summary: This chunk contains a comparative case analysis.]
+
+[Topic: LEGAL]
+
+effect in 2020, a transitional period of approximately one year was implemented to prevent legal chaos. During this period—
+  - **24.1.** EU laws that applied to Britain on Exit Day remained in force as part of British domestic law; but
+  - **24.2.** specific EU laws that symbolized Britain's membership in the EU (e.g., the European Communities Act 1972) were repealed immediately on day one.
+
+This approach enabled British lawmakers to avoid a legal vacuum while allowing a democratic process to determine which EU laws would be retained or repealed in the years ahead.
+
+- **25.** The British experience with Brexit and its transitional period is highly relevant and serves as a successful example that can inspire us. The Hybrid Option proposed earlier (see above, paragraph 14) draws from this approach.
+- **26.** Legally, Britain and France represent two prominent traditions: common law and civil law, respectively; and politically, they embody two different but equally democratic systems: a parliamentary monarchy and a semi-presidential republic. Unlike France, Britain did not abandon its monarchical tradition but rather gradually evolved into a parliamentary monarchy. This continuity has allowed British lawmakers, over centuries, to master the art of implementing significant legal
+
+- changes with minimal social disruption. 

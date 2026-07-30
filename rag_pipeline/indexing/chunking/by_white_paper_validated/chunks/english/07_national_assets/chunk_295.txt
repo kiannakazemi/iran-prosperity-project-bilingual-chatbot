@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00295
+chunk_index: 295
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /ACTIONS/Foundational Action: Identification and Description of Assets/
+page_start: 104
+page_end: 104
+split_part: 8/8
+summary: This chunk contains a structural table.
+--- text (2278 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+| Asset Type                  | Primary Holders                                                                                                | Brokers / Intermediaries                                                                | Potential Abuses                                                                                                                                                                                    | Countermeasures (Stop / Detect / Reverse)                                                                                                                                                                                                       |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+movements. **Reverse:** Reverse fraudulent corporate deals through emergency decrees and litigation.       |
+| Digital Records & Databases | Central Bank, Ministry of Finance, Real Estate Registration Organization, Civil Registry, corporate registries | System administrators, external software contractors, regime-linked IT specialists      | – Wiping or encrypting ownership data to hinder recovery. – Copying data to sell or ransom. – Altering records to falsify ownership trails.                                                         | **Stop:** Isolate and secure all critical servers immediately. **Detect:** Monitor for unusual login or script commands. **Reverse:** Use forensic backups to rebuild databases and prosecute offenders.                                        |
+
+*Table 0-1 - Overview of Key Assets, Risks, and Recovery Actions*

@@ -1,0 +1,26 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00399
+chunk_index: 399
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: CYBERSECURITY
+header_path: /Phase 1: Emergency Seizure and Visibility (Days 1 to 10)/Key actions include:/
+page_start: 139
+page_end: 139
+summary: This chunk contains an action plan.
+--- text (882 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: CYBERSECURITY]
+
+#### **Key actions include:**
+
+- Launching national OT and telecom asset discovery and risk classification efforts.
+- Restricting high-risk external connectivity and uncontrolled remote access beginning Day 1.
+- Enforcing emergency credential governance for privileged and engineering accounts.
+- Deploying passive monitoring sensors in the most critical and exposed environments.
+- Activating interim incident response procedures and sector-specific emergency playbooks.
+- Establishing baseline situational awareness without altering core industrial control logic.
+
+**Outcomes:** Immediate attack surface reduction is achieved through access control and isolation, while non-intrusive monitoring establishes real-time visibility into critical cyber-physical environments without disrupting essential services.

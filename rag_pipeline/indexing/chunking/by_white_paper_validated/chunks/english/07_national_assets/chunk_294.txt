@@ -1,0 +1,22 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00294
+chunk_index: 294
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: NATIONAL ASSETS
+header_path: /ACTIONS/Foundational Action: Identification and Description of Assets/
+page_start: 104
+page_end: 104
+split_part: 7/8
+summary: This chunk contains a structural table.
+--- text (2907 chars) ---
+[Summary: This chunk contains a structural table.]
+
+[Topic: NATIONAL ASSETS]
+
+| Asset Type                  | Primary Holders                                                                                                | Brokers / Intermediaries                                                                | Potential Abuses                                                                                                                                                                                    | Countermeasures (Stop / Detect / Reverse)                                                                                                                                                                                                       |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+irregularities. **Reverse:** Use court orders to nullify illegal transfers and reconstruct records from backups.                       |
+| Strategic Infrastructure    | NIOC (Oil & Gas), Telecommunication Company of Iran, state utilities, airports, seaports                       | IRGC units controlling security, managers, politically connected contractors            | – Sabotage of oil facilities, power grids, or telecom networks. – Misreporting resources or revenues to secret accounts. – Occupation of facilities by IRGC units and assets.                       | **Stop:** Deploy security forces to secure vital sites. **Detect:** Real-time operational monitoring of output vs capacity. **Reverse:** Restore hostile functionality and trace diverted revenues.                                             |
+| Corporate Holdings          | Tadbir Group (Setad), Mostazafan corporate subsidiaries, IRGC companies (Khatam al-Anbiya)                     | Law firms, accountants, loyal companies, loyal board executives                         | – Asset stripping by moving funds to foreign companies. – Sale of business to proxies at below-market value. – Destruction of shareholder records to hide ownership.                                | **Stop:** Suspend all mergers, sales, and share transfers. **Detect:** Deploy forensic auditors to trace sudden payments and capital movements. **Reverse:** Reverse fraudulent corporate deals through emergency decrees and litigation. 

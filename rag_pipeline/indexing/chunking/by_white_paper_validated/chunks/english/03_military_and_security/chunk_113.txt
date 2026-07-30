@@ -1,0 +1,31 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00113
+chunk_index: 113
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MILITARY AND SECURITY
+header_path: /PHASED RECONSTRUCTION TIMELINE (24 MONTHS)/Phase 2: Institutional Reconstruction (3 to 12 Months)/Objective/
+page_start: 48
+page_end: 48
+summary: This chunk contains a phase description and an action plan.
+--- text (1254 chars) ---
+[Summary: This chunk contains a phase description and an action plan.]
+
+[Topic: MILITARY AND SECURITY]
+
+# **Phase 2: Institutional Reconstruction (3 to 12 Months)**
+
+# **Objective**
+
+Design and implement national security, intelligence, and law enforcement institutions to replace the regime's repressive structures.
+
+### **Key Actions**
+
+- Establish a new **National Intelligence and Security Service (NISS)** with a transparent structure, operating under the authority of the Transitional Government.
+- Reform the national police and retrain officers with a focus on civil order, human rights, and democratic oversight.
+- Deploy Community Oversight Boards to monitor the conduct of police and security personnel.
+- Design a Modern Border Security Program in collaboration with the army and retrained forces, using advanced surveillance technologies.
+- Gradually integrate former members of the IRGC and intelligence organizations into new military and civilian institutions who pass rigorous vetting and are not a threat to the new political order.
+- Draft a Law Prohibiting Military Involvement in Politics.
+- Rebuild military academies focusing on non-ideological modern defense paradigms, professional training, cyber warfare, and international law.

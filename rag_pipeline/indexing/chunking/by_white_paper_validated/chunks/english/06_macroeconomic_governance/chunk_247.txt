@@ -1,0 +1,23 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00247
+chunk_index: 247
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: MACROECONOMIC GOVERNANCE
+header_path: /STABILIZING THE BANKING SYSTEM AND THE CURRENCY/Actions/Leadership and Institutional Control/
+page_start: 88
+page_end: 88
+summary: This chunk contains an action plan.
+--- text (532 chars) ---
+[Summary: This chunk contains an action plan.]
+
+[Topic: MACROECONOMIC GOVERNANCE]
+
+# **Actions**
+
+# **● Leadership and Institutional Control**
+
+- Appoint a new CBI Governor, an interim Minister of Finance and Economic Affairs, and caretaker administrators for public and private banks.
+- Secure physical and administrative control over the Central Bank of Iran and the national payment infrastructure.
+- Establish a financial stabilization task force to coordinate banking operations, liquidity management, and public communication.

@@ -1,0 +1,25 @@
+--- metadata ---
+chunk_id: en__Emergency_Phase_ENGLISH_20260301_1440__00174
+chunk_index: 174
+source_file: Emergency_Phase_ENGLISH_20260301_1440.md
+source_pdf: Emergency_Phase_ENGLISH_20260301_1440.pdf
+language: en
+white_paper: FOREIGN POLICY
+header_path: /FIRST 100 DAYS: ACTION PLAN SUMMARY/IRAN AND NEIGHBORING COUNTRIES/Month One: Regional Visits by Interim Officials or Special Envoys/Bahrain/
+page_start: 65
+page_end: 65
+summary: This chunk contains a diplomatic action plan.
+--- text (462 chars) ---
+[Summary: This chunk contains a diplomatic action plan.]
+
+[Topic: FOREIGN POLICY]
+
+### ● **Bahrain**
+
+**Core Objective:** Reassure on cessation of sectarian influence and respect for national sovereignty. **Initial Agreement Proposal:** Joint non-intervention declaration and confidence-building dialogue.
+
+### ● **Kuwait**
+
+**Core Objective:** Strengthen diplomatic ties and regional coordination.
+
+**Initial Agreement Proposal:** MOU on diplomatic cooperation.
