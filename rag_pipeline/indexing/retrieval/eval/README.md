@@ -4,7 +4,7 @@ Empirical selection of the production RAG configuration. 2 retrieval variants ×
 
 ## Dataset
 
-data/golden_dataset_with_chunks.xlsx` — 47 EN + 47 FA questions, hand-authored against the source Markdown.
+data/golden_dataset_with_chunks.xlsx — 47 EN + 47 FA questions, hand-authored against the source Markdown.
 
 Ground-truth columns: `Source Section`, `MD Source Page(s)`, `Expected Chunks`, `Question Type`.
 
