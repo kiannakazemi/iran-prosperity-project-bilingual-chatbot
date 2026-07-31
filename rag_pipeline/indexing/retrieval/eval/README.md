@@ -2,8 +2,6 @@
 
 Empirical selection of the production RAG configuration. 2 retrieval variants × 3 answer models × 47 questions × 2 languages = **564 graded answers**.
 
----
-
 ## Dataset
 
 `data/golden_dataset_with_chunks.xlsx` — 47 EN + 47 FA questions, hand-authored against the source Markdown.
