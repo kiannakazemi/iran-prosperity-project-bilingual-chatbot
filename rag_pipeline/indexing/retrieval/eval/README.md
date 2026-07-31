@@ -4,44 +4,6 @@ Empirical selection of the production RAG configuration. 2 retrieval variants ×
 
 ---
 
-## Contents
-
-- [Retrieval \& Answer-Quality Evaluation](#retrieval--answer-quality-evaluation)
-  - [Contents](#contents)
-  - [Objective](#objective)
-  - [Dataset](#dataset)
-    - [Behavioural sub-types](#behavioural-sub-types)
-  - [Variants under test](#variants-under-test)
-    - [Test 1 — dense only](#test-1--dense-only)
-    - [Test 2 — dense + rerank  *(production)*](#test-2--dense--rerank--production)
-  - [Models under test](#models-under-test)
-  - [Grading rubric](#grading-rubric)
-  - [Grading procedure](#grading-procedure)
-  - [Results](#results)
-    - [English](#english)
-    - [Persian](#persian)
-    - [Median end-to-end latency (s, incl. retrieval)](#median-end-to-end-latency-s-incl-retrieval)
-    - [Observations](#observations)
-  - [Selected configuration](#selected-configuration)
-  - [Defects surfaced](#defects-surfaced)
-  - [Limitations](#limitations)
-  - [Running](#running)
-  - [Artefacts](#artefacts)
-
----
-
-## Objective
-
-Determine, by measurement rather than assertion:
-
-1. Whether Cohere reranking justifies its marginal cost (+1 API call, ≈0.5 s/query).
-2. Which answer model — `gemini-2.5-flash`, `gemini-3.5-flash-lite`, `qwen-plus`.
-3. Whether EN and FA warrant divergent configurations (they are chunked differently: 503 vs 456 chunks).
-
-Secondary function: regression harness. Re-run after any change to chunking, retrieval, or prompts.
-
----
-
 ## Dataset
 
 `data/golden_dataset_with_chunks.xlsx` — 47 EN + 47 FA questions, hand-authored against the source Markdown.
