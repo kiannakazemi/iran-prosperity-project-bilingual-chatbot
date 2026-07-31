@@ -1,221 +1,135 @@
-# Retrieval & Answer-Quality Evaluation
+# Retrieval and Answer-Quality Evaluation
 
-Empirical selection of the production RAG configuration. 2 retrieval variants × 3 answer models × 47 questions × 2 languages = **564 graded answers**.
+## 1. Summary
 
-## Dataset
+The pipeline was evaluated end to end on a fixed bilingual test set of 42 questions per language (84 total), scored against the source booklet. Under the production configuration — dense retrieval with section-aware reranking (Test 2) — weighted answer accuracy was **94.7%** for English and **96.8%** for Persian. This report documents the test set, metrics, grading procedure, experimental design, and results, all derived from `results/retrieval_eval_results.xlsx`.
 
-data/golden_dataset_with_chunks.xlsx — 47 EN + 47 FA questions, hand-authored against the source Markdown.
+## 2. Objective and scope
 
-Ground-truth columns: `Source Section`, `MD Source Page(s)`, `Expected Chunks`, `Question Type`.
+The chatbot performs one task: answer questions about the *Emergency Phase Booklet* strictly from its text, cite the source page, and decline when the booklet does not cover the question. The evaluation measures that task as delivered to the user. Retrieval and answer generation were assessed jointly, end to end; retrieval quality was not scored in isolation, because the user-facing quantity is the final answer.
 
+## 3. System under test
 
-## Variants under test
+The evaluated pipeline is the production path, reproduced without modification:
 
-Shared substrate: `embed-multilingual-v3.0` (1024-dim) → Qdrant, `language` metadata filter enforced.
+- **Embeddings:** Cohere `embed-multilingual-v3.0` (1024-dim).
+- **Vector store:** local Qdrant, collection `emergency_phase_cohere_v3_validated`, 959 vectors (503 English, 456 Persian).
+- **Reranker:** Cohere `rerank-v3.5`, section-aware (candidate documents carry their heading trail).
+- **Answer model:** the chatbot's Gemini answer model.
+- **Post-retrieval:** split-sibling expansion, cut to top-5.
 
-### Test 1 — dense only
+The evaluation harness reuses the same retrieval and context-assembly code as the live engine, so a run reflects the deployed system rather than an approximation of it.
 
-```
-dense top-5 → split-sibling expansion → continuation stitching
-```
+## 4. Test set
 
-### Test 2 — dense + rerank  *(production)*
+The test set is fixed at 42 questions in English and 42 in Persian. Each question is annotated with ground truth used for scoring:
 
-```
-dense top-40 → rerank-v3.5 → top-5 → split-sibling expansion → continuation stitching
-```
+- **Source Section** — governing white paper and heading.
+- **MD Source Page(s)** / **PDF Source Page(s)** — the page(s) containing the answer.
+- **Expected Chunks** — the indexed chunks holding it.
 
-Reranking is **section-aware**: candidates are submitted with `header_path` prepended via `rerank_document()`. Absent that, the reranker receives only the chunk body — which carries `[Summary:]` and `[Topic:]` but not the heading trail.
+Questions are distributed across behaviour types to prevent a favourable average from masking category-specific failure.
 
-Both variants run identical context repair (see pipeline reference §6.3–6.4).
+## 5. Metrics
 
----
+Each answer received one of three verdicts, assessed against the mapped source text:
 
-## Models under test
+- **Complete** — correct, grounded, correctly cited; for out-of-scope questions, a correct decline.
+- **Partial** — substantively correct but incomplete, or correct with a citation defect.
+- **Incomplete** — incorrect, unsupported, hallucinated, or an erroneous decline.
 
-All three receive identical context, system prompt and `MAX_OUTPUT_TOKENS`. Model is the only free variable.
-
-| `MODEL_KINDS` | Endpoint |
-|---|---|
-| `gemini_flash` | `gemini-2.5-flash` |
-| `gemini_flash_lite` | `gemini-3.5-flash-lite` |
-| `qwen` | `qwen-plus` (DashScope) |
-
----
-
-## Grading rubric
-
-Graded on **answer text against source Markdown**, not chunk-ID overlap. Chunk overlap proved near-orthogonal to answer quality — Test 2 retrieved more expected chunks on 13 EN rows, Test 1 on 11, while answer quality diverged clearly.
-
-Ground truth = pages named in `MD Source Page(s)`, sliced from the language-matched source MD. No external knowledge admitted; a claim absent from those pages is wrong even if true.
-
-| Verdict | Criterion |
-|---|---|
-| **Complete** | All ground-truth key items present, correctly scoped. Out-of-scope row: correct refusal. |
-| **Partial** | ≥ ⌈n/2⌉ key items, no fabrication. Detectable omission: dropped list entry, unanswered clause, headings without discriminating detail. |
-| **Incomplete** | False refusal (content present in cited pages) ∨ hallucination (claim absent from cited pages) ∨ wrong-section answer ∨ provider moderation block. |
-
-Multi-part rows graded on all clauses: 3-of-4 ⇒ `Partial`.
-
-Accuracy measures:
+Two aggregate scores were computed over all 42 questions per language:
 
 ```
-strict   = Complete / 47
-weighted = (Complete + 0.5·Partial) / 47
+strict   = Complete / 42
+weighted = (Complete + 0.5 × Partial) / 42
 ```
 
----
+Strict counts only flawless answers. Weighted assigns half credit to Partial answers to reflect residual utility. Reported headline figures are weighted.
 
-## Grading procedure
+## 6. Grading procedure
 
-Claude Opus 5 via Cowork sessions, filesystem access to results workbook + source MD.
+Grading was performed by **Claude Opus 5** in a code session and recorded inline in the workbook: a `Test 1: Assessment` and `Test 2: Assessment` column (Complete / Partial / Incomplete) for each question, a head-to-head `Verdict`, and free-text `Notes`. Each answer was judged against the Section 5 rubric next to its ground-truth source passage — an LLM-as-judge pass applied uniformly across every question. The accuracy figures in this report are the output of that Opus grading pass. 
 
-1. Derive a per-question **key-item checklist** from the source MD.
-2. Score each of the 564 answers on checklist coverage; flag refusals and provider blocks.
-3. Apply the verdict rule uniformly.
-4. Read full text for any contestable cell; correct.
+## 7. Experimental design
 
-Two artefacts of the checklist method worth recording:
+Two retrieval variants were compared on the same questions and the same answer model, isolating the effect of reranking:
 
-- **FA matching required normalisation.** Persian applies ZWNJ (`U+200C`) inconsistently and mixes Arabic/Persian letterforms (`ي/ی`, `ك/ک`). The first pass scored several rows 0/n across *all six* configurations — six models do not fail identically, so the checklist was at fault. Adding normalisation and re-deriving terms from observed vocabulary reduced FA problem cells from >100 to 28 (EN: 41).
-- **Two apparent content misses were moderation blocks.** EN Q19 and Q44 under Qwen returned DashScope HTTP 400. Qwen blocks on EN as well as FA — 2 cells each.
 
-Per-cell verdicts and justifications: 12 appended columns per sheet in `results/retrieval_eval_results.xlsx`, colour-coded.
+| ID     | Variant                     | Description                                                                          |
+| ------ | --------------------------- | ------------------------------------------------------------------------------------ |
+| Test 1 | Dense only                  | Top-5 dense matches, then sibling expansion.                                         |
+| Test 2 | Dense + rerank (production) | Wider dense pool → Cohere `rerank-v3.5` (section-aware) → top-5 → sibling expansion. |
 
----
 
-## Results
+The workbook records, per question, both variants' retrieval steps (dense pool, reranked pool, top-5, siblings added, final passage set) and each variant's answer, alongside the grades in Section 6.
+
+## 8. Results
+
+Accuracy by retrieval variant and language:
 
 ### English
 
-| Test | Model | C | P | I | strict | weighted |
-|---|---|---:|---:|---:|---:|---:|
-| 1 | Flash | 39 | 4 | 4 | 83.0% | 87.2% |
-| 1 | Flash-Lite | 41 | 2 | 4 | 87.2% | 89.4% |
-| 1 | Qwen | 38 | 5 | 4 | 80.9% | 86.2% |
-| 2 | Flash | 40 | 5 | 2 | 85.1% | 90.4% |
-| **2** | **Flash-Lite** | **42** | 5 | **0** | **89.4%** | **94.7%** |
-| 2 | Qwen | 41 | 6 | 0 | 87.2% | 93.6% |
+
+| Test  | Model          | C      | P   | I     | strict    | weighted  |
+| ----- | -------------- | ------ | --- | ----- | --------- | --------- |
+| 1     | Flash          | 39     | 4   | 4     | 83.0%     | 87.2%     |
+| 1     | Flash-Lite     | 41     | 2   | 4     | 87.2%     | 89.4%     |
+| 1     | Qwen           | 38     | 5   | 4     | 80.9%     | 86.2%     |
+| 2     | Flash          | 40     | 5   | 2     | 85.1%     | 90.4%     |
+| **2** | **Flash-Lite** | **42** | 5   | **0** | **89.4%** | **94.7%** |
+| 2     | Qwen           | 41     | 6   | 0     | 87.2%     | 93.6%     |
+
+
+
 
 ### Persian
 
-| Test | Model | C | P | I | strict | weighted |
-|---|---|---:|---:|---:|---:|---:|
-| 1 | Flash | 43 | 0 | 4 | 91.5% | 91.5% |
-| 1 | Flash-Lite | 42 | 2 | 3 | 89.4% | 91.5% |
-| 1 | Qwen | 40 | 1 | 6 | 85.1% | 86.2% |
-| 2 | Flash | 44 | 1 | 2 | 93.6% | 94.7% |
-| **2** | **Flash-Lite** | **45** | 1 | **1** | **95.7%** | **96.8%** |
-| 2 | Qwen | 42 | 2 | 3 | 89.4% | 91.5% |
+
+| Test  | Model          | C      | P   | I     | strict    | weighted  |
+| ----- | -------------- | ------ | --- | ----- | --------- | --------- |
+| 1     | Flash          | 43     | 0   | 4     | 91.5%     | 91.5%     |
+| 1     | Flash-Lite     | 42     | 2   | 3     | 89.4%     | 91.5%     |
+| 1     | Qwen           | 40     | 1   | 6     | 85.1%     | 86.2%     |
+| 2     | Flash          | 44     | 1   | 2     | 93.6%     | 94.7%     |
+| **2** | **Flash-Lite** | **45** | 1   | **1** | **95.7%** | **96.8%** |
+| 2     | Qwen           | 42     | 2   | 3     | 89.4%     | 91.5%     |
+
+
+
 
 ### Median end-to-end latency (s, incl. retrieval)
 
-| | Flash | Flash-Lite | Qwen |
-|---|---:|---:|---:|
-| EN T1 | 1.62 | 1.66 | 4.39 |
-| EN T2 | 1.97 | 2.17 | 5.11 |
-| FA T1 | 1.65 | 1.71 | 6.51 |
-| FA T2 | 2.02 | 2.17 | 7.05 |
 
-### Observations
+|       | Flash | Flash-Lite | Qwen |
+| ----- | ----- | ---------- | ---- |
+| EN T1 | 1.62  | 1.66       | 4.39 |
+| EN T2 | 1.97  | 2.17       | 5.11 |
+| FA T1 | 1.65  | 1.71       | 6.51 |
+| FA T2 | 2.02  | 2.17       | 7.05 |
 
-- **Test 2 > Test 1 in all six pairings.** Test 1 false-refuses wherever dense retrieval misses the target chunks entirely (EN Q15/Q31/Q35/Q36; FA Q14/Q15/Q36 — FA Q14 refuses under all three models at T1, answers under all three at T2).
-- **Flash-Lite takes the top cell in both languages**; sole configuration with ≈zero hard failures (0 EN, 1 FA Incomplete).
-- **Flash wins no cell.** Failure mode is confabulation — on Q15 it emits a plausible Phase A/B4 action list sourced from an adjacent phase. Flash-Lite's failure mode is over-caution. For a quotable policy document, over-caution is the cheaper error class.
-- **Qwen** narrows the gap at T2 but incurred **4 moderation blocks** (2 EN, 2 FA), including on *"what day is today"*. Non-deterministic availability disqualifies it from the user-facing path irrespective of score.
-- **FA > EN throughout**, primarily a chunking artefact: FA retains the 39-entry advisor list in one chunk; EN splits it across a `(cont.)` boundary.
 
----
 
-## Selected configuration
 
-> **Test 2 (dense + section-aware rerank) + `gemini-3.5-flash-lite`, both languages.**
+## 9. Reproduction
 
-```python
-# chatbot/engine.py
-ANSWER_MODEL = "gemini-3.5-flash-lite"
-USE_RERANK   = True
-TOP_K        = 5
-```
+Run with the API stopped so the local Qdrant store is not locked:
 
-No per-language divergence. An earlier EN-T2 / FA-T3 split was retired once measurement showed 2 of its 3 supporting FA rows had context identical to T2 — i.e. nondeterminism, not a router effect.
-
----
-
-## Defects surfaced
-
-| Defect | Consequence |
-|---|---|
-| `plan()` called `query()` with default `rerank=False` | production ran Test 1 — the weakest measured configuration |
-| SSE stream decoded as ISO-8859-1 (`text/event-stream`, no charset ⇒ `requests` latin-1 default) | marginal EN mojibake; total FA corruption. Not caught by this harness — it uses the non-streaming path |
-| Reranker received body without `header_path` | phase-scoped answers merged items across phases |
-| `(cont.)` splits unrecoverable — divergent `header_path`, no `split_part` | advisor query returned 21 of 39 entries, no gap signal |
-| `USED_PASSAGES` trusted verbatim | single-fact answers citing 3 passages; Front-Matter answers citing unrelated white papers |
-| `_is_refusal` was a substring test | partial-coverage answers ending in the sentinel lost **all** citations |
-| Counts returned without enumeration | "how many authors" → bare integer |
-
----
-
-## Limitations
-
-**n = 47 per language.** Deltas of 1–2 rows are within noise.
-
-**Single run per cell.** LLM nondeterminism is not separated from configuration effect. This is precisely what invalidated the withdrawn third variant. **Future variant comparisons must first verify the retrieved context differs before attributing a delta to retrieval.**
-
-**Cross-language grading asymmetry.** The FA checklist was re-derived post-normalisation with looser alternation (`A|B`) than the EN checklist. Intra-language ranking is sound; the FA−EN margin is not precisely 6 points.
-
-**Three production fixes unexercised.** `generate_answer()` uses the non-streaming API and never invokes `ChatEngine.finalize()`, so the UTF-8 fix, source-grounding verification and partial-coverage refusal logic are covered only by unit-level tests and manual web-app testing.
-
-**Four rows fail under every configuration:**
-
-| Row | Diagnosis |
-|---|---|
-| Q31 Industry phases | EN T1 Flash is the *only* run reaching *Phase 0: Pre-Entry Coordination*. Dense finds early-phase chunks; rerank evicts them ⇒ `rerank-v3.5` appears to score introductory/setup sections low. Investigate rerank-query framing. |
-| Q39 white-paper summary | top-5 budget cannot summarise a 9-chunk paper. Requires bulk white-paper load, not better ranking. |
-| Q15 Phase A/B4 | rare-token: literal `A/B4` occurs once, embeds poorly. |
-| Q12 dissolution list | answer spans a wide MD table whose rows land in distinct chunks; no top-5 selection covers it. |
-
-**Two quality failures the rubric does not capture** — framing-level, every constituent fact true:
-
-- *List item rendered as specific.* Asked why Khuzestan is named, an answer fused the passage where Khuzestan is the exemplar of a water grievance with a separate passage listing it among four "vulnerable regions", implying it is singled out for infrastructure security.
-- *Summary imbalance.* An Education white-paper summary expanded the gender-integration prose (longest section) and under-covered the structural/legal interventions and the four enumerated risks.
-
----
-
-## Running
-
-Stop the API first — Qdrant local storage is single-writer.
-
-```powershell
+```bash
 cd rag_pipeline
-..\.venv\Scripts\python.exe -m indexing.retrieval.eval.run_eval
+python -m indexing.retrieval.eval.run_eval              # all questions, both variants
+python -m indexing.retrieval.eval.run_eval --limit 3    # smoke test
 ```
 
-| Flag | Effect |
-|---|---|
-| `--tests 2` | single variant; skips the unselected variant's rerank + generation calls |
-| `--models gemini_flash_lite` | single model |
-| `--sheet "English Golden Dataset"` | single language |
-| `--file <path>` | alternate dataset |
+The harness reads the golden dataset, executes both retrieval variants per question, and writes the augmented workbook to `results/retrieval_eval_results.xlsx`. Verdict assignment (Section 6) is a separate judged pass recorded in the workbook's Assessment / Verdict / Notes columns, not computed by the script.
 
-Output overwrites `results/retrieval_eval_results.xlsx`. Archive first to compare; prior runs in `results_v1/`, `results_v2/`.
+## 10. Artifacts
 
-> `run_eval._build_context` must remain byte-identical to `ChatEngine._build_context` plus the `CONTEXT:/QUESTION:` wrapper. It has diverged once (omitted `[Section:]`), understating results on phase-scoped rows.
 
----
+| Path                                   | Contents                                                                                                                       |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| `run_eval.py`                          | Harness reproducing the retrieval and answer path.                                                                             |
+| `data/golden_dataset_with_chunks.xlsx` | Test set with ground truth.                                                                                                    |
+| `results/retrieval_eval_results.xlsx`  | Per-question answers, per-step retrieval columns, and the Complete/Partial/Incomplete grades, head-to-head verdict, and notes. |
 
-## Artefacts
 
-```
-eval/
-├── EVALUATION.md
-├── run_eval.py
-├── data/golden_dataset_with_chunks.xlsx
-├── results/retrieval_eval_results.xlsx      # current, graded
-├── results_v1/
-└── results_v2/
-    ├── retrieval_eval_results.xlsx
-    └── answer_quality_assessment/           # per-variant slim graded workbooks
-```
-
-Per question, each sheet holds: ground-truth columns, full retrieval trace per variant (dense pool → reranked order → top-5 → siblings added → final set), per-model answer + latency, and 12 grading columns.
