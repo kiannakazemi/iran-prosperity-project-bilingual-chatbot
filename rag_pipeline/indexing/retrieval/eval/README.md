@@ -8,7 +8,6 @@ data/golden_dataset_with_chunks.xlsx — 47 EN + 47 FA questions, hand-authored 
 
 Ground-truth columns: `Source Section`, `MD Source Page(s)`, `Expected Chunks`, `Question Type`.
 
----
 
 ## Variants under test
 
