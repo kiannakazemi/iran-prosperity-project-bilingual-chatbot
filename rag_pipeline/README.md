@@ -1,384 +1,215 @@
-# RAG Pipeline — Technical Reference
+# RAG Pipeline
 
 Bilingual (EN/FA) retrieval-augmented generation over the IPP *Emergency Phase Booklet*: 178 pages, Front Matter + 14 white papers, two parallel language editions.
 
-Corpus: **503 EN + 456 FA validated chunks → 959 vectors**, Cohere `embed-multilingual-v3.0` (1024-dim), local Qdrant.
-
----
-
-## Contents
-
-- [RAG Pipeline — Technical Reference](#rag-pipeline--technical-reference)
-  - [Contents](#contents)
-  - [Stage graph](#stage-graph)
-  - [Directory map](#directory-map)
-  - [Setup](#setup)
-  - [Stage 1 — PDF → Markdown](#stage-1--pdf--markdown)
-  - [Stage 2 — Chunking](#stage-2--chunking)
-    - [Chunk metadata schema](#chunk-metadata-schema)
-  - [Stage 3 — Per-white-paper split](#stage-3--per-white-paper-split)
-  - [Stage 4 — Agentic validation](#stage-4--agentic-validation)
-  - [Stage 5 — Embedding + vector store](#stage-5--embedding--vector-store)
-  - [Stage 6 — Retrieval](#stage-6--retrieval)
-    - [6.1 Dense search](#61-dense-search)
-    - [6.2 Rerank (section-aware)](#62-rerank-section-aware)
-    - [6.3 Split-sibling expansion](#63-split-sibling-expansion)
-    - [6.4 Section-continuation stitching](#64-section-continuation-stitching)
-    - [6.5 Parked](#65-parked)
-  - [Stage 7 — Chat engine](#stage-7--chat-engine)
-    - [Language detection](#language-detection)
-    - [Context format](#context-format)
-    - [System prompt](#system-prompt)
-    - [Source resolution](#source-resolution)
-    - [Models](#models)
-  - [Stage 8 — API](#stage-8--api)
-  - [Configuration](#configuration)
-  - [Rebuild](#rebuild)
-
----
-
-## Stage graph
-
-<img width="1880" height="430" alt="pipeline" src="https://github.com/user-attachments/assets/c3f650df-78a0-4d28-a100-afea6556182b" />
-
----
-
-## Directory map
+## Layout
 
 ```
 rag_pipeline/
-├── document_preprocessing/
-│   ├── marker_pdf_to_json_and_md.py        # stage 1
-│   ├── iran_prosperity_project_pdf/
-│   └── iran_prosperity_project_md/         # *.md + *.json + *_meta.json
+├── document_preprocessing/     # 1. PDF → paginated Markdown + JSON (Marker)
 ├── indexing/
-│   ├── chunking/
-│   │   ├── chunking.py                     # stage 2
-│   │   ├── organize_by_white_paper.py      # stage 3
-│   │   ├── AGENTIC_VALIDATION_README.md    # stage 4 protocol
-│   │   ├── chunks_raw/<lang>/
-│   │   ├── by_white_paper/{md,chunks}/
-│   │   └── by_white_paper_validated/
-│   │       ├── chunks/<lang>/<NN_slug>/chunk_*.txt
-│   │       └── validation_changelog.xlsx
-│   ├── embedding/
-│   │   ├── cohere_embed.py                 # BaseEmbedding adapter
-│   │   ├── embed_and_store.py              # stage 5
-│   │   └── qdrant_db/
-│   └── retrieval/
-│       ├── pipeline.py                     # stage 6 — ReliableRetriever
-│       ├── cohere_rerank.py                # rerank-v3.5 adapter
-│       ├── __init__.py                     # public re-exports
-│       └── eval/                           # EVALUATION.md, run_eval.py
-├── chatbot/
-│   ├── engine.py                           # stage 7 — ChatEngine
-│   └── cli.py                              # terminal client
-└── api/
-    ├── main.py                             # stage 8 — FastAPI
-    ├── database.py                         # SQLite history (stdlib only)
-    └── chat_history.db                     # created at runtime
+│   ├── chunking/               # 2. Markdown → chunks   3. group by white paper   4. agentic validation
+│   ├── embedding/              # 5. embed chunks → local Qdrant index
+│   └── retrieval/              # 6. dense search + section-aware rerank + expansion
+│       └── eval/               #    retrieval/answer evaluation (see eval/README.md)
+├── chatbot/                    # 7. answer generation (engine) + CLI
+└── api/                        # 8. FastAPI serving + SQLite chat history
+```
+
+Stages 1–5 are **build-time** (run once to produce the index, which ships in the repo). Stages 6–8 are **serve-time** (run on every question).
+
+## Pipeline at a glance
+
+```
+PDF ─▶ Markdown ─▶ chunks ─▶ grouped ─▶ validated ─▶ embeddings ─▶ Qdrant
+                                                                      │
+question ─▶ language detect ─▶ dense search ─▶ rerank ─▶ expand ─▶ context ─▶ Gemini ─▶ answer + sources
 ```
 
 ---
 
-## Setup
 
-```powershell
-# from project root
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -U pip wheel
-pip install -r requirements.txt
+
+## 1. Document preprocessing
+
+`document_preprocessing/marker_pdf_to_json_and_md.py`
+
+Each language edition is a separate PDF. [Marker](https://github.com/VikParuchuri/marker) converts each to a structured JSON representation and a **paginated** Markdown file, where every page boundary is written as a `{N}----------` marker. Those markers are what later lets a chunk be traced back to a specific PDF page.
+
+```bash
+python document_preprocessing/marker_pdf_to_json_and_md.py
+# input:  document_preprocessing/iran_prosperity_project_pdf/
+# output: document_preprocessing/iran_prosperity_project_md/   (.md + .json + _meta.json)
 ```
 
-`.env` at project root, loaded via `dotenv.find_dotenv(usecwd=True)` so any CWD works:
+The English and Persian booklets produce parallel Markdown files that all downstream stages treat as the ground truth.
 
-| Key | Consumed by |
-|---|---|
-| `COHERE_API_KEY` | `cohere_embed.py`, `cohere_rerank.py` |
-| `GEMINI_API_KEY` | `engine.py` (generation + helpers) |
-| `QWEN_API_KEY` \| `DASHSCOPE_API_KEY` | `chunking.py` summaries, eval Qwen arm |
+## 2. Chunking
 
-Serving queries requires only `COHERE_API_KEY` + `GEMINI_API_KEY`.
+`indexing/chunking/chunking.py`
 
----
+Turns each Markdown file into retrieval-ready chunks, carrying the metadata retrieval and citation depend on. The steps, in order:
 
-## Stage 1 — PDF → Markdown
+1. **Clean.** Strip page-break markers and inline footnote lines, collapse blank runs — but first build a *page map* `(char offset → page number)` so page numbers survive the cleaning.
+2. **Parse.** LlamaIndex `MarkdownNodeParser` splits on the heading hierarchy, giving each node a `header_path`.
+3. **Assign white paper.** Each chunk is located in the source text and tagged with the white paper whose boundary it falls under. Boundaries are matched only against the 14 canonical topic titles (English and Persian lists), so stray headings can't create phantom sections. Everything before the first boundary is Front Matter.
+4. **Merge / split.** Consecutive small chunks from the same white paper merge until they clear the minimum; oversized chunks split on sentence boundaries with overlap. Split pieces are marked `split_part = N/M`.
+5. **Finalize.** Prepend `[Topic: <white paper>]` to the body and repair empty header paths.
+6. **Summarize.** An LLM writes a one-line *category* summary per chunk ("what type of content this is"), prepended as `[Summary: …]` so the embedding sees a topical signal in its first tokens.
+7. **Page numbers.** Using the page map, assign `page_start` / `page_end` from the chunk's actual final text.
+8. **Filter.** Drop stubs under 80 characters.
 
-`document_preprocessing/marker_pdf_to_json_and_md.py` — Marker conversion, emits paginated Markdown plus structured JSON.
+Size controls:
 
-Pagination markers are the load-bearing output:
+
+| Constant          | Value |
+| ----------------- | ----- |
+| `MIN_CHUNK_CHARS` | 300   |
+| `MAX_CHUNK_CHARS` | 1500  |
+| `OVERLAP_CHARS`   | 100   |
+
+
+Each chunk is written as a `.txt` file with a metadata header followed by the body. The metadata schema, in fixed order:
 
 ```
-{57}------------------------------------------------
+chunk_id, chunk_index, source_file, source_pdf, language,
+white_paper, header_path, page_start, page_end, split_part, summary
 ```
 
-Stage 2 consumes marker offsets to derive `page_start`/`page_end`. Do not strip them from committed Markdown.
+`chunk_id` is `"{lang}__{source_stem}__{index:05d}"` (e.g. `en__Emergency_Phase_ENGLISH_20260301_1440__00042`). Output lands in `chunking/chunks_raw/` (regenerable; git-ignored).
 
----
-
-## Stage 2 — Chunking
-
-`indexing/chunking/chunking.py` → `chunks_raw/<lang>/chunk_N.txt`
-
-Sequence:
-
-1. Strip pagination markers, retaining byte offsets for page attribution.
-2. `MarkdownNodeParser` split on `#`/`##`/`###`.
-3. Size normalisation — merge `< MIN_CHUNK_CHARS`, split `> MAX_CHUNK_CHARS` with `OVERLAP_CHARS`.
-4. Metadata attach (schema below).
-5. Categorical summary per chunk via Qwen-Plus, Gemini fallback on moderation refusal. Summaries state content *type* only (`"This chunk contains a priorities list."`) — no facts, names or figures, so they discriminate chunks without paraphrasing policy text.
-6. Prefix body with `[Summary: …]` + `[Topic: <white_paper>]` (contextual retrieval).
-
-### Chunk metadata schema
-
-| Key | Type | Role downstream |
-|---|---|---|
-| `chunk_id` | `str` | `<lang>__<source>__<NNNNN>`; sibling lookup key |
-| `language` | `en`\|`fa` | hard Qdrant filter |
-| `white_paper` | `str` | source display, header index key |
-| `header_path` | `str` | `/A/B/C/` heading trail — see note |
-| `page_start`, `page_end` | `int` | source display, ground-truth mapping |
-| `chunk_index` | `int` | document order; continuation adjacency |
-| `split_part` | `str` | `"2/3"` when split for size; sibling expansion |
-| `summary` | `str` | embedded signal |
-
----
-
-## Stage 3 — Per-white-paper split
+## 3. Organize by white paper
 
 `indexing/chunking/organize_by_white_paper.py`
 
-Regroups flat chunk output into 15 per-white-paper folders and slices each source MD into `00_front_matter.md … 14_educational_system.md`. Exists to bound Stage 4 context.
+Reshapes the flat output into `by_white_paper/`, with `md/<lang>/NN_slug.md` (the source Markdown sliced per white paper) beside `chunks/<lang>/NN_slug/` (the chunks grouped to match). Both languages use identical `NN_slug` names (`00_front_matter`, `01_legal`, …) so a white paper's two editions pair at a glance. This is the layout the validation step audits, one white paper at a time.
 
----
+## 4. Agentic validation
 
-## Stage 4 — Agentic validation
+`indexing/chunking/AGENTIC_VALIDATION_README.md` (workflow + exact prompts)
 
-Protocol: `indexing/chunking/AGENTIC_VALIDATION_README.md`. One Claude session per (white paper × language).
+The chunker is deterministic and fast but leaves structural defects an LLM reading the source can fix. Run once per `(language, white_paper)`, an agent audits every chunk against its source Markdown slice and:
 
-Corrects: malformed/empty `header_path`, summaries leaking specifics, OCR artefacts, table headers detached from rows. Diffs logged to `validation_changelog.xlsx`.
+- corrects and de-noises `header_path` (wrong/off-by-one section, stray `**`/bullet characters);
+- rewrites each `summary` into a consistent category-only form;
+- re-attaches column headers to table chunks that lost them in a split;
+- (Persian only) repairs recurring OCR artifacts — lam-alef letter swaps and missing ZWNJ in compounds.
 
-Invariant: **chunk body text is never paraphrased.** Sole permitted body mutation is prepending verbatim table column headers from the source MD.
+Hard constraint: **the chunk's policy content is never paraphrased or invented.** The only body edits allowed are prepending verbatim table headers and the bounded Persian OCR fixes. Every chunk is written to `by_white_paper_validated/chunks/<lang>/…` (modified or not), and each change is logged to `validation_changelog.xlsx`.
 
-Output `by_white_paper_validated/chunks/` is the indexing input. EN/FA chunk-count asymmetry (503/456) is structural — FA sections divide differently, producing larger chunks. Consequence: EN splits the 39-entry advisor list across a `(cont.)` boundary; FA does not.
+The validated folder is the single source of truth for embedding — **959 chunks** (503 English, 456 Persian).
 
----
+## 5. Embedding and indexing
 
-## Stage 5 — Embedding + vector store
+`indexing/embedding/cohere_embed.py` · `indexing/embedding/embed_and_store.py`
 
-`indexing/embedding/cohere_embed.py` — `BaseEmbedding` subclass wrapping `embed-multilingual-v3.0`, correct `input_type` for `search_document` vs `search_query`. Single multilingual model ⇒ shared EN/FA vector space.
+Each validated chunk is embedded with **Cohere** `embed-multilingual-v3.0` (1024-dim) and stored in a local **Qdrant** collection, `emergency_phase_cohere_v3_validated`. Documents are embedded with Cohere's `search_document` input type and queries later with `search_query`, so cosine similarity at query time is well-calibrated. The run ends with an English and a Persian sanity query.
 
-`indexing/embedding/embed_and_store.py`:
-
-```
-collection : emergency_phase_cohere_v3_validated
-vectors    : 959   (503 en + 456 fa)
-dim        : 1024
-path       : indexing/embedding/qdrant_db/
-```
-
-Terminates with EN + FA sanity queries printing top-3.
-
-> **Embedded text ≠ chunk body.** `TextNode` is constructed without `excluded_embed_metadata_keys`, so LlamaIndex's `MetadataMode.EMBED` prepends *all* metadata as `key: value` lines before embedding. Each vector therefore encodes `header_path`, `white_paper`, `summary`, `page_*` and `chunk_id` alongside the body. Dense search can consequently match on phase names. Any metadata schema change alters the embedding surface.
-
-> Qdrant local storage is single-writer. Stop the API before re-embedding or running the eval; `ReliableRetriever.__init__` retries lock acquisition 10× with backoff.
-
----
-
-## Stage 6 — Retrieval
-
-`indexing/retrieval/pipeline.py` — `ReliableRetriever`
-
-```python
-query(query_text, language, *, final_top_k=DENSE_TOP_K,
-      rerank=False, candidate_pool=RERANK_CANDIDATE_POOL) -> list[RetrievalResult]
+```bash
+python -m indexing.embedding.embed_and_store
+# reads: indexing/chunking/by_white_paper_validated/chunks/
+# writes: indexing/embedding/qdrant_db/   (ships in the repo — no need to re-embed)
 ```
 
-| Flags | Variant |
-|---|---|
-| defaults | Test 1 — dense only |
-| `rerank=True` | Test 2 — **production** |
+The built index is committed, so a fresh clone can answer questions immediately without paying to re-embed.
 
-### 6.1 Dense search
+## 6. Retrieval
 
-`dense_search(query, language, top_k)` — Qdrant `MetadataFilter(key="language", value=language)`. Cross-language retrieval is structurally impossible. `rerank=True` pulls `candidate_pool=40` instead of `top_k`.
+`indexing/retrieval/pipeline.py` · `indexing/retrieval/cohere_rerank.py`
 
-### 6.2 Rerank (section-aware)
+`ReliableRetriever.query()` is the serve-time entry point. Two variants share one code path:
 
-`rerank_pool(query, pool, top_n)` → `rerank-v3.5`, calibrated 0–1 relevance. Documents are built by `rerank_document(hit)`, not `hit.text`:
+- **Test 1 — dense only** (`rerank=False`): top dense matches, then expansion.
+- **Test 2 — dense + rerank** (`rerank=True`, production): a wider dense candidate pool is reranked by **Cohere** `rerank-v3.5` down to the final top-k, then expansion.
 
-```
-[Topic: HEALTHCARE]                                     # if absent from body
-[Section: HEALTHCARE SPECIFIC OPERATIONS > Phase 1 (Days 1‑30) > Key Priorities]
-[Summary: This chunk contains a priorities list.]
-<body>
-```
+The rerank is **section-aware**: each candidate is sent to Cohere with its `header_path` (and white paper) prepended, so the reranker can tell apart identically-named sections — the Healthcare paper repeats "Key Priorities" under every phase, and without the heading trail "priorities for the first 30 days" is a coin-flip between phases.
 
-Rationale: stored body carries `[Summary:]` and (outside Front Matter) `[Topic:]` but never `header_path`. Without the `[Section:]` line the reranker cannot separate `Key Priorities` under Phase 1 from the identically-headed list under Phase 2.
+Two expansion passes then repair fragmented context:
 
-### 6.3 Split-sibling expansion
+- **Split-sibling expansion** re-attaches adjacent `split_part` pieces of a section the chunker cut for size.
+- **Section-continuation stitching** rejoins a section the document continued across a page break with a "(cont.)" / "(ادامه)" heading, where the two halves share no linking metadata — the failure that once returned a half-complete advisor list.
 
-`_expand_split_siblings(results)` — for hits with `split_part = "k/n"`, reconstructs sibling `chunk_id`s by offset arithmetic (`chunk_index - k`), fetches parts within `MAX_SIBLINGS_PER_PARENT = 2`. Tags `source += "+sibling"`.
+Key constants:
 
-### 6.4 Section-continuation stitching
 
-`_expand_continuations(results, max_hops=MAX_CONTINUATION_HOPS)`
+| Constant                | Value | Meaning                           |
+| ----------------------- | ----- | --------------------------------- |
+| `DENSE_TOP_K`           | 15    | default dense hits                |
+| `RERANK_CANDIDATE_POOL` | 40    | dense pool sent to the reranker   |
+| `TOP_K` (engine)        | 5     | passages kept after rerank        |
+| `MAX_CONTINUATION_HOPS` | 3     | a section may span up to 4 chunks |
 
-Target defect: source continues a section across a page break with a `(cont.)` heading; the chunker cuts there and the halves share **no** linking metadata — divergent `header_path`, no `split_part`. Neither 6.3 (needs `split_part`) nor header-parent logic (needs shared parent) connects them.
 
-Rule, bidirectional, keyed on `CONTINUATION_RE` (`(cont.)` / `(ادامه)`), transitive to `max_hops=3`:
+An earlier third variant — an extra LLM call to route in "header siblings" — was evaluated and removed; it changed retrieval on only a handful of questions and added nothing section-aware reranking doesn't already recover. Its code is parked (unused) in `pipeline.py`. Full write-up in `[eval/README.md](indexing/retrieval/eval/README.md)`.
 
-- hit whose `header_path` matches → fetch `chunk_index - 1`
-- hit whose successor's `header_path` matches → fetch `chunk_index + 1`
+## 7. Answer generation
 
-Concrete case: EN advisors span `/AUTHORS (cont.)/` (Aghakouchak → Ardavan Khoshnood) and `/ADVISORS (cont.)/` (Arvin Khoshnood → Yassini). A query for advisors ranks the latter high, the former low ⇒ 21 of 39 entries returned with no gap signal. Tags `source += "+continuation"`.
+`chatbot/engine.py`
 
-### 6.5 Parked
+`ChatEngine` is the single source of truth for the answer path, exposed as three steps the CLI and API both call: `plan()` (blocking: detect → retrieve → build context), `stream_answer()` (stream tokens), and `finalize()` (clean up + resolve sources).
 
-`_expand_header_siblings` — LLM header-sibling router, evaluated and withdrawn (see `eval/EVALUATION.md` §variants). Retained under a `# ── PARKED` banner; no call sites. `_build_header_index()` still runs in `__init__` and is O(chunks).
+- **Language detection** compares Persian vs Latin character counts; a Persian question is always answered from Persian text, English from English.
+- **Greetings** are detected and answered without retrieval; a greeting *followed by* a real question keeps a short prefix and proceeds.
+- **Follow-ups** are rewritten into standalone search queries using recent history, so pronouns resolve before retrieval.
+- **Context** is built by numbering the retrieved passages and prefixing each with its source, page range, and `[Section: …]` heading trail — the trail is what makes phase-scoped questions answerable.
+- **Generation** streams from **Gemini 3.5 Flash-Lite** (`ANSWER_MODEL`), chosen by evaluation; short helper calls (titles, query rewrites) use `gemini-2.5-flash` (`GEMINI_MODEL`), and Qwen-plus is used for some build-time helper completions with a Gemini fallback on content-moderation refusals.
 
----
+The system prompt enforces the behaviour the assistant is graded on: answer only from context, decline with a fixed sentence when the answer isn't there, handle multi-part questions part by part, obey section scope, enumerate on counts, and emit a hidden `USED_PASSAGES:` line.
 
-## Stage 7 — Chat engine
+Because the model's `USED_PASSAGES` self-report tends to over-claim, `finalize()` treats it as a *candidate* list and verifies each passage against the answer text — a source is shown only if enough of its distinctive phrasing actually surfaces in the answer, so citations match what the reader just saw. Refusal answers show no sources.
 
-`chatbot/engine.py` — `ChatEngine`. Single answer path for CLI and API.
+Two robustness details worth knowing: the streaming call pins `resp.encoding = "utf-8"` (Gemini sends `text/event-stream` with no charset, which would otherwise be decoded as Latin-1 and mangle all Persian), and Gemini 3.x rejects the `thinkingConfig` block, so both call paths retry without it on a 400.
 
-| Method | Contract |
-|---|---|
-| `plan(question, history_text="") -> StreamPlan` | blocking; language detect → history rewrite → retrieve → context build |
-| `stream_answer(plan, provider_out=None) -> Generator[str]` | token stream |
-| `finalize(full_text, plan) -> (clean_text, sources)` | strip markers, resolve citations |
+Answer length caps: `MAX_OUTPUT_TOKENS` = 1536 (English), 2048 (Persian).
 
-`StreamPlan.kind ∈ {greeting, lowconf, answer}`.
+`chatbot/cli.py` — an interactive terminal client for the same engine:
 
-### Language detection
-
-`PERSIAN_RE` script match → `fa`, else `en`. Selects system prompt, Qdrant filter, and `MAX_OUTPUT_TOKENS` (1536 EN / 2048 FA — FA needs more tokens per unit content).
-
-### Context format
-
-```
-[Passage 1 — Source: HEALTHCARE, p.167]
-[Section: HEALTHCARE SPECIFIC OPERATIONS > Phase 1 (Days 1‑30) > Key Priorities]
-[Summary: …]
-[Topic: …]
-<body>
-
----
-
-[Passage 2 — …]
+```bash
+python -m chatbot.cli
 ```
 
-Wrapped as `CONTEXT:\n…\n\nQUESTION:\n…`. `run_eval._build_context` must mirror this exactly or the eval measures a different pipeline.
 
-### System prompt
 
-Nine numbered rules per language, plus a static `DOCUMENT IDENTITY` block:
+## 8. Serving
 
-| # | Rule |
-|---|---|
-| 1 | Answer only from CONTEXT; else emit the exact refusal sentinel |
-| 2 | Project questions — treat `DOCUMENT IDENTITY` as valid context for whole-document queries |
-| 3 | Partial coverage — answer covered parts, explicitly name the uncovered part |
-| 4 | No inline `Passage N` references in body |
-| 5 | No visible reasoning or self-correction |
-| 6 | Section scope — for phase/day-range queries use only passages whose `[Section:]` matches |
-| 7 | Counts — emit number **and** enumerate items |
-| 8 | Complete every list; no mid-item truncation |
-| 9 | Answer in the query language |
+`api/main.py` · `api/database.py`
 
-`DOCUMENT IDENTITY` supplies producer, backer, Project Director, NUFDI President/CEO, foreword contributor, contributor counts and the 15-paper list, so whole-document questions do not depend on Front Matter being retrieved.
+A FastAPI app loads one `ChatEngine` at startup and streams answers over **Server-Sent Events**. `POST /api/chat` emits `token` events as the answer streams, an optional `replace` (the cleaned text with `USED_PASSAGES` stripped), a `sources` event, and a final `done`. Retrieval runs in a thread pool with a timeout so the event loop is never blocked. Conversation CRUD, a title generator, and a health check round out the API; chat history persists in a local SQLite database (`chat_history.db`, git-ignored).
 
-Hidden trailer `USED_PASSAGES: 1, 3` is parsed by `_extract_used_passages` (tolerates Western/Arabic-Indic/Persian digits) and stripped.
-
-### Source resolution
-
-`USED_PASSAGES` is a *candidate set*, not ground truth — the model over-reports (single-fact answers claiming 3 passages). `_grounded_passage_idxs(answer, sources, lang)` verifies each candidate:
-
-- primary signal: shared adjacent content-token pairs (`_phrases`), threshold `_MIN_SHARED_PHRASES = 2`
-- fallback: distinctive unigram overlap, `doc_freq <= ceil(n/2)`, threshold `_MIN_FALLBACK_TERMS = 2`
-- final fallback: top-1 by score, so a substantive answer never renders zero sources
-
-Unigram-only matching was rejected: an answer enumerating the booklet's topics contains "cybersecurity", which would wrongly credit that white paper. Persian is normalised for ZWNJ (`U+200C`) before tokenisation.
-
-`_is_refusal` requires the answer be *nothing but* a refusal — sentinel sentences are removed and the remainder tested for list markers / length ≥ `_REFUSAL_REMAINDER_CHARS`. A partial-coverage answer terminating in the sentinel retains citations for the answered half.
-
-### Models
-
-| Constant | Value | Use |
-|---|---|---|
-| `ANSWER_MODEL` | `gemini-3.5-flash-lite` | user-facing generation |
-| `GEMINI_MODEL` | `gemini-2.5-flash` | helper completions (titles, pronoun rewrites) |
-| `QWEN_MODEL` | `qwen-plus` | Stage 2 summaries |
-
-Plain REST, no vendor SDK. Gemini 3.x rejects `thinkingConfig`; both `_gemini_generate` and `_gemini_generate_stream` retry without it on HTTP 400.
-
-> **SSE charset.** Gemini's stream endpoint returns `text/event-stream` with no charset. Per RFC, `requests` defaults `text/*` to ISO-8859-1, decoding UTF-8 as latin-1 — marginal in EN, total corruption in FA. `_gemini_generate_stream` pins `resp.encoding = "utf-8"` before `iter_lines`. Do not remove.
-
----
-
-## Stage 8 — API
-
-`api/main.py`, `api/database.py`
-
-```powershell
-cd rag_pipeline
-..\.venv\Scripts\python.exe -m api.main     # or: uvicorn api.main:app --reload
+```bash
+python -m api.main          # or: uvicorn api.main:app --reload
 ```
 
-Engine constructed once in the `lifespan` handler (embedding model + Qdrant + chunk store load ≈ seconds).
+Endpoints: `POST /api/chat`, `POST /api/conversations`, `GET /api/conversations[/{id}]`, `PATCH`/`DELETE /api/conversations/{id}`, `POST /api/generate-title`, `GET /api/health`.
 
-| Method | Path | Notes |
-|---|---|---|
-| POST | `/api/chat` | SSE stream |
-| POST | `/api/conversations` | create |
-| GET | `/api/conversations` | list (sidebar) |
-| GET | `/api/conversations/{id}` | full history |
-| DELETE | `/api/conversations/{id}` | delete |
-| POST | `/api/generate-title` | auto-title from first exchange |
-| GET | `/api/health` | status + active provider |
+## Evaluation
 
-SSE event sequence: `token*` → `replace?` (if `finalize` altered the text) → `sources` → `done`. All payloads `json.dumps(..., ensure_ascii=False)`.
-
-`database.py` — `sqlite3` stdlib, `chat_history.db`, tables `conversations` / `messages`. No driver dependency.
-
-CORS is unrestricted for local dev. **Restrict `allow_origins` before deployment.**
-
----
+Retrieval and answer quality are measured end to end on a fixed bilingual question set, comparing the two retrieval variants and the answer models. Method, metrics, and results: `[indexing/retrieval/eval/README.md](indexing/retrieval/eval/README.md)`.
 
 ## Configuration
 
-| Constant | Value | File |
-|---|---|---|
-| `MIN_CHUNK_CHARS` | 300 | `chunking/chunking.py` |
-| `MAX_CHUNK_CHARS` | 1500 | `chunking/chunking.py` |
-| `OVERLAP_CHARS` | 100 | `chunking/chunking.py` |
-| `COLLECTION_NAME` | `emergency_phase_cohere_v3_validated` | `retrieval/pipeline.py` |
-| `DENSE_TOP_K` | 15 | `retrieval/pipeline.py` |
-| `RERANK_CANDIDATE_POOL` | 40 | `retrieval/pipeline.py` |
-| `MAX_SIBLINGS_PER_PARENT` | 2 | `retrieval/pipeline.py` |
-| `MAX_CONTINUATION_HOPS` | 3 | `retrieval/pipeline.py` |
-| `TOP_K` | 5 | `chatbot/engine.py` |
-| `USE_RERANK` | `True` | `chatbot/engine.py` |
-| `ANSWER_MODEL` | `gemini-3.5-flash-lite` | `chatbot/engine.py` |
-| `MAX_OUTPUT_TOKENS` | `{en: 1536, fa: 2048}` | `chatbot/engine.py` |
+Keys are read from the project-root `.env` (see `.env.example`):
 
-Mutating any Stage 2 constant invalidates the index — re-run Stages 2–5.
 
----
+| Variable                             | Used for                        | Required |
+| ------------------------------------ | ------------------------------- | -------- |
+| `COHERE_API_KEY`                     | embeddings + reranking          | yes      |
+| `GEMINI_API_KEY`                     | answer generation + helpers     | yes      |
+| `QWEN_API_KEY` / `DASHSCOPE_API_KEY` | build-time chunk summaries only | no       |
 
-## Rebuild
 
-```powershell
-python -m document_preprocessing.marker_pdf_to_json_and_md   # 1 (needs marker-pdf)
-python indexing/chunking/chunking.py                         # 2
-python indexing/chunking/organize_by_white_paper.py          # 3
-#                                                              4 — manual, see protocol
-python -m indexing.embedding.embed_and_store                 # 5
-python -m indexing.retrieval.eval.run_eval                   # re-measure
+
+
+## Rebuilding from scratch
+
+The index ships in the repo, so this is only needed if the source or chunking changes. Run from `rag_pipeline/`, with the API stopped so Qdrant is not locked:
+
+```bash
+python document_preprocessing/marker_pdf_to_json_and_md.py   # 1. PDF → Markdown
+python indexing/chunking/chunking.py                          # 2. Markdown → chunks
+python -m indexing.chunking.organize_by_white_paper           # 3. group by white paper
+#                                                               4. agentic validation (see its README)
+python -m indexing.embedding.embed_and_store                  # 5. embed → Qdrant
 ```
 
-Stage 4 is intentionally not automated: it catches OCR damage, leaked summaries and detached table headers — defects that degrade retrieval silently and are hardest to detect downstream.
-
-Quality methodology and current numbers: [`indexing/retrieval/eval/README.md`](indexing/retrieval/eval/README.md).
+Then serve with `python -m api.main` (or query directly with `python -m chatbot.cli`).
