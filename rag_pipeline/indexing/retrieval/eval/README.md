@@ -8,16 +8,6 @@ data/golden_dataset_with_chunks.xlsx — 47 EN + 47 FA questions, hand-authored 
 
 Ground-truth columns: `Source Section`, `MD Source Page(s)`, `Expected Chunks`, `Question Type`.
 
-### Behavioural sub-types
-
-**Out-of-scope (8).** Unanswerable by construction (Iran's GDP, today's date, arrest counts). Correct response is the refusal sentinel. Measures hallucination rate on unanswerable input.
-
-**Partial coverage (2).** One answerable clause + one unanswerable clause, e.g. *"TECU responsibilities, and how many personnel are assigned?"* — responsibilities are in-document, headcount is not. `Complete` requires both answering the covered clause **and** explicitly naming the uncovered one. Silent omission fails: the user cannot detect partial service.
-
-**False premise (≥1 per language).** EN Q35 asserts that *enforcing* Iranian Medical Council price controls reduces cost; the source recommends *halting* enforcement. `Complete` requires premise correction. Refusal fails — the content exists and the user leaves misinformed.
-
-> FA Q35 uses «توقف» (halting), matching the source, so no false premise exists in the FA phrasing. That row is not cross-language comparable.
-
 ---
 
 ## Variants under test
