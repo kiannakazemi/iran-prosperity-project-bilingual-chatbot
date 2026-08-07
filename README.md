@@ -196,8 +196,4 @@ Two different things live in this repository, and they have different owners.
 
 **The chatbot** — the retrieval pipeline, evaluation harness, API and web interface — was designed and built by our team, and is released under the PolyForm Noncommercial License 1.0.0. It is free of charge for personal use; for any other use, please contact kianna.kazemi99@gmail.com.
 
----
 
-<div align="center">
-  <img src="web_app/public/images/NUFDI-logo.png" alt="NUFDI" height="42">
-</div>
