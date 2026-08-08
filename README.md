@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="web_app/public/images/ipp-azadi-tower-logo.png" alt="Iran Prosperity Project" height="76">
-
   <h1>Iran Prosperity Project — Bilingual RAG Chatbot </h1>
 
   <p><strong>Ask questions about the Emergency Phase Booklet in English or Persian.<br>
