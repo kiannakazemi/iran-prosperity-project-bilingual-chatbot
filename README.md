@@ -164,7 +164,7 @@ Both required services offer free tiers that comfortably cover local use. `.env`
 - **Real-world user testing.** Every figure here comes from a fixed 47-question set, not live traffic. Actual phrasing will differ, and this is the biggest open question about real quality.
 - **Improve Persian answer quality further**, using feedback from real Persian-speaking users rather than a curated test set.
 - **Better whole-document summarisation** via a bulk white-paper load path rather than top-5 retrieval.
-- * **Help authors detect inconsistencies** across white papers, including conflicting assumptions, recommendations, timelines, or dependencies.
+- **Help authors detect inconsistencies** across white papers, including conflicting assumptions, recommendations, timelines, or dependencies.
 
   
 ## Contributing
